@@ -1,0 +1,1001 @@
+id,ders_tderslerid,ogrenci_tkullanicilarid,vize,final,harf,DersID,bolum_tbolumlerid,adi_x,teori,uygulama,akts,KullaniciID,adi_y,soyadi,eposta,ceptel,dogumtarihi,dogumyeri_tilcelerid,cinsiyet,tckimlikno,kangrubu_tkangruplariid
+1,50,8875,38.0,7.0,,50,107,Türk Dili,4,0,4,8875,Merve,BİÇİMVEREN,merve.biçimveren 66@gmail.com,5597320775,1992-04-28,50,False,17083078425,0
+2,102,8875,79.0,38.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8875,Merve,BİÇİMVEREN,merve.biçimveren 66@gmail.com,5597320775,1992-04-28,50,False,17083078425,0
+3,154,8875,88.0,17.0,,154,107,İngilizce,4,0,4,8875,Merve,BİÇİMVEREN,merve.biçimveren 66@gmail.com,5597320775,1992-04-28,50,False,17083078425,0
+4,59,7857,25.0,83.0,,59,185,Türk Dili,4,0,4,7857,Yunus Emre,DEMİREL,yunus emre.demirel72@gmail.com,5374523849,1985-07-18,34,True,81651933006,0
+5,111,7857,58.0,16.0,,111,185,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7857,Yunus Emre,DEMİREL,yunus emre.demirel72@gmail.com,5374523849,1985-07-18,34,True,81651933006,0
+6,163,7857,8.0,51.0,,163,185,İngilizce,4,0,4,7857,Yunus Emre,DEMİREL,yunus emre.demirel72@gmail.com,5374523849,1985-07-18,34,True,81651933006,0
+7,61,2368,15.0,2.0,,61,187,Türk Dili,4,0,4,2368,Mustafa Emre,DEMİRÇİ,mustafa emre.demirçi49@gmail.com,5538921105,1998-12-25,34,True,39647195979,0
+8,113,2368,54.0,81.0,,113,187,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2368,Mustafa Emre,DEMİRÇİ,mustafa emre.demirçi49@gmail.com,5538921105,1998-12-25,34,True,39647195979,0
+9,165,2368,8.0,89.0,,165,187,İngilizce,4,0,4,2368,Mustafa Emre,DEMİRÇİ,mustafa emre.demirçi49@gmail.com,5538921105,1998-12-25,34,True,39647195979,0
+10,29,7031,14.0,12.0,,29,15,Türk Dili,4,0,4,7031,Uğur,YILDIRIM,uğur.yıldırım98@gmail.com,5481390480,2003-01-27,44,True,74752691738,0
+11,81,7031,97.0,100.0,,81,15,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7031,Uğur,YILDIRIM,uğur.yıldırım98@gmail.com,5481390480,2003-01-27,44,True,74752691738,0
+12,133,7031,49.0,34.0,,133,15,İngilizce,4,0,4,7031,Uğur,YILDIRIM,uğur.yıldırım98@gmail.com,5481390480,2003-01-27,44,True,74752691738,0
+13,25,5225,75.0,34.0,,25,11,Türk Dili,4,0,4,5225,Orçun,ÖZER,orçun.özer67@gmail.com,5375080915,2002-09-21,34,True,34943049486,0
+14,77,5225,60.0,18.0,,77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5225,Orçun,ÖZER,orçun.özer67@gmail.com,5375080915,2002-09-21,34,True,34943049486,0
+15,129,5225,21.0,44.0,,129,11,İngilizce,4,0,4,5225,Orçun,ÖZER,orçun.özer67@gmail.com,5375080915,2002-09-21,34,True,34943049486,0
+16,24,7306,76.0,76.0,,24,10,Türk Dili,4,0,4,7306,Füsun,TAVUS,füsun.tavus 90@gmail.com,5322446668,1986-09-19,6,False,86020238852,0
+17,76,7306,12.0,2.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7306,Füsun,TAVUS,füsun.tavus 90@gmail.com,5322446668,1986-09-19,6,False,86020238852,0
+18,128,7306,89.0,71.0,,128,10,İngilizce,4,0,4,7306,Füsun,TAVUS,füsun.tavus 90@gmail.com,5322446668,1986-09-19,6,False,86020238852,0
+19,30,2208,68.0,58.0,,30,16,Türk Dili,4,0,4,2208,Gökhan,AY,gökhan.ay94@gmail.com,5525585652,1991-07-01,61,True,27507041167,1
+20,82,2208,13.0,26.0,,82,16,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2208,Gökhan,AY,gökhan.ay94@gmail.com,5525585652,1991-07-01,61,True,27507041167,1
+21,134,2208,72.0,66.0,,134,16,İngilizce,4,0,4,2208,Gökhan,AY,gökhan.ay94@gmail.com,5525585652,1991-07-01,61,True,27507041167,1
+22,64,8639,69.0,98.0,,64,290,Türk Dili,4,0,4,8639,Samet,ÖZTÜRK,samet.öztürk65@gmail.com,5341122159,1993-04-17,6,True,73653281859,0
+23,116,8639,77.0,21.0,,116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8639,Samet,ÖZTÜRK,samet.öztürk65@gmail.com,5341122159,1993-04-17,6,True,73653281859,0
+24,168,8639,31.0,60.0,,168,290,İngilizce,4,0,4,8639,Samet,ÖZTÜRK,samet.öztürk65@gmail.com,5341122159,1993-04-17,6,True,73653281859,0
+25,49,6243,88.0,12.0,,49,103,Türk Dili,4,0,4,6243,Aslı,SOYSAL,aslı.soysal19@gmail.com,5573536610,1984-07-19,59,False,84252145879,0
+26,101,6243,10.0,85.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6243,Aslı,SOYSAL,aslı.soysal19@gmail.com,5573536610,1984-07-19,59,False,84252145879,0
+27,153,6243,69.0,90.0,,153,103,İngilizce,4,0,4,6243,Aslı,SOYSAL,aslı.soysal19@gmail.com,5573536610,1984-07-19,59,False,84252145879,0
+28,44,8546,63.0,13.0,,44,75,Türk Dili,4,0,4,8546,Selahattin,EKMEN,selahattin.ekmen51@gmail.com,5474361164,1985-08-18,34,True,33595669782,0
+29,96,8546,90.0,7.0,,96,75,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8546,Selahattin,EKMEN,selahattin.ekmen51@gmail.com,5474361164,1985-08-18,34,True,33595669782,0
+30,148,8546,71.0,56.0,,148,75,İngilizce,4,0,4,8546,Selahattin,EKMEN,selahattin.ekmen51@gmail.com,5474361164,1985-08-18,34,True,33595669782,0
+31,39,5129,86.0,69.0,,39,29,Türk Dili,4,0,4,5129,Burcu,KARAÇAY,burcu.karaçay16@gmail.com,5587496648,1988-10-14,34,False,30511963099,0
+32,91,5129,65.0,24.0,,91,29,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5129,Burcu,KARAÇAY,burcu.karaçay16@gmail.com,5587496648,1988-10-14,34,False,30511963099,0
+33,143,5129,55.0,52.0,,143,29,İngilizce,4,0,4,5129,Burcu,KARAÇAY,burcu.karaçay16@gmail.com,5587496648,1988-10-14,34,False,30511963099,0
+34,25,7533,60.0,97.0,,25,11,Türk Dili,4,0,4,7533,Fatma,AYGÜL,fatma.aygül30@gmail.com,5441883895,1993-03-13,58,False,62025659869,0
+35,77,7533,78.0,94.0,,77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7533,Fatma,AYGÜL,fatma.aygül30@gmail.com,5441883895,1993-03-13,58,False,62025659869,0
+36,129,7533,92.0,67.0,,129,11,İngilizce,4,0,4,7533,Fatma,AYGÜL,fatma.aygül30@gmail.com,5441883895,1993-03-13,58,False,62025659869,0
+37,28,7592,41.0,88.0,,28,14,Türk Dili,4,0,4,7592,Birol,TEMEL,birol.temel78@gmail.com,5487347771,1985-07-05,55,True,49752932257,0
+38,80,7592,66.0,39.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7592,Birol,TEMEL,birol.temel78@gmail.com,5487347771,1985-07-05,55,True,49752932257,0
+39,132,7592,23.0,37.0,,132,14,İngilizce,4,0,4,7592,Birol,TEMEL,birol.temel78@gmail.com,5487347771,1985-07-05,55,True,49752932257,0
+40,59,8644,90.0,36.0,,59,185,Türk Dili,4,0,4,8644,Emre,BARKIN,emre.barkın57@gmail.com,5607599656,1985-05-08,34,True,31434255910,0
+41,111,8644,56.0,10.0,,111,185,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8644,Emre,BARKIN,emre.barkın57@gmail.com,5607599656,1985-05-08,34,True,31434255910,0
+42,163,8644,64.0,61.0,,163,185,İngilizce,4,0,4,8644,Emre,BARKIN,emre.barkın57@gmail.com,5607599656,1985-05-08,34,True,31434255910,0
+43,25,6450,44.0,9.0,,25,11,Türk Dili,4,0,4,6450,Zeynep Mine,ATALAY,zeynep mine.atalay33@gmail.com,5487652504,1980-12-07,34,False,74894957583,0
+44,77,6450,34.0,38.0,,77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6450,Zeynep Mine,ATALAY,zeynep mine.atalay33@gmail.com,5487652504,1980-12-07,34,False,74894957583,0
+45,129,6450,88.0,53.0,,129,11,İngilizce,4,0,4,6450,Zeynep Mine,ATALAY,zeynep mine.atalay33@gmail.com,5487652504,1980-12-07,34,False,74894957583,0
+46,55,8473,8.0,25.0,,55,181,Türk Dili,4,0,4,8473,Feyzullah,BAYER,feyzullah.bayer77@gmail.com,5547143763,1988-10-27,44,True,33566605323,0
+47,107,8473,18.0,87.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8473,Feyzullah,BAYER,feyzullah.bayer77@gmail.com,5547143763,1988-10-27,44,True,33566605323,0
+48,159,8473,88.0,60.0,,159,181,İngilizce,4,0,4,8473,Feyzullah,BAYER,feyzullah.bayer77@gmail.com,5547143763,1988-10-27,44,True,33566605323,0
+49,56,8137,80.0,24.0,,56,182,Türk Dili,4,0,4,8137,Rukiye Büşra,BAŞYİĞİT,rukiye büşra.başyiğit83@gmail.com,5593951530,1985-03-22,34,False,95185717151,7
+50,108,8137,41.0,79.0,,108,182,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8137,Rukiye Büşra,BAŞYİĞİT,rukiye büşra.başyiğit83@gmail.com,5593951530,1985-03-22,34,False,95185717151,7
+51,160,8137,32.0,66.0,,160,182,İngilizce,4,0,4,8137,Rukiye Büşra,BAŞYİĞİT,rukiye büşra.başyiğit83@gmail.com,5593951530,1985-03-22,34,False,95185717151,7
+52,28,7443,78.0,82.0,,28,14,Türk Dili,4,0,4,7443,Burcu,ÜZÜMCÜLER,burcu.üzümcüler97@gmail.com,5435206997,1999-05-27,16,False,63224246040,0
+53,80,7443,11.0,48.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7443,Burcu,ÜZÜMCÜLER,burcu.üzümcüler97@gmail.com,5435206997,1999-05-27,16,False,63224246040,0
+54,132,7443,40.0,99.0,,132,14,İngilizce,4,0,4,7443,Burcu,ÜZÜMCÜLER,burcu.üzümcüler97@gmail.com,5435206997,1999-05-27,16,False,63224246040,0
+55,53,4444,45.0,25.0,,53,179,Türk Dili,4,0,4,4444,Duygu,YILMAZ,duygu.yılmaz16@gmail.com,5361758103,1980-06-22,34,False,40901682116,0
+56,105,4444,95.0,78.0,,105,179,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4444,Duygu,YILMAZ,duygu.yılmaz16@gmail.com,5361758103,1980-06-22,34,False,40901682116,0
+57,157,4444,15.0,59.0,,157,179,İngilizce,4,0,4,4444,Duygu,YILMAZ,duygu.yılmaz16@gmail.com,5361758103,1980-06-22,34,False,40901682116,0
+58,31,6582,5.0,16.0,,31,17,Türk Dili,4,0,4,6582,Cansu,ÖZER,cansu.özer29@gmail.com,5493352292,1989-07-15,14,False,81136180583,0
+59,83,6582,100.0,67.0,,83,17,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6582,Cansu,ÖZER,cansu.özer29@gmail.com,5493352292,1989-07-15,14,False,81136180583,0
+60,135,6582,94.0,38.0,,135,17,İngilizce,4,0,4,6582,Cansu,ÖZER,cansu.özer29@gmail.com,5493352292,1989-07-15,14,False,81136180583,0
+61,45,8983,49.0,73.0,,45,76,Türk Dili,4,0,4,8983,Osman Buğrahan,KARA,osman buğrahan.kara12@gmail.com,5496978276,2003-03-21,34,True,98819006176,0
+62,97,8983,85.0,62.0,,97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8983,Osman Buğrahan,KARA,osman buğrahan.kara12@gmail.com,5496978276,2003-03-21,34,True,98819006176,0
+63,149,8983,1.0,94.0,,149,76,İngilizce,4,0,4,8983,Osman Buğrahan,KARA,osman buğrahan.kara12@gmail.com,5496978276,2003-03-21,34,True,98819006176,0
+64,20,5383,20.0,32.0,,20,6,Türk Dili,4,0,4,5383,Ahmet Can,ŞİŞLİ,ahmet can.şişli72@gmail.com,5572906775,1995-01-10,52,True,78253900103,0
+65,72,5383,95.0,57.0,,72,6,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5383,Ahmet Can,ŞİŞLİ,ahmet can.şişli72@gmail.com,5572906775,1995-01-10,52,True,78253900103,0
+66,124,5383,19.0,27.0,,124,6,İngilizce,4,0,4,5383,Ahmet Can,ŞİŞLİ,ahmet can.şişli72@gmail.com,5572906775,1995-01-10,52,True,78253900103,0
+67,54,8723,90.0,9.0,,54,180,Türk Dili,4,0,4,8723,İlkcan Anıl,ÇAKMAK,ilkcan anıl.çakmak96@gmail.com,5339146291,1999-12-06,34,True,92047793531,0
+68,106,8723,3.0,60.0,,106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8723,İlkcan Anıl,ÇAKMAK,ilkcan anıl.çakmak96@gmail.com,5339146291,1999-12-06,34,True,92047793531,0
+69,158,8723,34.0,47.0,,158,180,İngilizce,4,0,4,8723,İlkcan Anıl,ÇAKMAK,ilkcan anıl.çakmak96@gmail.com,5339146291,1999-12-06,34,True,92047793531,0
+70,40,7193,82.0,71.0,,40,30,Türk Dili,4,0,4,7193,Ecem Gökçe,CANDAN,ecem gökçe.candan94@gmail.com,5436749937,1988-10-14,16,False,85305167839,7
+71,92,7193,99.0,35.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7193,Ecem Gökçe,CANDAN,ecem gökçe.candan94@gmail.com,5436749937,1988-10-14,16,False,85305167839,7
+72,144,7193,83.0,13.0,,144,30,İngilizce,4,0,4,7193,Ecem Gökçe,CANDAN,ecem gökçe.candan94@gmail.com,5436749937,1988-10-14,16,False,85305167839,7
+73,52,7882,89.0,5.0,,52,178,Türk Dili,4,0,4,7882,Esra,ORHAN,esra.orhan65@gmail.com,5572405828,1983-01-17,34,False,16446293037,0
+74,104,7882,55.0,72.0,,104,178,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7882,Esra,ORHAN,esra.orhan65@gmail.com,5572405828,1983-01-17,34,False,16446293037,0
+75,156,7882,99.0,1.0,,156,178,İngilizce,4,0,4,7882,Esra,ORHAN,esra.orhan65@gmail.com,5572405828,1983-01-17,34,False,16446293037,0
+76,40,8280,46.0,72.0,,40,30,Türk Dili,4,0,4,8280,Ayşegül,ŞAHİN,ayşegül.şahin37@gmail.com,5373857164,2003-09-08,34,False,11404678656,0
+77,92,8280,87.0,45.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8280,Ayşegül,ŞAHİN,ayşegül.şahin37@gmail.com,5373857164,2003-09-08,34,False,11404678656,0
+78,144,8280,86.0,86.0,,144,30,İngilizce,4,0,4,8280,Ayşegül,ŞAHİN,ayşegül.şahin37@gmail.com,5373857164,2003-09-08,34,False,11404678656,0
+79,47,5607,2.0,100.0,,47,78,Türk Dili,4,0,4,5607,Vahdet Hüseyin,BOZKIR,vahdet hüseyin.bozkır57@gmail.com,5313682966,1985-05-14,34,True,34442887569,0
+80,99,5607,23.0,21.0,,99,78,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5607,Vahdet Hüseyin,BOZKIR,vahdet hüseyin.bozkır57@gmail.com,5313682966,1985-05-14,34,True,34442887569,0
+81,151,5607,33.0,92.0,,151,78,İngilizce,4,0,4,5607,Vahdet Hüseyin,BOZKIR,vahdet hüseyin.bozkır57@gmail.com,5313682966,1985-05-14,34,True,34442887569,0
+82,42,5528,53.0,67.0,,42,55,Türk Dili,4,0,4,5528,Erdem,YAZICI,erdem.yazıcı11@gmail.com,5371146288,1998-12-27,34,True,42638691229,0
+83,94,5528,92.0,6.0,,94,55,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5528,Erdem,YAZICI,erdem.yazıcı11@gmail.com,5371146288,1998-12-27,34,True,42638691229,0
+84,146,5528,63.0,85.0,,146,55,İngilizce,4,0,4,5528,Erdem,YAZICI,erdem.yazıcı11@gmail.com,5371146288,1998-12-27,34,True,42638691229,0
+85,58,6115,93.0,67.0,,58,184,Türk Dili,4,0,4,6115,Mehtap,ÇETİNER,mehtap.çetiner78@gmail.com,5359065767,1993-11-02,23,False,85087223651,0
+86,110,6115,2.0,97.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6115,Mehtap,ÇETİNER,mehtap.çetiner78@gmail.com,5359065767,1993-11-02,23,False,85087223651,0
+87,162,6115,61.0,71.0,,162,184,İngilizce,4,0,4,6115,Mehtap,ÇETİNER,mehtap.çetiner78@gmail.com,5359065767,1993-11-02,23,False,85087223651,0
+88,32,7862,68.0,80.0,,32,18,Türk Dili,4,0,4,7862,İclal,YAZİCİ,iclal.yazici94@gmail.com,5432506925,1994-05-22,34,False,13456561482,0
+89,84,7862,29.0,34.0,,84,18,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7862,İclal,YAZİCİ,iclal.yazici94@gmail.com,5432506925,1994-05-22,34,False,13456561482,0
+90,136,7862,24.0,24.0,,136,18,İngilizce,4,0,4,7862,İclal,YAZİCİ,iclal.yazici94@gmail.com,5432506925,1994-05-22,34,False,13456561482,0
+91,44,7562,88.0,7.0,,44,75,Türk Dili,4,0,4,7562,Zafer Basri,YÜKSEL,zafer basri.yüksel43@gmail.com,5417161802,1987-05-27,19,True,23336238330,0
+92,96,7562,41.0,67.0,,96,75,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7562,Zafer Basri,YÜKSEL,zafer basri.yüksel43@gmail.com,5417161802,1987-05-27,19,True,23336238330,0
+93,148,7562,40.0,94.0,,148,75,İngilizce,4,0,4,7562,Zafer Basri,YÜKSEL,zafer basri.yüksel43@gmail.com,5417161802,1987-05-27,19,True,23336238330,0
+94,27,6472,14.0,79.0,,27,13,Türk Dili,4,0,4,6472,Merve,ÇATALKAYA,merve.çatalkaya53@gmail.com,5441238742,1981-07-02,6,False,44848393550,0
+95,79,6472,69.0,39.0,,79,13,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6472,Merve,ÇATALKAYA,merve.çatalkaya53@gmail.com,5441238742,1981-07-02,6,False,44848393550,0
+96,131,6472,22.0,7.0,,131,13,İngilizce,4,0,4,6472,Merve,ÇATALKAYA,merve.çatalkaya53@gmail.com,5441238742,1981-07-02,6,False,44848393550,0
+97,46,8516,31.0,85.0,,46,77,Türk Dili,4,0,4,8516,Ferhat,ÇAPAN,ferhat.çapan31@gmail.com,5375500406,1995-11-12,27,True,14579448585,0
+98,98,8516,87.0,78.0,,98,77,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8516,Ferhat,ÇAPAN,ferhat.çapan31@gmail.com,5375500406,1995-11-12,27,True,14579448585,0
+99,150,8516,35.0,15.0,,150,77,İngilizce,4,0,4,8516,Ferhat,ÇAPAN,ferhat.çapan31@gmail.com,5375500406,1995-11-12,27,True,14579448585,0
+100,16,5238,9.0,70.0,,16,2,Türk Dili,4,0,4,5238,Hamdi Tolga,BALTALI,hamdi tolga.baltalı85@gmail.com,5322865846,1992-07-10,34,True,38085208702,0
+101,68,5238,89.0,75.0,,68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5238,Hamdi Tolga,BALTALI,hamdi tolga.baltalı85@gmail.com,5322865846,1992-07-10,34,True,38085208702,0
+102,120,5238,41.0,37.0,,120,2,İngilizce,4,0,4,5238,Hamdi Tolga,BALTALI,hamdi tolga.baltalı85@gmail.com,5322865846,1992-07-10,34,True,38085208702,0
+103,44,5438,77.0,63.0,,44,75,Türk Dili,4,0,4,5438,Özgür,USMAN IMAM,özgür.usman ımam73@gmail.com,5455359738,1999-11-26,2,True,94212955283,0
+104,96,5438,53.0,68.0,,96,75,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5438,Özgür,USMAN IMAM,özgür.usman ımam73@gmail.com,5455359738,1999-11-26,2,True,94212955283,0
+105,148,5438,24.0,90.0,,148,75,İngilizce,4,0,4,5438,Özgür,USMAN IMAM,özgür.usman ımam73@gmail.com,5455359738,1999-11-26,2,True,94212955283,0
+106,58,8434,19.0,18.0,,58,184,Türk Dili,4,0,4,8434,Hasan,TURALIOĞLU,hasan.turalıoğlu86@gmail.com,5346305475,1983-01-08,34,True,93253744109,0
+107,110,8434,39.0,52.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8434,Hasan,TURALIOĞLU,hasan.turalıoğlu86@gmail.com,5346305475,1983-01-08,34,True,93253744109,0
+108,162,8434,83.0,29.0,,162,184,İngilizce,4,0,4,8434,Hasan,TURALIOĞLU,hasan.turalıoğlu86@gmail.com,5346305475,1983-01-08,34,True,93253744109,0
+109,45,8818,1.0,58.0,,45,76,Türk Dili,4,0,4,8818,Hazal,NAZLI,hazal.nazlı42@gmail.com,5422458619,1983-09-04,34,False,39344497133,0
+110,97,8818,2.0,98.0,,97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8818,Hazal,NAZLI,hazal.nazlı42@gmail.com,5422458619,1983-09-04,34,False,39344497133,0
+111,149,8818,11.0,52.0,,149,76,İngilizce,4,0,4,8818,Hazal,NAZLI,hazal.nazlı42@gmail.com,5422458619,1983-09-04,34,False,39344497133,0
+112,16,6704,6.0,24.0,,16,2,Türk Dili,4,0,4,6704,BEDİA,ABDULKADİR ALİ,bedia.abdulkadir ali47@gmail.com,5337760511,1994-10-02,31,False,91606322859,2
+113,68,6704,23.0,10.0,,68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6704,BEDİA,ABDULKADİR ALİ,bedia.abdulkadir ali47@gmail.com,5337760511,1994-10-02,31,False,91606322859,2
+114,120,6704,34.0,66.0,,120,2,İngilizce,4,0,4,6704,BEDİA,ABDULKADİR ALİ,bedia.abdulkadir ali47@gmail.com,5337760511,1994-10-02,31,False,91606322859,2
+115,23,4824,36.0,98.0,,23,9,Türk Dili,4,0,4,4824,Hüsrev,ERTUNA,hüsrev.ertuna34@gmail.com,5408235985,1990-07-03,60,True,74121517388,0
+116,75,4824,58.0,55.0,,75,9,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4824,Hüsrev,ERTUNA,hüsrev.ertuna34@gmail.com,5408235985,1990-07-03,60,True,74121517388,0
+117,127,4824,57.0,26.0,,127,9,İngilizce,4,0,4,4824,Hüsrev,ERTUNA,hüsrev.ertuna34@gmail.com,5408235985,1990-07-03,60,True,74121517388,0
+118,27,8960,55.0,3.0,,27,13,Türk Dili,4,0,4,8960,Hanife,MUHÇU,hanife.muhçu91@gmail.com,5501752696,1995-05-01,61,False,68414465261,0
+119,79,8960,49.0,40.0,,79,13,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8960,Hanife,MUHÇU,hanife.muhçu91@gmail.com,5501752696,1995-05-01,61,False,68414465261,0
+120,131,8960,34.0,98.0,,131,13,İngilizce,4,0,4,8960,Hanife,MUHÇU,hanife.muhçu91@gmail.com,5501752696,1995-05-01,61,False,68414465261,0
+121,58,7746,90.0,23.0,,58,184,Türk Dili,4,0,4,7746,Özge,DİNÇ,özge.dinç83@gmail.com,5566832319,1990-09-19,34,False,19460386952,0
+122,110,7746,46.0,33.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7746,Özge,DİNÇ,özge.dinç83@gmail.com,5566832319,1990-09-19,34,False,19460386952,0
+123,162,7746,17.0,83.0,,162,184,İngilizce,4,0,4,7746,Özge,DİNÇ,özge.dinç83@gmail.com,5566832319,1990-09-19,34,False,19460386952,0
+124,38,8850,40.0,63.0,,38,28,Türk Dili,4,0,4,8850,Dorukhan,DEMİRBİLEK,dorukhan.demirbilek48@gmail.com,5517554968,1991-09-13,34,True,97628021037,0
+125,90,8850,38.0,14.0,,90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8850,Dorukhan,DEMİRBİLEK,dorukhan.demirbilek48@gmail.com,5517554968,1991-09-13,34,True,97628021037,0
+126,142,8850,13.0,100.0,,142,28,İngilizce,4,0,4,8850,Dorukhan,DEMİRBİLEK,dorukhan.demirbilek48@gmail.com,5517554968,1991-09-13,34,True,97628021037,0
+127,49,9115,18.0,44.0,,49,103,Türk Dili,4,0,4,9115,Turgay,GEDİK,turgay.gedik98@gmail.com,5428390923,1986-10-02,28,True,35540020143,0
+128,101,9115,25.0,58.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9115,Turgay,GEDİK,turgay.gedik98@gmail.com,5428390923,1986-10-02,28,True,35540020143,0
+129,153,9115,96.0,24.0,,153,103,İngilizce,4,0,4,9115,Turgay,GEDİK,turgay.gedik98@gmail.com,5428390923,1986-10-02,28,True,35540020143,0
+130,59,2480,88.0,26.0,,59,185,Türk Dili,4,0,4,2480,Şeyda,MOUSSA,şeyda.moussa52@gmail.com,5514718962,1982-04-24,38,False,53109477628,7
+131,111,2480,84.0,15.0,,111,185,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2480,Şeyda,MOUSSA,şeyda.moussa52@gmail.com,5514718962,1982-04-24,38,False,53109477628,7
+132,163,2480,66.0,34.0,,163,185,İngilizce,4,0,4,2480,Şeyda,MOUSSA,şeyda.moussa52@gmail.com,5514718962,1982-04-24,38,False,53109477628,7
+133,37,7482,26.0,84.0,,37,27,Türk Dili,4,0,4,7482,Dilan,KOCAN,dilan.kocan88@gmail.com,5599067393,1992-02-03,34,False,42456762928,0
+134,89,7482,2.0,81.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7482,Dilan,KOCAN,dilan.kocan88@gmail.com,5599067393,1992-02-03,34,False,42456762928,0
+135,141,7482,1.0,74.0,,141,27,İngilizce,4,0,4,7482,Dilan,KOCAN,dilan.kocan88@gmail.com,5599067393,1992-02-03,34,False,42456762928,0
+136,55,8270,66.0,43.0,,55,181,Türk Dili,4,0,4,8270,Yasemin,GÜLER,yasemin.güler25@gmail.com,5463788160,2001-03-18,34,False,53933065537,0
+137,107,8270,33.0,20.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8270,Yasemin,GÜLER,yasemin.güler25@gmail.com,5463788160,2001-03-18,34,False,53933065537,0
+138,159,8270,83.0,29.0,,159,181,İngilizce,4,0,4,8270,Yasemin,GÜLER,yasemin.güler25@gmail.com,5463788160,2001-03-18,34,False,53933065537,0
+139,66,8210,2.0,5.0,,66,302,Türk Dili,4,0,4,8210,Şemse,KUTSAL,şemse.kutsal26@gmail.com,5406102659,2001-12-01,31,False,87953821347,0
+140,118,8210,1.0,6.0,,118,302,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8210,Şemse,KUTSAL,şemse.kutsal26@gmail.com,5406102659,2001-12-01,31,False,87953821347,0
+141,170,8210,47.0,44.0,,170,302,İngilizce,4,0,4,8210,Şemse,KUTSAL,şemse.kutsal26@gmail.com,5406102659,2001-12-01,31,False,87953821347,0
+142,55,7283,57.0,12.0,,55,181,Türk Dili,4,0,4,7283,Müge,BULAT ÇETİNKAYA,müge.bulat çetinkaya10@gmail.com,5353005533,1998-07-14,6,False,30075909801,0
+143,107,7283,58.0,41.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7283,Müge,BULAT ÇETİNKAYA,müge.bulat çetinkaya10@gmail.com,5353005533,1998-07-14,6,False,30075909801,0
+144,159,7283,88.0,95.0,,159,181,İngilizce,4,0,4,7283,Müge,BULAT ÇETİNKAYA,müge.bulat çetinkaya10@gmail.com,5353005533,1998-07-14,6,False,30075909801,0
+145,35,7644,12.0,100.0,,35,21,Türk Dili,4,0,4,7644,Mahmut,ÖZTÜRK,mahmut.öztürk77@gmail.com,5381664924,1988-01-10,34,True,90930810416,6
+146,87,7644,47.0,46.0,,87,21,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7644,Mahmut,ÖZTÜRK,mahmut.öztürk77@gmail.com,5381664924,1988-01-10,34,True,90930810416,6
+147,139,7644,10.0,32.0,,139,21,İngilizce,4,0,4,7644,Mahmut,ÖZTÜRK,mahmut.öztürk77@gmail.com,5381664924,1988-01-10,34,True,90930810416,6
+148,16,6586,76.0,21.0,,16,2,Türk Dili,4,0,4,6586,Melek,ZEYLAN,melek.zeylan65@gmail.com,5411646340,1993-08-18,37,False,35993476596,0
+149,68,6586,78.0,18.0,,68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6586,Melek,ZEYLAN,melek.zeylan65@gmail.com,5411646340,1993-08-18,37,False,35993476596,0
+150,120,6586,72.0,84.0,,120,2,İngilizce,4,0,4,6586,Melek,ZEYLAN,melek.zeylan65@gmail.com,5411646340,1993-08-18,37,False,35993476596,0
+151,43,4877,17.0,92.0,,43,63,Türk Dili,4,0,4,4877,Sencerhan,GİLAN BÜTÜNER,sencerhan.gilan bütüner 11@gmail.com,5522400280,2001-12-20,75,True,49417121741,0
+152,95,4877,18.0,15.0,,95,63,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4877,Sencerhan,GİLAN BÜTÜNER,sencerhan.gilan bütüner 11@gmail.com,5522400280,2001-12-20,75,True,49417121741,0
+153,147,4877,54.0,29.0,,147,63,İngilizce,4,0,4,4877,Sencerhan,GİLAN BÜTÜNER,sencerhan.gilan bütüner 11@gmail.com,5522400280,2001-12-20,75,True,49417121741,0
+154,16,8344,48.0,71.0,,16,2,Türk Dili,4,0,4,8344,Ozan Latif,DOĞAN,ozan latif.doğan27@gmail.com,5411699231,1988-03-07,29,False,33818078388,0
+155,68,8344,21.0,42.0,,68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8344,Ozan Latif,DOĞAN,ozan latif.doğan27@gmail.com,5411699231,1988-03-07,29,False,33818078388,0
+156,120,8344,91.0,59.0,,120,2,İngilizce,4,0,4,8344,Ozan Latif,DOĞAN,ozan latif.doğan27@gmail.com,5411699231,1988-03-07,29,False,33818078388,0
+157,60,5163,8.0,92.0,,60,186,Türk Dili,4,0,4,5163,Elif,ULUTAŞ,elif.ulutaş39@gmail.com,5481328954,1981-04-06,35,False,41001265919,0
+158,112,5163,46.0,27.0,,112,186,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5163,Elif,ULUTAŞ,elif.ulutaş39@gmail.com,5481328954,1981-04-06,35,False,41001265919,0
+159,164,5163,59.0,70.0,,164,186,İngilizce,4,0,4,5163,Elif,ULUTAŞ,elif.ulutaş39@gmail.com,5481328954,1981-04-06,35,False,41001265919,0
+160,39,8777,71.0,95.0,,39,29,Türk Dili,4,0,4,8777,Ali Baran,ÜNALAN,ali baran.ünalan36@gmail.com,5466717727,1985-05-09,34,True,96473086193,0
+161,91,8777,83.0,45.0,,91,29,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8777,Ali Baran,ÜNALAN,ali baran.ünalan36@gmail.com,5466717727,1985-05-09,34,True,96473086193,0
+162,143,8777,55.0,93.0,,143,29,İngilizce,4,0,4,8777,Ali Baran,ÜNALAN,ali baran.ünalan36@gmail.com,5466717727,1985-05-09,34,True,96473086193,0
+163,39,2638,23.0,19.0,,39,29,Türk Dili,4,0,4,2638,Sinan,BİÇER,sinan.biçer29@gmail.com,5506489892,1987-05-14,6,True,53086646098,0
+164,91,2638,68.0,94.0,,91,29,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2638,Sinan,BİÇER,sinan.biçer29@gmail.com,5506489892,1987-05-14,6,True,53086646098,0
+165,143,2638,97.0,1.0,,143,29,İngilizce,4,0,4,2638,Sinan,BİÇER,sinan.biçer29@gmail.com,5506489892,1987-05-14,6,True,53086646098,0
+166,27,8516,59.0,22.0,,27,13,Türk Dili,4,0,4,8516,Ferhat,ÇAPAN,ferhat.çapan31@gmail.com,5375500406,1995-11-12,27,True,14579448585,0
+167,79,8516,31.0,26.0,,79,13,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8516,Ferhat,ÇAPAN,ferhat.çapan31@gmail.com,5375500406,1995-11-12,27,True,14579448585,0
+168,131,8516,28.0,90.0,,131,13,İngilizce,4,0,4,8516,Ferhat,ÇAPAN,ferhat.çapan31@gmail.com,5375500406,1995-11-12,27,True,14579448585,0
+169,26,7264,74.0,79.0,,26,12,Türk Dili,4,0,4,7264,Gökhan,DEMİRDÖVEN,gökhan.demirdöven14@gmail.com,5496148307,2002-10-14,34,True,15988075899,0
+170,78,7264,91.0,85.0,,78,12,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7264,Gökhan,DEMİRDÖVEN,gökhan.demirdöven14@gmail.com,5496148307,2002-10-14,34,True,15988075899,0
+171,130,7264,76.0,56.0,,130,12,İngilizce,4,0,4,7264,Gökhan,DEMİRDÖVEN,gökhan.demirdöven14@gmail.com,5496148307,2002-10-14,34,True,15988075899,0
+172,29,4984,81.0,81.0,,29,15,Türk Dili,4,0,4,4984,Nejla,USTA,nejla.usta13@gmail.com,5389143908,2002-02-09,44,False,41494385644,0
+173,81,4984,10.0,12.0,,81,15,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4984,Nejla,USTA,nejla.usta13@gmail.com,5389143908,2002-02-09,44,False,41494385644,0
+174,133,4984,90.0,78.0,,133,15,İngilizce,4,0,4,4984,Nejla,USTA,nejla.usta13@gmail.com,5389143908,2002-02-09,44,False,41494385644,0
+175,51,2233,68.0,77.0,,51,108,Türk Dili,4,0,4,2233,Celalettin,Y,celalettin.y34@gmail.com,5476878584,1985-11-15,25,True,69060676013,8
+176,103,2233,67.0,64.0,,103,108,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2233,Celalettin,Y,celalettin.y34@gmail.com,5476878584,1985-11-15,25,True,69060676013,8
+177,155,2233,10.0,33.0,,155,108,İngilizce,4,0,4,2233,Celalettin,Y,celalettin.y34@gmail.com,5476878584,1985-11-15,25,True,69060676013,8
+178,24,6912,70.0,72.0,,24,10,Türk Dili,4,0,4,6912,MELİKE AYŞE,KARAHASANOĞLU,melike ayşe.karahasanoğlu99@gmail.com,5491369722,1991-07-19,34,False,60245259667,1
+179,76,6912,80.0,87.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6912,MELİKE AYŞE,KARAHASANOĞLU,melike ayşe.karahasanoğlu99@gmail.com,5491369722,1991-07-19,34,False,60245259667,1
+180,128,6912,38.0,95.0,,128,10,İngilizce,4,0,4,6912,MELİKE AYŞE,KARAHASANOĞLU,melike ayşe.karahasanoğlu99@gmail.com,5491369722,1991-07-19,34,False,60245259667,1
+181,28,6299,5.0,21.0,,28,14,Türk Dili,4,0,4,6299,Serkan,ÜÇGÜN,serkan.üçgün35@gmail.com,5585979259,1988-06-06,16,True,61903828963,7
+182,80,6299,64.0,43.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6299,Serkan,ÜÇGÜN,serkan.üçgün35@gmail.com,5585979259,1988-06-06,16,True,61903828963,7
+183,132,6299,62.0,30.0,,132,14,İngilizce,4,0,4,6299,Serkan,ÜÇGÜN,serkan.üçgün35@gmail.com,5585979259,1988-06-06,16,True,61903828963,7
+184,45,5597,30.0,27.0,,45,76,Türk Dili,4,0,4,5597,Selma,ÖZLER,selma.özler98@gmail.com,5445103659,1993-12-19,11,False,16719337925,0
+185,97,5597,10.0,36.0,,97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5597,Selma,ÖZLER,selma.özler98@gmail.com,5445103659,1993-12-19,11,False,16719337925,0
+186,149,5597,76.0,19.0,,149,76,İngilizce,4,0,4,5597,Selma,ÖZLER,selma.özler98@gmail.com,5445103659,1993-12-19,11,False,16719337925,0
+187,63,6485,42.0,80.0,,63,289,Türk Dili,4,0,4,6485,Murat,TURHAN,murat.turhan27@gmail.com,5588088958,2002-08-10,35,True,41747470383,0
+188,115,6485,53.0,52.0,,115,289,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6485,Murat,TURHAN,murat.turhan27@gmail.com,5588088958,2002-08-10,35,True,41747470383,0
+189,167,6485,28.0,98.0,,167,289,İngilizce,4,0,4,6485,Murat,TURHAN,murat.turhan27@gmail.com,5588088958,2002-08-10,35,True,41747470383,0
+190,35,7991,5.0,41.0,,35,21,Türk Dili,4,0,4,7991,Selin,PAZARBAŞI,selin.pazarbaşı21@gmail.com,5445881707,1983-11-02,52,False,32692666153,0
+191,87,7991,33.0,88.0,,87,21,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7991,Selin,PAZARBAŞI,selin.pazarbaşı21@gmail.com,5445881707,1983-11-02,52,False,32692666153,0
+192,139,7991,56.0,93.0,,139,21,İngilizce,4,0,4,7991,Selin,PAZARBAŞI,selin.pazarbaşı21@gmail.com,5445881707,1983-11-02,52,False,32692666153,0
+193,18,5729,96.0,57.0,,18,4,Türk Dili,4,0,4,5729,Gökhan,ÜNLÜ,gökhan.ünlü76@gmail.com,5362034824,1991-02-04,10,True,34512660667,0
+194,70,5729,65.0,43.0,,70,4,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5729,Gökhan,ÜNLÜ,gökhan.ünlü76@gmail.com,5362034824,1991-02-04,10,True,34512660667,0
+195,122,5729,82.0,37.0,,122,4,İngilizce,4,0,4,5729,Gökhan,ÜNLÜ,gökhan.ünlü76@gmail.com,5362034824,1991-02-04,10,True,34512660667,0
+196,54,7511,99.0,7.0,,54,180,Türk Dili,4,0,4,7511,Eda,AYDOĞAN,eda.aydoğan42@gmail.com,5381726149,1995-09-18,34,False,50922891927,0
+197,106,7511,100.0,91.0,,106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7511,Eda,AYDOĞAN,eda.aydoğan42@gmail.com,5381726149,1995-09-18,34,False,50922891927,0
+198,158,7511,31.0,65.0,,158,180,İngilizce,4,0,4,7511,Eda,AYDOĞAN,eda.aydoğan42@gmail.com,5381726149,1995-09-18,34,False,50922891927,0
+199,45,8319,100.0,31.0,,45,76,Türk Dili,4,0,4,8319,İbrahim,KARADENİZ,ibrahim.karadeniz12@gmail.com,5418709891,1998-10-20,47,True,37328651571,0
+200,97,8319,71.0,93.0,,97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8319,İbrahim,KARADENİZ,ibrahim.karadeniz12@gmail.com,5418709891,1998-10-20,47,True,37328651571,0
+201,149,8319,45.0,37.0,,149,76,İngilizce,4,0,4,8319,İbrahim,KARADENİZ,ibrahim.karadeniz12@gmail.com,5418709891,1998-10-20,47,True,37328651571,0
+202,46,6267,60.0,90.0,,46,77,Türk Dili,4,0,4,6267,Burak,TÜRKOĞLU,burak.türkoğlu89@gmail.com,5581583434,1989-02-15,21,True,55203088608,0
+203,98,6267,55.0,97.0,,98,77,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6267,Burak,TÜRKOĞLU,burak.türkoğlu89@gmail.com,5581583434,1989-02-15,21,True,55203088608,0
+204,150,6267,83.0,20.0,,150,77,İngilizce,4,0,4,6267,Burak,TÜRKOĞLU,burak.türkoğlu89@gmail.com,5581583434,1989-02-15,21,True,55203088608,0
+205,54,4953,35.0,21.0,,54,180,Türk Dili,4,0,4,4953,halit,ÖZEN,halit.özen76@gmail.com,5585546704,1990-01-02,52,True,45306847422,7
+206,106,4953,72.0,48.0,,106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4953,halit,ÖZEN,halit.özen76@gmail.com,5585546704,1990-01-02,52,True,45306847422,7
+207,158,4953,42.0,95.0,,158,180,İngilizce,4,0,4,4953,halit,ÖZEN,halit.özen76@gmail.com,5585546704,1990-01-02,52,True,45306847422,7
+208,37,4916,46.0,64.0,,37,27,Türk Dili,4,0,4,4916,NİLGÜN,AKBAŞ,nilgün.akbaş28@gmail.com,5347312524,2001-05-13,42,False,62933061104,8
+209,89,4916,46.0,80.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4916,NİLGÜN,AKBAŞ,nilgün.akbaş28@gmail.com,5347312524,2001-05-13,42,False,62933061104,8
+210,141,4916,86.0,4.0,,141,27,İngilizce,4,0,4,4916,NİLGÜN,AKBAŞ,nilgün.akbaş28@gmail.com,5347312524,2001-05-13,42,False,62933061104,8
+211,42,6367,88.0,2.0,,42,55,Türk Dili,4,0,4,6367,Mucella,BİLGİN,mucella.bilgin10@gmail.com,5481388458,1990-01-24,34,False,46834432423,0
+212,94,6367,12.0,34.0,,94,55,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6367,Mucella,BİLGİN,mucella.bilgin10@gmail.com,5481388458,1990-01-24,34,False,46834432423,0
+213,146,6367,72.0,98.0,,146,55,İngilizce,4,0,4,6367,Mucella,BİLGİN,mucella.bilgin10@gmail.com,5481388458,1990-01-24,34,False,46834432423,0
+214,20,5695,11.0,57.0,,20,6,Türk Dili,4,0,4,5695,İlknur,ARSLAN,ilknur.arslan99@gmail.com,5547957220,1996-09-01,34,False,90858697944,0
+215,72,5695,24.0,25.0,,72,6,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5695,İlknur,ARSLAN,ilknur.arslan99@gmail.com,5547957220,1996-09-01,34,False,90858697944,0
+216,124,5695,28.0,95.0,,124,6,İngilizce,4,0,4,5695,İlknur,ARSLAN,ilknur.arslan99@gmail.com,5547957220,1996-09-01,34,False,90858697944,0
+217,37,5819,31.0,10.0,,37,27,Türk Dili,4,0,4,5819,Resul,KATI,resul.katı81@gmail.com,5468590982,1996-02-17,34,True,70979280509,0
+218,89,5819,75.0,53.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5819,Resul,KATI,resul.katı81@gmail.com,5468590982,1996-02-17,34,True,70979280509,0
+219,141,5819,45.0,51.0,,141,27,İngilizce,4,0,4,5819,Resul,KATI,resul.katı81@gmail.com,5468590982,1996-02-17,34,True,70979280509,0
+220,20,4764,100.0,16.0,,20,6,Türk Dili,4,0,4,4764,Öget,EROĞLU,öget.eroğlu52@gmail.com,5499010879,1999-06-27,34,False,82987182762,7
+221,72,4764,78.0,3.0,,72,6,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4764,Öget,EROĞLU,öget.eroğlu52@gmail.com,5499010879,1999-06-27,34,False,82987182762,7
+222,124,4764,52.0,39.0,,124,6,İngilizce,4,0,4,4764,Öget,EROĞLU,öget.eroğlu52@gmail.com,5499010879,1999-06-27,34,False,82987182762,7
+223,42,8256,49.0,47.0,,42,55,Türk Dili,4,0,4,8256,Gözde,AKCAN,gözde.akcan80@gmail.com,5521439112,1986-10-01,54,False,91108045282,0
+224,94,8256,89.0,50.0,,94,55,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8256,Gözde,AKCAN,gözde.akcan80@gmail.com,5521439112,1986-10-01,54,False,91108045282,0
+225,146,8256,11.0,77.0,,146,55,İngilizce,4,0,4,8256,Gözde,AKCAN,gözde.akcan80@gmail.com,5521439112,1986-10-01,54,False,91108045282,0
+226,66,5874,75.0,25.0,,66,302,Türk Dili,4,0,4,5874,Okan,SOYADI,okan.soyadı54@gmail.com,5526054971,1992-01-27,34,True,37895863032,0
+227,118,5874,94.0,36.0,,118,302,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5874,Okan,SOYADI,okan.soyadı54@gmail.com,5526054971,1992-01-27,34,True,37895863032,0
+228,170,5874,39.0,70.0,,170,302,İngilizce,4,0,4,5874,Okan,SOYADI,okan.soyadı54@gmail.com,5526054971,1992-01-27,34,True,37895863032,0
+229,56,4942,74.0,26.0,,56,182,Türk Dili,4,0,4,4942,Yusuf,CANSIZ,yusuf.cansız46@gmail.com,5525912642,1998-08-15,60,True,80469690466,1
+230,108,4942,68.0,47.0,,108,182,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4942,Yusuf,CANSIZ,yusuf.cansız46@gmail.com,5525912642,1998-08-15,60,True,80469690466,1
+231,160,4942,30.0,31.0,,160,182,İngilizce,4,0,4,4942,Yusuf,CANSIZ,yusuf.cansız46@gmail.com,5525912642,1998-08-15,60,True,80469690466,1
+232,49,5089,42.0,40.0,,49,103,Türk Dili,4,0,4,5089,Tolga,SÖNMEZ,tolga.sönmez87@gmail.com,5444287658,1993-11-20,6,True,37076345396,0
+233,101,5089,32.0,87.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5089,Tolga,SÖNMEZ,tolga.sönmez87@gmail.com,5444287658,1993-11-20,6,True,37076345396,0
+234,153,5089,95.0,23.0,,153,103,İngilizce,4,0,4,5089,Tolga,SÖNMEZ,tolga.sönmez87@gmail.com,5444287658,1993-11-20,6,True,37076345396,0
+235,54,5383,82.0,1.0,,54,180,Türk Dili,4,0,4,5383,Ahmet Can,ŞİŞLİ,ahmet can.şişli72@gmail.com,5572906775,1995-01-10,52,True,78253900103,0
+236,106,5383,80.0,65.0,,106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5383,Ahmet Can,ŞİŞLİ,ahmet can.şişli72@gmail.com,5572906775,1995-01-10,52,True,78253900103,0
+237,158,5383,30.0,74.0,,158,180,İngilizce,4,0,4,5383,Ahmet Can,ŞİŞLİ,ahmet can.şişli72@gmail.com,5572906775,1995-01-10,52,True,78253900103,0
+238,46,6251,34.0,73.0,,46,77,Türk Dili,4,0,4,6251,Kübra,KUTLAN,kübra.kutlan12@gmail.com,5474485135,1989-09-16,41,False,65029677892,0
+239,98,6251,95.0,41.0,,98,77,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6251,Kübra,KUTLAN,kübra.kutlan12@gmail.com,5474485135,1989-09-16,41,False,65029677892,0
+240,150,6251,37.0,1.0,,150,77,İngilizce,4,0,4,6251,Kübra,KUTLAN,kübra.kutlan12@gmail.com,5474485135,1989-09-16,41,False,65029677892,0
+241,63,5650,25.0,4.0,,63,289,Türk Dili,4,0,4,5650,Vedat,ALAEV,vedat.alaev57@gmail.com,5487276269,1984-01-27,21,True,40126395427,0
+242,115,5650,93.0,42.0,,115,289,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5650,Vedat,ALAEV,vedat.alaev57@gmail.com,5487276269,1984-01-27,21,True,40126395427,0
+243,167,5650,48.0,21.0,,167,289,İngilizce,4,0,4,5650,Vedat,ALAEV,vedat.alaev57@gmail.com,5487276269,1984-01-27,21,True,40126395427,0
+244,38,2529,79.0,82.0,,38,28,Türk Dili,4,0,4,2529,Fethullah,DEMİRAY,fethullah.demiray27@gmail.com,5553592251,2001-03-27,61,True,27577492596,0
+245,90,2529,23.0,5.0,,90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2529,Fethullah,DEMİRAY,fethullah.demiray27@gmail.com,5553592251,2001-03-27,61,True,27577492596,0
+246,142,2529,15.0,51.0,,142,28,İngilizce,4,0,4,2529,Fethullah,DEMİRAY,fethullah.demiray27@gmail.com,5553592251,2001-03-27,61,True,27577492596,0
+247,62,5731,74.0,61.0,,62,188,Türk Dili,4,0,4,5731,Elif,SEVİÇ,elif.seviç45@gmail.com,5463073880,1988-04-10,53,False,89309428793,0
+248,114,5731,44.0,61.0,,114,188,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5731,Elif,SEVİÇ,elif.seviç45@gmail.com,5463073880,1988-04-10,53,False,89309428793,0
+249,166,5731,96.0,19.0,,166,188,İngilizce,4,0,4,5731,Elif,SEVİÇ,elif.seviç45@gmail.com,5463073880,1988-04-10,53,False,89309428793,0
+250,18,7500,47.0,4.0,,18,4,Türk Dili,4,0,4,7500,İlhan,ARSLAN,ilhan.arslan48@gmail.com,5532903987,1993-08-08,34,True,22378162405,3
+251,70,7500,83.0,53.0,,70,4,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7500,İlhan,ARSLAN,ilhan.arslan48@gmail.com,5532903987,1993-08-08,34,True,22378162405,3
+252,122,7500,21.0,51.0,,122,4,İngilizce,4,0,4,7500,İlhan,ARSLAN,ilhan.arslan48@gmail.com,5532903987,1993-08-08,34,True,22378162405,3
+253,55,4803,96.0,62.0,,55,181,Türk Dili,4,0,4,4803,Doğan,ÇOLAK,doğan.çolak96@gmail.com,5527572430,1988-02-10,16,True,53471228587,0
+254,107,4803,59.0,78.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4803,Doğan,ÇOLAK,doğan.çolak96@gmail.com,5527572430,1988-02-10,16,True,53471228587,0
+255,159,4803,20.0,99.0,,159,181,İngilizce,4,0,4,4803,Doğan,ÇOLAK,doğan.çolak96@gmail.com,5527572430,1988-02-10,16,True,53471228587,0
+256,34,6115,89.0,52.0,,34,20,Türk Dili,4,0,4,6115,Mehtap,ÇETİNER,mehtap.çetiner78@gmail.com,5359065767,1993-11-02,23,False,85087223651,0
+257,86,6115,5.0,13.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6115,Mehtap,ÇETİNER,mehtap.çetiner78@gmail.com,5359065767,1993-11-02,23,False,85087223651,0
+258,138,6115,77.0,58.0,,138,20,İngilizce,4,0,4,6115,Mehtap,ÇETİNER,mehtap.çetiner78@gmail.com,5359065767,1993-11-02,23,False,85087223651,0
+259,16,4871,95.0,62.0,,16,2,Türk Dili,4,0,4,4871,FUAT,ATLI,fuat.atlı13@gmail.com,5445860566,2002-11-04,61,True,77548922769,2
+260,68,4871,81.0,37.0,,68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4871,FUAT,ATLI,fuat.atlı13@gmail.com,5445860566,2002-11-04,61,True,77548922769,2
+261,120,4871,66.0,76.0,,120,2,İngilizce,4,0,4,4871,FUAT,ATLI,fuat.atlı13@gmail.com,5445860566,2002-11-04,61,True,77548922769,2
+262,25,8284,7.0,24.0,,25,11,Türk Dili,4,0,4,8284,İlhan,ÖZDEMİR,ilhan.özdemir27@gmail.com,5561968720,1981-04-16,34,True,71480285119,0
+263,77,8284,57.0,37.0,,77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8284,İlhan,ÖZDEMİR,ilhan.özdemir27@gmail.com,5561968720,1981-04-16,34,True,71480285119,0
+264,129,8284,40.0,47.0,,129,11,İngilizce,4,0,4,8284,İlhan,ÖZDEMİR,ilhan.özdemir27@gmail.com,5561968720,1981-04-16,34,True,71480285119,0
+265,37,9142,61.0,53.0,,37,27,Türk Dili,4,0,4,9142,Mehmet Çağrı,KIZILTAŞ,mehmet çağrı.kızıltaş98@gmail.com,5523697341,1989-10-17,34,True,64940894840,0
+266,89,9142,42.0,31.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9142,Mehmet Çağrı,KIZILTAŞ,mehmet çağrı.kızıltaş98@gmail.com,5523697341,1989-10-17,34,True,64940894840,0
+267,141,9142,91.0,86.0,,141,27,İngilizce,4,0,4,9142,Mehmet Çağrı,KIZILTAŞ,mehmet çağrı.kızıltaş98@gmail.com,5523697341,1989-10-17,34,True,64940894840,0
+268,19,8368,39.0,55.0,,19,5,Türk Dili,4,0,4,8368,Abdüssamed,GÖL,abdüssamed.göl89@gmail.com,5366411148,1988-02-24,38,True,77190623316,0
+269,71,8368,51.0,15.0,,71,5,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8368,Abdüssamed,GÖL,abdüssamed.göl89@gmail.com,5366411148,1988-02-24,38,True,77190623316,0
+270,123,8368,50.0,63.0,,123,5,İngilizce,4,0,4,8368,Abdüssamed,GÖL,abdüssamed.göl89@gmail.com,5366411148,1988-02-24,38,True,77190623316,0
+271,40,2207,87.0,81.0,,40,30,Türk Dili,4,0,4,2207,Esat Timuçin,YAZAR,esat timuçin.yazar65@gmail.com,5537930791,1985-10-27,40,True,63643479220,3
+272,92,2207,78.0,87.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2207,Esat Timuçin,YAZAR,esat timuçin.yazar65@gmail.com,5537930791,1985-10-27,40,True,63643479220,3
+273,144,2207,42.0,73.0,,144,30,İngilizce,4,0,4,2207,Esat Timuçin,YAZAR,esat timuçin.yazar65@gmail.com,5537930791,1985-10-27,40,True,63643479220,3
+274,59,8917,62.0,77.0,,59,185,Türk Dili,4,0,4,8917,Adil Emin,ÖZAY,adil emin.özay79@gmail.com,5312470999,1989-08-12,55,True,84867802231,0
+275,111,8917,32.0,28.0,,111,185,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8917,Adil Emin,ÖZAY,adil emin.özay79@gmail.com,5312470999,1989-08-12,55,True,84867802231,0
+276,163,8917,35.0,27.0,,163,185,İngilizce,4,0,4,8917,Adil Emin,ÖZAY,adil emin.özay79@gmail.com,5312470999,1989-08-12,55,True,84867802231,0
+277,46,6624,80.0,40.0,,46,77,Türk Dili,4,0,4,6624,Yıldız,ALKIŞ,yıldız.alkış60@gmail.com,5561282780,2002-09-10,34,False,83120586745,0
+278,98,6624,75.0,34.0,,98,77,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6624,Yıldız,ALKIŞ,yıldız.alkış60@gmail.com,5561282780,2002-09-10,34,False,83120586745,0
+279,150,6624,72.0,88.0,,150,77,İngilizce,4,0,4,6624,Yıldız,ALKIŞ,yıldız.alkış60@gmail.com,5561282780,2002-09-10,34,False,83120586745,0
+280,61,6575,71.0,85.0,,61,187,Türk Dili,4,0,4,6575,Beşir,AKSOY,beşir.aksoy44@gmail.com,5574165564,1987-05-19,56,True,11361027345,0
+281,113,6575,96.0,40.0,,113,187,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6575,Beşir,AKSOY,beşir.aksoy44@gmail.com,5574165564,1987-05-19,56,True,11361027345,0
+282,165,6575,9.0,84.0,,165,187,İngilizce,4,0,4,6575,Beşir,AKSOY,beşir.aksoy44@gmail.com,5574165564,1987-05-19,56,True,11361027345,0
+283,15,7394,71.0,66.0,,15,1,Türk Dili,4,0,4,7394,Ebru,TANRIVERDİ,ebru.tanrıverdi83@gmail.com,5508727606,1980-07-28,34,False,23158639449,0
+284,67,7394,16.0,58.0,,67,1,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7394,Ebru,TANRIVERDİ,ebru.tanrıverdi83@gmail.com,5508727606,1980-07-28,34,False,23158639449,0
+285,119,7394,21.0,75.0,,119,1,İngilizce,4,0,4,7394,Ebru,TANRIVERDİ,ebru.tanrıverdi83@gmail.com,5508727606,1980-07-28,34,False,23158639449,0
+286,50,5212,59.0,99.0,,50,107,Türk Dili,4,0,4,5212,Mehmet Sait,ATALAY,mehmet sait.atalay92@gmail.com,5334898343,1999-04-25,63,True,14480439850,0
+287,102,5212,92.0,60.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5212,Mehmet Sait,ATALAY,mehmet sait.atalay92@gmail.com,5334898343,1999-04-25,63,True,14480439850,0
+288,154,5212,79.0,23.0,,154,107,İngilizce,4,0,4,5212,Mehmet Sait,ATALAY,mehmet sait.atalay92@gmail.com,5334898343,1999-04-25,63,True,14480439850,0
+289,44,5405,61.0,12.0,,44,75,Türk Dili,4,0,4,5405,Sılanur,AĞ,sılanur.ağ88@gmail.com,5514455919,1999-05-03,7,False,19325787007,0
+290,96,5405,88.0,44.0,,96,75,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5405,Sılanur,AĞ,sılanur.ağ88@gmail.com,5514455919,1999-05-03,7,False,19325787007,0
+291,148,5405,56.0,67.0,,148,75,İngilizce,4,0,4,5405,Sılanur,AĞ,sılanur.ağ88@gmail.com,5514455919,1999-05-03,7,False,19325787007,0
+292,64,3745,97.0,66.0,,64,290,Türk Dili,4,0,4,3745,Ahmet,ÖZTÜRK,ahmet.öztürk70@gmail.com,5425356244,1980-09-17,34,True,63985639069,0
+293,116,3745,25.0,96.0,,116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,3745,Ahmet,ÖZTÜRK,ahmet.öztürk70@gmail.com,5425356244,1980-09-17,34,True,63985639069,0
+294,168,3745,57.0,27.0,,168,290,İngilizce,4,0,4,3745,Ahmet,ÖZTÜRK,ahmet.öztürk70@gmail.com,5425356244,1980-09-17,34,True,63985639069,0
+295,65,9078,48.0,19.0,,65,291,Türk Dili,4,0,4,9078,Muhammet Fatih,YÜKSEL,muhammet fatih.yüksel29@gmail.com,5505110941,1987-10-13,34,True,19955099191,0
+296,117,9078,18.0,6.0,,117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9078,Muhammet Fatih,YÜKSEL,muhammet fatih.yüksel29@gmail.com,5505110941,1987-10-13,34,True,19955099191,0
+297,169,9078,30.0,30.0,,169,291,İngilizce,4,0,4,9078,Muhammet Fatih,YÜKSEL,muhammet fatih.yüksel29@gmail.com,5505110941,1987-10-13,34,True,19955099191,0
+298,49,7766,71.0,80.0,,49,103,Türk Dili,4,0,4,7766,Melike,BÜYÜKHAMURKAR,melike.büyükhamurkar20@gmail.com,5446461789,1996-01-04,34,False,32809945620,0
+299,101,7766,45.0,50.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7766,Melike,BÜYÜKHAMURKAR,melike.büyükhamurkar20@gmail.com,5446461789,1996-01-04,34,False,32809945620,0
+300,153,7766,86.0,47.0,,153,103,İngilizce,4,0,4,7766,Melike,BÜYÜKHAMURKAR,melike.büyükhamurkar20@gmail.com,5446461789,1996-01-04,34,False,32809945620,0
+301,48,9071,29.0,27.0,,48,80,Türk Dili,4,0,4,9071,Özlem,ÇORUMLU,özlem.çorumlu21@gmail.com,5431018824,1997-07-16,19,False,72959817171,1
+302,100,9071,81.0,87.0,,100,80,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9071,Özlem,ÇORUMLU,özlem.çorumlu21@gmail.com,5431018824,1997-07-16,19,False,72959817171,1
+303,152,9071,37.0,78.0,,152,80,İngilizce,4,0,4,9071,Özlem,ÇORUMLU,özlem.çorumlu21@gmail.com,5431018824,1997-07-16,19,False,72959817171,1
+304,65,8454,23.0,38.0,,65,291,Türk Dili,4,0,4,8454,Uğur,TAŞKİT,uğur.taşkit83@gmail.com,5466632177,1995-08-05,47,True,38312250923,0
+305,117,8454,6.0,98.0,,117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8454,Uğur,TAŞKİT,uğur.taşkit83@gmail.com,5466632177,1995-08-05,47,True,38312250923,0
+306,169,8454,50.0,19.0,,169,291,İngilizce,4,0,4,8454,Uğur,TAŞKİT,uğur.taşkit83@gmail.com,5466632177,1995-08-05,47,True,38312250923,0
+307,24,5500,9.0,96.0,,24,10,Türk Dili,4,0,4,5500,Özlem,BİLGEN,özlem.bilgen16@gmail.com,5353415393,1986-09-10,16,False,93683823478,0
+308,76,5500,84.0,23.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5500,Özlem,BİLGEN,özlem.bilgen16@gmail.com,5353415393,1986-09-10,16,False,93683823478,0
+309,128,5500,65.0,76.0,,128,10,İngilizce,4,0,4,5500,Özlem,BİLGEN,özlem.bilgen16@gmail.com,5353415393,1986-09-10,16,False,93683823478,0
+310,37,6639,1.0,57.0,,37,27,Türk Dili,4,0,4,6639,Elçin,ÖDEMİŞ,elçin.ödemiş28@gmail.com,5403634826,1993-04-22,40,False,60987560619,0
+311,89,6639,6.0,17.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6639,Elçin,ÖDEMİŞ,elçin.ödemiş28@gmail.com,5403634826,1993-04-22,40,False,60987560619,0
+312,141,6639,47.0,73.0,,141,27,İngilizce,4,0,4,6639,Elçin,ÖDEMİŞ,elçin.ödemiş28@gmail.com,5403634826,1993-04-22,40,False,60987560619,0
+313,37,4975,56.0,23.0,,37,27,Türk Dili,4,0,4,4975,Serap,ERTEM,serap.ertem48@gmail.com,5384965158,1983-02-10,34,False,72208021953,0
+314,89,4975,56.0,21.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4975,Serap,ERTEM,serap.ertem48@gmail.com,5384965158,1983-02-10,34,False,72208021953,0
+315,141,4975,8.0,59.0,,141,27,İngilizce,4,0,4,4975,Serap,ERTEM,serap.ertem48@gmail.com,5384965158,1983-02-10,34,False,72208021953,0
+316,28,5014,5.0,89.0,,28,14,Türk Dili,4,0,4,5014,Hakan,AKBULUT,hakan.akbulut17@gmail.com,5394773569,1991-05-22,42,True,41433976179,8
+317,80,5014,64.0,39.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5014,Hakan,AKBULUT,hakan.akbulut17@gmail.com,5394773569,1991-05-22,42,True,41433976179,8
+318,132,5014,5.0,11.0,,132,14,İngilizce,4,0,4,5014,Hakan,AKBULUT,hakan.akbulut17@gmail.com,5394773569,1991-05-22,42,True,41433976179,8
+319,58,7001,57.0,16.0,,58,184,Türk Dili,4,0,4,7001,FATMA NUR,OKAN,fatma nur.okan91@gmail.com,5557679614,1999-11-06,34,False,13188256261,7
+320,110,7001,82.0,64.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7001,FATMA NUR,OKAN,fatma nur.okan91@gmail.com,5557679614,1999-11-06,34,False,13188256261,7
+321,162,7001,82.0,80.0,,162,184,İngilizce,4,0,4,7001,FATMA NUR,OKAN,fatma nur.okan91@gmail.com,5557679614,1999-11-06,34,False,13188256261,7
+322,64,7713,14.0,100.0,,64,290,Türk Dili,4,0,4,7713,CENGİZ,GENÇ,cengiz.genç10@gmail.com,5536320103,1986-05-16,6,True,37510063618,7
+323,116,7713,76.0,78.0,,116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7713,CENGİZ,GENÇ,cengiz.genç10@gmail.com,5536320103,1986-05-16,6,True,37510063618,7
+324,168,7713,80.0,8.0,,168,290,İngilizce,4,0,4,7713,CENGİZ,GENÇ,cengiz.genç10@gmail.com,5536320103,1986-05-16,6,True,37510063618,7
+325,45,8637,70.0,64.0,,45,76,Türk Dili,4,0,4,8637,Eda,GEZMEK,eda.gezmek62@gmail.com,5304613190,1983-04-21,34,False,85115812136,0
+326,97,8637,71.0,11.0,,97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8637,Eda,GEZMEK,eda.gezmek62@gmail.com,5304613190,1983-04-21,34,False,85115812136,0
+327,149,8637,44.0,8.0,,149,76,İngilizce,4,0,4,8637,Eda,GEZMEK,eda.gezmek62@gmail.com,5304613190,1983-04-21,34,False,85115812136,0
+328,29,4812,61.0,15.0,,29,15,Türk Dili,4,0,4,4812,CEYHUN,DİNLER,ceyhun.dinler44@gmail.com,5482347957,2002-04-06,25,True,53276218803,0
+329,81,4812,53.0,32.0,,81,15,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4812,CEYHUN,DİNLER,ceyhun.dinler44@gmail.com,5482347957,2002-04-06,25,True,53276218803,0
+330,133,4812,34.0,60.0,,133,15,İngilizce,4,0,4,4812,CEYHUN,DİNLER,ceyhun.dinler44@gmail.com,5482347957,2002-04-06,25,True,53276218803,0
+331,26,6282,90.0,47.0,,26,12,Türk Dili,4,0,4,6282,Namig,ÇEBİ,namig.çebi72@gmail.com,5383247863,1995-01-14,34,True,10969797362,0
+332,78,6282,44.0,37.0,,78,12,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6282,Namig,ÇEBİ,namig.çebi72@gmail.com,5383247863,1995-01-14,34,True,10969797362,0
+333,130,6282,59.0,15.0,,130,12,İngilizce,4,0,4,6282,Namig,ÇEBİ,namig.çebi72@gmail.com,5383247863,1995-01-14,34,True,10969797362,0
+334,49,2224,62.0,54.0,,49,103,Türk Dili,4,0,4,2224,Hamdullah,ESEN,hamdullah.esen80@gmail.com,5335092115,1992-06-21,65,True,14810634853,1
+335,101,2224,48.0,71.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2224,Hamdullah,ESEN,hamdullah.esen80@gmail.com,5335092115,1992-06-21,65,True,14810634853,1
+336,153,2224,49.0,89.0,,153,103,İngilizce,4,0,4,2224,Hamdullah,ESEN,hamdullah.esen80@gmail.com,5335092115,1992-06-21,65,True,14810634853,1
+337,65,5441,39.0,48.0,,65,291,Türk Dili,4,0,4,5441,Macide,CEBECİ,macide.cebeci80@gmail.com,5511476868,1985-01-04,31,False,30492048193,0
+338,117,5441,6.0,89.0,,117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5441,Macide,CEBECİ,macide.cebeci80@gmail.com,5511476868,1985-01-04,31,False,30492048193,0
+339,169,5441,42.0,53.0,,169,291,İngilizce,4,0,4,5441,Macide,CEBECİ,macide.cebeci80@gmail.com,5511476868,1985-01-04,31,False,30492048193,0
+340,55,9121,11.0,69.0,,55,181,Türk Dili,4,0,4,9121,Feridun,AKKAYA,feridun.akkaya49@gmail.com,5578199227,2000-11-09,18,True,67575267921,0
+341,107,9121,61.0,31.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9121,Feridun,AKKAYA,feridun.akkaya49@gmail.com,5578199227,2000-11-09,18,True,67575267921,0
+342,159,9121,16.0,85.0,,159,181,İngilizce,4,0,4,9121,Feridun,AKKAYA,feridun.akkaya49@gmail.com,5578199227,2000-11-09,18,True,67575267921,0
+343,35,6890,52.0,69.0,,35,21,Türk Dili,4,0,4,6890,MİNE,Y,mine.y38@gmail.com,5547223211,1989-04-19,34,False,20533884967,1
+344,87,6890,99.0,87.0,,87,21,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6890,MİNE,Y,mine.y38@gmail.com,5547223211,1989-04-19,34,False,20533884967,1
+345,139,6890,76.0,55.0,,139,21,İngilizce,4,0,4,6890,MİNE,Y,mine.y38@gmail.com,5547223211,1989-04-19,34,False,20533884967,1
+346,34,4732,93.0,82.0,,34,20,Türk Dili,4,0,4,4732,Ahmet Kamil,ÖNER,ahmet kamil.öner18@gmail.com,5344568414,1980-03-21,16,True,89238559848,0
+347,86,4732,53.0,31.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4732,Ahmet Kamil,ÖNER,ahmet kamil.öner18@gmail.com,5344568414,1980-03-21,16,True,89238559848,0
+348,138,4732,38.0,58.0,,138,20,İngilizce,4,0,4,4732,Ahmet Kamil,ÖNER,ahmet kamil.öner18@gmail.com,5344568414,1980-03-21,16,True,89238559848,0
+349,51,5960,58.0,34.0,,51,108,Türk Dili,4,0,4,5960,Orhan,ERSOY,orhan.ersoy92@gmail.com,5301490150,1986-11-21,55,True,46712670000,0
+350,103,5960,18.0,59.0,,103,108,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5960,Orhan,ERSOY,orhan.ersoy92@gmail.com,5301490150,1986-11-21,55,True,46712670000,0
+351,155,5960,21.0,64.0,,155,108,İngilizce,4,0,4,5960,Orhan,ERSOY,orhan.ersoy92@gmail.com,5301490150,1986-11-21,55,True,46712670000,0
+352,65,6469,21.0,28.0,,65,291,Türk Dili,4,0,4,6469,Tarık,HOUSSEİN AHMED,tarık.houssein ahmed48@gmail.com,5365736305,1993-06-27,75,True,35612338568,0
+353,117,6469,72.0,5.0,,117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6469,Tarık,HOUSSEİN AHMED,tarık.houssein ahmed48@gmail.com,5365736305,1993-06-27,75,True,35612338568,0
+354,169,6469,43.0,37.0,,169,291,İngilizce,4,0,4,6469,Tarık,HOUSSEİN AHMED,tarık.houssein ahmed48@gmail.com,5365736305,1993-06-27,75,True,35612338568,0
+355,42,5569,49.0,52.0,,42,55,Türk Dili,4,0,4,5569,Şura,FEEHLY,şura.feehly40@gmail.com,5512850213,2001-12-25,21,False,67363513920,0
+356,94,5569,69.0,42.0,,94,55,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5569,Şura,FEEHLY,şura.feehly40@gmail.com,5512850213,2001-12-25,21,False,67363513920,0
+357,146,5569,5.0,35.0,,146,55,İngilizce,4,0,4,5569,Şura,FEEHLY,şura.feehly40@gmail.com,5512850213,2001-12-25,21,False,67363513920,0
+358,24,5225,22.0,31.0,,24,10,Türk Dili,4,0,4,5225,Orçun,ÖZER,orçun.özer67@gmail.com,5375080915,2002-09-21,34,True,34943049486,0
+359,76,5225,70.0,39.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5225,Orçun,ÖZER,orçun.özer67@gmail.com,5375080915,2002-09-21,34,True,34943049486,0
+360,128,5225,5.0,94.0,,128,10,İngilizce,4,0,4,5225,Orçun,ÖZER,orçun.özer67@gmail.com,5375080915,2002-09-21,34,True,34943049486,0
+361,50,8119,89.0,92.0,,50,107,Türk Dili,4,0,4,8119,Olgaç Arda,DÖNMEZ,olgaç arda.dönmez59@gmail.com,5551678668,1985-10-19,34,True,99684830981,0
+362,102,8119,44.0,27.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8119,Olgaç Arda,DÖNMEZ,olgaç arda.dönmez59@gmail.com,5551678668,1985-10-19,34,True,99684830981,0
+363,154,8119,13.0,37.0,,154,107,İngilizce,4,0,4,8119,Olgaç Arda,DÖNMEZ,olgaç arda.dönmez59@gmail.com,5551678668,1985-10-19,34,True,99684830981,0
+364,34,8567,4.0,31.0,,34,20,Türk Dili,4,0,4,8567,Ayça,UĞUR,ayça.uğur84@gmail.com,5351652606,1995-11-15,34,False,38088675434,0
+365,86,8567,24.0,55.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8567,Ayça,UĞUR,ayça.uğur84@gmail.com,5351652606,1995-11-15,34,False,38088675434,0
+366,138,8567,61.0,97.0,,138,20,İngilizce,4,0,4,8567,Ayça,UĞUR,ayça.uğur84@gmail.com,5351652606,1995-11-15,34,False,38088675434,0
+367,38,5688,54.0,40.0,,38,28,Türk Dili,4,0,4,5688,Tolga,ÇAĞLAYAN,tolga.çağlayan16@gmail.com,5472668152,1985-06-12,35,True,85319791667,0
+368,90,5688,99.0,83.0,,90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5688,Tolga,ÇAĞLAYAN,tolga.çağlayan16@gmail.com,5472668152,1985-06-12,35,True,85319791667,0
+369,142,5688,20.0,50.0,,142,28,İngilizce,4,0,4,5688,Tolga,ÇAĞLAYAN,tolga.çağlayan16@gmail.com,5472668152,1985-06-12,35,True,85319791667,0
+370,26,8086,72.0,66.0,,26,12,Türk Dili,4,0,4,8086,Sevilay,YILDIZ,sevilay.yıldız43@gmail.com,5464417274,2003-08-09,61,False,81155073324,0
+371,78,8086,42.0,59.0,,78,12,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8086,Sevilay,YILDIZ,sevilay.yıldız43@gmail.com,5464417274,2003-08-09,61,False,81155073324,0
+372,130,8086,68.0,80.0,,130,12,İngilizce,4,0,4,8086,Sevilay,YILDIZ,sevilay.yıldız43@gmail.com,5464417274,2003-08-09,61,False,81155073324,0
+373,15,5871,16.0,24.0,,15,1,Türk Dili,4,0,4,5871,İrem,ELHAN,irem.elhan97@gmail.com,5503250475,1991-08-13,34,False,80984683008,0
+374,67,5871,75.0,25.0,,67,1,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5871,İrem,ELHAN,irem.elhan97@gmail.com,5503250475,1991-08-13,34,False,80984683008,0
+375,119,5871,51.0,69.0,,119,1,İngilizce,4,0,4,5871,İrem,ELHAN,irem.elhan97@gmail.com,5503250475,1991-08-13,34,False,80984683008,0
+376,58,9008,98.0,82.0,,58,184,Türk Dili,4,0,4,9008,İbrahimcan,HUBAN,ibrahimcan.huban43@gmail.com,5413538252,1999-11-20,34,True,73459455384,7
+377,110,9008,20.0,50.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9008,İbrahimcan,HUBAN,ibrahimcan.huban43@gmail.com,5413538252,1999-11-20,34,True,73459455384,7
+378,162,9008,63.0,98.0,,162,184,İngilizce,4,0,4,9008,İbrahimcan,HUBAN,ibrahimcan.huban43@gmail.com,5413538252,1999-11-20,34,True,73459455384,7
+379,64,5497,12.0,23.0,,64,290,Türk Dili,4,0,4,5497,Ertan,ÖNER,ertan.öner74@gmail.com,5554543363,1987-08-10,34,False,41415864076,0
+380,116,5497,62.0,41.0,,116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5497,Ertan,ÖNER,ertan.öner74@gmail.com,5554543363,1987-08-10,34,False,41415864076,0
+381,168,5497,24.0,92.0,,168,290,İngilizce,4,0,4,5497,Ertan,ÖNER,ertan.öner74@gmail.com,5554543363,1987-08-10,34,False,41415864076,0
+382,35,6201,20.0,33.0,,35,21,Türk Dili,4,0,4,6201,Emel,VANLI,emel.vanlı37@gmail.com,5328353162,1995-12-15,63,False,89616477825,0
+383,87,6201,16.0,40.0,,87,21,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6201,Emel,VANLI,emel.vanlı37@gmail.com,5328353162,1995-12-15,63,False,89616477825,0
+384,139,6201,60.0,16.0,,139,21,İngilizce,4,0,4,6201,Emel,VANLI,emel.vanlı37@gmail.com,5328353162,1995-12-15,63,False,89616477825,0
+385,36,5663,18.0,69.0,,36,22,Türk Dili,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+386,88,5663,26.0,27.0,,88,22,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+387,140,5663,51.0,15.0,,140,22,İngilizce,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+388,32,2608,95.0,97.0,,32,18,Türk Dili,4,0,4,2608,Hüseyin,AY,hüseyin.ay91@gmail.com,5385145279,1993-02-06,18,True,94977176923,0
+389,84,2608,52.0,15.0,,84,18,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2608,Hüseyin,AY,hüseyin.ay91@gmail.com,5385145279,1993-02-06,18,True,94977176923,0
+390,136,2608,46.0,11.0,,136,18,İngilizce,4,0,4,2608,Hüseyin,AY,hüseyin.ay91@gmail.com,5385145279,1993-02-06,18,True,94977176923,0
+391,65,7259,98.0,67.0,,65,291,Türk Dili,4,0,4,7259,Mehmet Kadri,TEKİN,mehmet kadri.tekin13@gmail.com,5602409344,1990-11-27,21,True,47709609910,0
+392,117,7259,77.0,64.0,,117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7259,Mehmet Kadri,TEKİN,mehmet kadri.tekin13@gmail.com,5602409344,1990-11-27,21,True,47709609910,0
+393,169,7259,27.0,25.0,,169,291,İngilizce,4,0,4,7259,Mehmet Kadri,TEKİN,mehmet kadri.tekin13@gmail.com,5602409344,1990-11-27,21,True,47709609910,0
+394,24,4873,17.0,61.0,,24,10,Türk Dili,4,0,4,4873,Canan,Y,canan.y23@gmail.com,5305613326,1989-03-07,22,False,87609095478,0
+395,76,4873,72.0,23.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4873,Canan,Y,canan.y23@gmail.com,5305613326,1989-03-07,22,False,87609095478,0
+396,128,4873,37.0,5.0,,128,10,İngilizce,4,0,4,4873,Canan,Y,canan.y23@gmail.com,5305613326,1989-03-07,22,False,87609095478,0
+397,58,8668,84.0,75.0,,58,184,Türk Dili,4,0,4,8668,Aydın Tolga,ERGUN,aydın tolga.ergun95@gmail.com,5321757739,1991-04-01,34,True,18707184238,7
+398,110,8668,8.0,73.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8668,Aydın Tolga,ERGUN,aydın tolga.ergun95@gmail.com,5321757739,1991-04-01,34,True,18707184238,7
+399,162,8668,8.0,20.0,,162,184,İngilizce,4,0,4,8668,Aydın Tolga,ERGUN,aydın tolga.ergun95@gmail.com,5321757739,1991-04-01,34,True,18707184238,7
+400,43,7179,68.0,89.0,,43,63,Türk Dili,4,0,4,7179,Hüseyin,TAŞKIRAN,hüseyin.taşkıran75@gmail.com,5458586517,2002-05-05,34,True,31724517619,0
+401,95,7179,47.0,51.0,,95,63,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7179,Hüseyin,TAŞKIRAN,hüseyin.taşkıran75@gmail.com,5458586517,2002-05-05,34,True,31724517619,0
+402,147,7179,45.0,34.0,,147,63,İngilizce,4,0,4,7179,Hüseyin,TAŞKIRAN,hüseyin.taşkıran75@gmail.com,5458586517,2002-05-05,34,True,31724517619,0
+403,19,6985,46.0,28.0,,19,5,Türk Dili,4,0,4,6985,Begüm,ÖNGEL,begüm.öngel66@gmail.com,5385590929,1994-05-15,34,False,56348381359,0
+404,71,6985,82.0,77.0,,71,5,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6985,Begüm,ÖNGEL,begüm.öngel66@gmail.com,5385590929,1994-05-15,34,False,56348381359,0
+405,123,6985,10.0,95.0,,123,5,İngilizce,4,0,4,6985,Begüm,ÖNGEL,begüm.öngel66@gmail.com,5385590929,1994-05-15,34,False,56348381359,0
+406,46,6441,66.0,58.0,,46,77,Türk Dili,4,0,4,6441,Muhammed Recai,Y,muhammed recai.y63@gmail.com,5601365255,1981-08-28,67,True,30652752551,0
+407,98,6441,27.0,42.0,,98,77,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6441,Muhammed Recai,Y,muhammed recai.y63@gmail.com,5601365255,1981-08-28,67,True,30652752551,0
+408,150,6441,14.0,40.0,,150,77,İngilizce,4,0,4,6441,Muhammed Recai,Y,muhammed recai.y63@gmail.com,5601365255,1981-08-28,67,True,30652752551,0
+409,52,9135,100.0,97.0,,52,178,Türk Dili,4,0,4,9135,Zühal,AKGÜN,zühal.akgün34@gmail.com,5323985962,1985-02-26,52,False,80638127468,0
+410,104,9135,62.0,33.0,,104,178,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9135,Zühal,AKGÜN,zühal.akgün34@gmail.com,5323985962,1985-02-26,52,False,80638127468,0
+411,156,9135,79.0,49.0,,156,178,İngilizce,4,0,4,9135,Zühal,AKGÜN,zühal.akgün34@gmail.com,5323985962,1985-02-26,52,False,80638127468,0
+412,28,5121,63.0,50.0,,28,14,Türk Dili,4,0,4,5121,Uğur,YALÇIN,uğur.yalçın28@gmail.com,5538326748,1999-06-22,53,False,49067211785,0
+413,80,5121,67.0,6.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5121,Uğur,YALÇIN,uğur.yalçın28@gmail.com,5538326748,1999-06-22,53,False,49067211785,0
+414,132,5121,38.0,81.0,,132,14,İngilizce,4,0,4,5121,Uğur,YALÇIN,uğur.yalçın28@gmail.com,5538326748,1999-06-22,53,False,49067211785,0
+415,34,4797,37.0,62.0,,34,20,Türk Dili,4,0,4,4797,Makbule Meziyet,BAYARTAN,makbule meziyet.bayartan22@gmail.com,5505702224,1995-01-15,7,False,26036332297,0
+416,86,4797,45.0,19.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4797,Makbule Meziyet,BAYARTAN,makbule meziyet.bayartan22@gmail.com,5505702224,1995-01-15,7,False,26036332297,0
+417,138,4797,59.0,36.0,,138,20,İngilizce,4,0,4,4797,Makbule Meziyet,BAYARTAN,makbule meziyet.bayartan22@gmail.com,5505702224,1995-01-15,7,False,26036332297,0
+418,33,8026,9.0,86.0,,33,19,Türk Dili,4,0,4,8026,Duygu,BAYRAKTAR,duygu.bayraktar18@gmail.com,5503055916,2001-11-05,16,False,28713548165,0
+419,85,8026,68.0,38.0,,85,19,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8026,Duygu,BAYRAKTAR,duygu.bayraktar18@gmail.com,5503055916,2001-11-05,16,False,28713548165,0
+420,137,8026,53.0,50.0,,137,19,İngilizce,4,0,4,8026,Duygu,BAYRAKTAR,duygu.bayraktar18@gmail.com,5503055916,2001-11-05,16,False,28713548165,0
+421,47,5516,48.0,74.0,,47,78,Türk Dili,4,0,4,5516,Evrim,Y,evrim.y59@gmail.com,5362725990,1997-06-02,34,False,22777800010,0
+422,99,5516,44.0,30.0,,99,78,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5516,Evrim,Y,evrim.y59@gmail.com,5362725990,1997-06-02,34,False,22777800010,0
+423,151,5516,22.0,75.0,,151,78,İngilizce,4,0,4,5516,Evrim,Y,evrim.y59@gmail.com,5362725990,1997-06-02,34,False,22777800010,0
+424,61,5245,22.0,92.0,,61,187,Türk Dili,4,0,4,5245,Nur,KAVAK,nur.kavak31@gmail.com,5423255127,2000-11-20,34,False,51153838832,0
+425,113,5245,11.0,1.0,,113,187,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5245,Nur,KAVAK,nur.kavak31@gmail.com,5423255127,2000-11-20,34,False,51153838832,0
+426,165,5245,30.0,75.0,,165,187,İngilizce,4,0,4,5245,Nur,KAVAK,nur.kavak31@gmail.com,5423255127,2000-11-20,34,False,51153838832,0
+427,38,8586,15.0,27.0,,38,28,Türk Dili,4,0,4,8586,Raziye,TAKAN,raziye.takan36@gmail.com,5401949479,1991-06-03,7,False,92616838794,0
+428,90,8586,65.0,50.0,,90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8586,Raziye,TAKAN,raziye.takan36@gmail.com,5401949479,1991-06-03,7,False,92616838794,0
+429,142,8586,53.0,3.0,,142,28,İngilizce,4,0,4,8586,Raziye,TAKAN,raziye.takan36@gmail.com,5401949479,1991-06-03,7,False,92616838794,0
+430,53,7185,31.0,92.0,,53,179,Türk Dili,4,0,4,7185,Merkut,ODEMİS,merkut.odemis17@gmail.com,5456477641,2003-02-03,6,False,37832544023,7
+431,105,7185,54.0,53.0,,105,179,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7185,Merkut,ODEMİS,merkut.odemis17@gmail.com,5456477641,2003-02-03,6,False,37832544023,7
+432,157,7185,3.0,64.0,,157,179,İngilizce,4,0,4,7185,Merkut,ODEMİS,merkut.odemis17@gmail.com,5456477641,2003-02-03,6,False,37832544023,7
+433,18,2219,30.0,65.0,,18,4,Türk Dili,4,0,4,2219,Salim,ÇOPUR,salim.çopur28@gmail.com,5467848544,1989-07-17,6,True,36458925642,0
+434,70,2219,32.0,16.0,,70,4,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2219,Salim,ÇOPUR,salim.çopur28@gmail.com,5467848544,1989-07-17,6,True,36458925642,0
+435,122,2219,62.0,61.0,,122,4,İngilizce,4,0,4,2219,Salim,ÇOPUR,salim.çopur28@gmail.com,5467848544,1989-07-17,6,True,36458925642,0
+436,28,6938,94.0,85.0,,28,14,Türk Dili,4,0,4,6938,Zahide,YUSUFOĞLU,zahide.yusufoğlu47@gmail.com,5394966385,1988-02-18,34,False,71435814071,0
+437,80,6938,20.0,90.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6938,Zahide,YUSUFOĞLU,zahide.yusufoğlu47@gmail.com,5394966385,1988-02-18,34,False,71435814071,0
+438,132,6938,60.0,22.0,,132,14,İngilizce,4,0,4,6938,Zahide,YUSUFOĞLU,zahide.yusufoğlu47@gmail.com,5394966385,1988-02-18,34,False,71435814071,0
+439,56,9006,50.0,52.0,,56,182,Türk Dili,4,0,4,9006,Kübra,SÜMER,kübra.sümer26@gmail.com,5548704547,1983-08-22,54,False,70001757390,0
+440,108,9006,6.0,39.0,,108,182,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9006,Kübra,SÜMER,kübra.sümer26@gmail.com,5548704547,1983-08-22,54,False,70001757390,0
+441,160,9006,33.0,60.0,,160,182,İngilizce,4,0,4,9006,Kübra,SÜMER,kübra.sümer26@gmail.com,5548704547,1983-08-22,54,False,70001757390,0
+442,59,7597,44.0,62.0,,59,185,Türk Dili,4,0,4,7597,İsmail,ÖZEN,ismail.özen39@gmail.com,5318016375,2000-10-08,34,True,66769268686,0
+443,111,7597,96.0,88.0,,111,185,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7597,İsmail,ÖZEN,ismail.özen39@gmail.com,5318016375,2000-10-08,34,True,66769268686,0
+444,163,7597,28.0,85.0,,163,185,İngilizce,4,0,4,7597,İsmail,ÖZEN,ismail.özen39@gmail.com,5318016375,2000-10-08,34,True,66769268686,0
+445,35,7891,86.0,33.0,,35,21,Türk Dili,4,0,4,7891,Seda,SAĞLAM,seda.sağlam40@gmail.com,5456264812,1999-01-21,6,False,67153837987,0
+446,87,7891,89.0,55.0,,87,21,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7891,Seda,SAĞLAM,seda.sağlam40@gmail.com,5456264812,1999-01-21,6,False,67153837987,0
+447,139,7891,17.0,80.0,,139,21,İngilizce,4,0,4,7891,Seda,SAĞLAM,seda.sağlam40@gmail.com,5456264812,1999-01-21,6,False,67153837987,0
+448,40,6369,91.0,14.0,,40,30,Türk Dili,4,0,4,6369,Ali,ATAŞ,ali.ataş90@gmail.com,5383618285,2003-04-24,10,True,13470546041,1
+449,92,6369,88.0,1.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6369,Ali,ATAŞ,ali.ataş90@gmail.com,5383618285,2003-04-24,10,True,13470546041,1
+450,144,6369,19.0,19.0,,144,30,İngilizce,4,0,4,6369,Ali,ATAŞ,ali.ataş90@gmail.com,5383618285,2003-04-24,10,True,13470546041,1
+451,36,6907,29.0,43.0,,36,22,Türk Dili,4,0,4,6907,Adnan Veysel,HADZHIEVA,adnan veysel.hadzhıeva11@gmail.com,5498959250,2002-03-01,56,True,90190497192,1
+452,88,6907,98.0,17.0,,88,22,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6907,Adnan Veysel,HADZHIEVA,adnan veysel.hadzhıeva11@gmail.com,5498959250,2002-03-01,56,True,90190497192,1
+453,140,6907,98.0,20.0,,140,22,İngilizce,4,0,4,6907,Adnan Veysel,HADZHIEVA,adnan veysel.hadzhıeva11@gmail.com,5498959250,2002-03-01,56,True,90190497192,1
+454,18,5995,46.0,45.0,,18,4,Türk Dili,4,0,4,5995,Şenay,Y,şenay.y51@gmail.com,5507870794,1985-06-08,63,False,11949513770,0
+455,70,5995,97.0,4.0,,70,4,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5995,Şenay,Y,şenay.y51@gmail.com,5507870794,1985-06-08,63,False,11949513770,0
+456,122,5995,9.0,6.0,,122,4,İngilizce,4,0,4,5995,Şenay,Y,şenay.y51@gmail.com,5507870794,1985-06-08,63,False,11949513770,0
+457,16,4762,72.0,52.0,,16,2,Türk Dili,4,0,4,4762,Hayrullah,GÖKÇEN,hayrullah.gökçen82@gmail.com,5444555922,1985-12-17,24,True,72616020374,0
+458,68,4762,84.0,59.0,,68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4762,Hayrullah,GÖKÇEN,hayrullah.gökçen82@gmail.com,5444555922,1985-12-17,24,True,72616020374,0
+459,120,4762,75.0,21.0,,120,2,İngilizce,4,0,4,4762,Hayrullah,GÖKÇEN,hayrullah.gökçen82@gmail.com,5444555922,1985-12-17,24,True,72616020374,0
+460,58,7955,18.0,38.0,,58,184,Türk Dili,4,0,4,7955,Levent,KAYA,levent.kaya62@gmail.com,5447121747,1993-01-24,34,True,82771663332,0
+461,110,7955,16.0,59.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7955,Levent,KAYA,levent.kaya62@gmail.com,5447121747,1993-01-24,34,True,82771663332,0
+462,162,7955,59.0,20.0,,162,184,İngilizce,4,0,4,7955,Levent,KAYA,levent.kaya62@gmail.com,5447121747,1993-01-24,34,True,82771663332,0
+463,62,2591,85.0,91.0,,62,188,Türk Dili,4,0,4,2591,Nural Elif,SHEİKH NUR,nural elif.sheikh nur27@gmail.com,5541915811,1996-11-05,34,False,24143290594,3
+464,114,2591,55.0,19.0,,114,188,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2591,Nural Elif,SHEİKH NUR,nural elif.sheikh nur27@gmail.com,5541915811,1996-11-05,34,False,24143290594,3
+465,166,2591,42.0,53.0,,166,188,İngilizce,4,0,4,2591,Nural Elif,SHEİKH NUR,nural elif.sheikh nur27@gmail.com,5541915811,1996-11-05,34,False,24143290594,3
+466,40,5663,91.0,50.0,,40,30,Türk Dili,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+467,92,5663,80.0,47.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+468,144,5663,88.0,49.0,,144,30,İngilizce,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+469,34,4667,81.0,15.0,,34,20,Türk Dili,4,0,4,4667,MUAMMER,BİTGEN,muammer.bitgen79@gmail.com,5332608817,2003-09-12,5,True,65278782988,1
+470,86,4667,56.0,22.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4667,MUAMMER,BİTGEN,muammer.bitgen79@gmail.com,5332608817,2003-09-12,5,True,65278782988,1
+471,138,4667,59.0,17.0,,138,20,İngilizce,4,0,4,4667,MUAMMER,BİTGEN,muammer.bitgen79@gmail.com,5332608817,2003-09-12,5,True,65278782988,1
+472,64,2314,12.0,23.0,,64,290,Türk Dili,4,0,4,2314,İlker,MARANCI,ilker.marancı61@gmail.com,5341155455,1986-07-20,34,False,44911181676,7
+473,116,2314,86.0,35.0,,116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2314,İlker,MARANCI,ilker.marancı61@gmail.com,5341155455,1986-07-20,34,False,44911181676,7
+474,168,2314,86.0,70.0,,168,290,İngilizce,4,0,4,2314,İlker,MARANCI,ilker.marancı61@gmail.com,5341155455,1986-07-20,34,False,44911181676,7
+475,19,5968,79.0,15.0,,19,5,Türk Dili,4,0,4,5968,Ebru,ÇAKIR,ebru.çakır12@gmail.com,5335201867,1980-01-20,34,False,98629892838,0
+476,71,5968,94.0,24.0,,71,5,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5968,Ebru,ÇAKIR,ebru.çakır12@gmail.com,5335201867,1980-01-20,34,False,98629892838,0
+477,123,5968,54.0,31.0,,123,5,İngilizce,4,0,4,5968,Ebru,ÇAKIR,ebru.çakır12@gmail.com,5335201867,1980-01-20,34,False,98629892838,0
+478,32,7228,49.0,14.0,,32,18,Türk Dili,4,0,4,7228,Serap,ÖZTÜRK,serap.öztürk71@gmail.com,5581051383,2001-01-02,25,False,11417955804,0
+479,84,7228,7.0,50.0,,84,18,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7228,Serap,ÖZTÜRK,serap.öztürk71@gmail.com,5581051383,2001-01-02,25,False,11417955804,0
+480,136,7228,75.0,63.0,,136,18,İngilizce,4,0,4,7228,Serap,ÖZTÜRK,serap.öztürk71@gmail.com,5581051383,2001-01-02,25,False,11417955804,0
+481,19,5285,60.0,89.0,,19,5,Türk Dili,4,0,4,5285,Zeynep,AKSOY,zeynep.aksoy61@gmail.com,5301918723,1992-06-16,34,False,85998620820,0
+482,71,5285,24.0,44.0,,71,5,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5285,Zeynep,AKSOY,zeynep.aksoy61@gmail.com,5301918723,1992-06-16,34,False,85998620820,0
+483,123,5285,94.0,23.0,,123,5,İngilizce,4,0,4,5285,Zeynep,AKSOY,zeynep.aksoy61@gmail.com,5301918723,1992-06-16,34,False,85998620820,0
+484,47,5304,32.0,46.0,,47,78,Türk Dili,4,0,4,5304,Filiz,ÜNSAL,filiz.ünsal41@gmail.com,5565007428,1994-10-24,34,False,26764995058,0
+485,99,5304,25.0,82.0,,99,78,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5304,Filiz,ÜNSAL,filiz.ünsal41@gmail.com,5565007428,1994-10-24,34,False,26764995058,0
+486,151,5304,40.0,56.0,,151,78,İngilizce,4,0,4,5304,Filiz,ÜNSAL,filiz.ünsal41@gmail.com,5565007428,1994-10-24,34,False,26764995058,0
+487,15,7461,30.0,62.0,,15,1,Türk Dili,4,0,4,7461,Mülayim,MÜLAYİMOĞLU,mülayim.mülayimoğlu62@gmail.com,5417025932,2000-06-13,34,True,84527696011,0
+488,67,7461,63.0,87.0,,67,1,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7461,Mülayim,MÜLAYİMOĞLU,mülayim.mülayimoğlu62@gmail.com,5417025932,2000-06-13,34,True,84527696011,0
+489,119,7461,47.0,69.0,,119,1,İngilizce,4,0,4,7461,Mülayim,MÜLAYİMOĞLU,mülayim.mülayimoğlu62@gmail.com,5417025932,2000-06-13,34,True,84527696011,0
+490,39,2335,34.0,92.0,,39,29,Türk Dili,4,0,4,2335,Suna,ÖZDEMİR,suna.özdemir20@gmail.com,5395412625,1990-10-19,34,False,67754227984,0
+491,91,2335,32.0,78.0,,91,29,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2335,Suna,ÖZDEMİR,suna.özdemir20@gmail.com,5395412625,1990-10-19,34,False,67754227984,0
+492,143,2335,53.0,66.0,,143,29,İngilizce,4,0,4,2335,Suna,ÖZDEMİR,suna.özdemir20@gmail.com,5395412625,1990-10-19,34,False,67754227984,0
+493,59,4733,39.0,57.0,,59,185,Türk Dili,4,0,4,4733,Ahmet Emre,GAZİ,ahmet emre.gazi24@gmail.com,5358715397,1992-04-12,1,True,77030265941,0
+494,111,4733,13.0,100.0,,111,185,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4733,Ahmet Emre,GAZİ,ahmet emre.gazi24@gmail.com,5358715397,1992-04-12,1,True,77030265941,0
+495,163,4733,43.0,84.0,,163,185,İngilizce,4,0,4,4733,Ahmet Emre,GAZİ,ahmet emre.gazi24@gmail.com,5358715397,1992-04-12,1,True,77030265941,0
+496,23,8075,85.0,80.0,,23,9,Türk Dili,4,0,4,8075,Pınar,POLAT,pınar.polat49@gmail.com,5481970194,2000-07-18,5,False,49692117610,0
+497,75,8075,78.0,84.0,,75,9,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8075,Pınar,POLAT,pınar.polat49@gmail.com,5481970194,2000-07-18,5,False,49692117610,0
+498,127,8075,21.0,64.0,,127,9,İngilizce,4,0,4,8075,Pınar,POLAT,pınar.polat49@gmail.com,5481970194,2000-07-18,5,False,49692117610,0
+499,62,4927,62.0,61.0,,62,188,Türk Dili,4,0,4,4927,Fatma,ALVER,fatma.alver23@gmail.com,5513121588,1992-12-11,19,False,69905572558,3
+500,114,4927,70.0,61.0,,114,188,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4927,Fatma,ALVER,fatma.alver23@gmail.com,5513121588,1992-12-11,19,False,69905572558,3
+501,166,4927,60.0,70.0,,166,188,İngilizce,4,0,4,4927,Fatma,ALVER,fatma.alver23@gmail.com,5513121588,1992-12-11,19,False,69905572558,3
+502,43,6315,34.0,7.0,,43,63,Türk Dili,4,0,4,6315,Mahir,ÇANAKÇI,mahir.çanakçı16@gmail.com,5302751203,1997-12-06,6,True,94262773351,0
+503,95,6315,63.0,12.0,,95,63,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6315,Mahir,ÇANAKÇI,mahir.çanakçı16@gmail.com,5302751203,1997-12-06,6,True,94262773351,0
+504,147,6315,71.0,70.0,,147,63,İngilizce,4,0,4,6315,Mahir,ÇANAKÇI,mahir.çanakçı16@gmail.com,5302751203,1997-12-06,6,True,94262773351,0
+505,29,8888,26.0,15.0,,29,15,Türk Dili,4,0,4,8888,Bircan,ESER,bircan.eser28@gmail.com,5603595650,1992-09-18,23,False,68813287797,0
+506,81,8888,56.0,92.0,,81,15,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8888,Bircan,ESER,bircan.eser28@gmail.com,5603595650,1992-09-18,23,False,68813287797,0
+507,133,8888,14.0,55.0,,133,15,İngilizce,4,0,4,8888,Bircan,ESER,bircan.eser28@gmail.com,5603595650,1992-09-18,23,False,68813287797,0
+508,48,5023,22.0,65.0,,48,80,Türk Dili,4,0,4,5023,Ahmet Can,KANBUROGLU,ahmet can.kanburoglu54@gmail.com,5489125905,1980-11-20,34,True,38502188487,0
+509,100,5023,23.0,62.0,,100,80,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5023,Ahmet Can,KANBUROGLU,ahmet can.kanburoglu54@gmail.com,5489125905,1980-11-20,34,True,38502188487,0
+510,152,5023,41.0,73.0,,152,80,İngilizce,4,0,4,5023,Ahmet Can,KANBUROGLU,ahmet can.kanburoglu54@gmail.com,5489125905,1980-11-20,34,True,38502188487,0
+511,55,8145,1.0,25.0,,55,181,Türk Dili,4,0,4,8145,Yasemin,TIRPAN,yasemin.tırpan29@gmail.com,5341888430,1982-02-06,16,False,73706898763,0
+512,107,8145,63.0,48.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8145,Yasemin,TIRPAN,yasemin.tırpan29@gmail.com,5341888430,1982-02-06,16,False,73706898763,0
+513,159,8145,100.0,13.0,,159,181,İngilizce,4,0,4,8145,Yasemin,TIRPAN,yasemin.tırpan29@gmail.com,5341888430,1982-02-06,16,False,73706898763,0
+514,40,4903,80.0,60.0,,40,30,Türk Dili,4,0,4,4903,Edip Asaf,DERBENT,edip asaf.derbent27@gmail.com,5591371926,2000-09-20,6,True,75116829416,7
+515,92,4903,73.0,13.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4903,Edip Asaf,DERBENT,edip asaf.derbent27@gmail.com,5591371926,2000-09-20,6,True,75116829416,7
+516,144,4903,27.0,72.0,,144,30,İngilizce,4,0,4,4903,Edip Asaf,DERBENT,edip asaf.derbent27@gmail.com,5591371926,2000-09-20,6,True,75116829416,7
+517,28,8448,20.0,32.0,,28,14,Türk Dili,4,0,4,8448,Fırat,OLTULU,fırat.oltulu47@gmail.com,5445505129,1982-02-12,69,True,33441109522,0
+518,80,8448,12.0,83.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8448,Fırat,OLTULU,fırat.oltulu47@gmail.com,5445505129,1982-02-12,69,True,33441109522,0
+519,132,8448,31.0,1.0,,132,14,İngilizce,4,0,4,8448,Fırat,OLTULU,fırat.oltulu47@gmail.com,5445505129,1982-02-12,69,True,33441109522,0
+520,34,6412,54.0,87.0,,34,20,Türk Dili,4,0,4,6412,Ayşe Burcu,ERDOĞAN,ayşe burcu.erdoğan42@gmail.com,5461920844,1997-04-08,9,False,98400540674,0
+521,86,6412,47.0,32.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6412,Ayşe Burcu,ERDOĞAN,ayşe burcu.erdoğan42@gmail.com,5461920844,1997-04-08,9,False,98400540674,0
+522,138,6412,78.0,8.0,,138,20,İngilizce,4,0,4,6412,Ayşe Burcu,ERDOĞAN,ayşe burcu.erdoğan42@gmail.com,5461920844,1997-04-08,9,False,98400540674,0
+523,24,9079,61.0,80.0,,24,10,Türk Dili,4,0,4,9079,Gülşah Dilan,ÖZYURT,gülşah dilan.özyurt39@gmail.com,5451914779,1995-01-14,39,False,17742532777,0
+524,76,9079,97.0,95.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9079,Gülşah Dilan,ÖZYURT,gülşah dilan.özyurt39@gmail.com,5451914779,1995-01-14,39,False,17742532777,0
+525,128,9079,18.0,1.0,,128,10,İngilizce,4,0,4,9079,Gülşah Dilan,ÖZYURT,gülşah dilan.özyurt39@gmail.com,5451914779,1995-01-14,39,False,17742532777,0
+526,21,8084,26.0,62.0,,21,7,Türk Dili,4,0,4,8084,Tuğba Betül,IŞIK,tuğba betül.ışık37@gmail.com,5509175988,2001-06-08,6,False,83933556320,0
+527,73,8084,25.0,88.0,,73,7,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8084,Tuğba Betül,IŞIK,tuğba betül.ışık37@gmail.com,5509175988,2001-06-08,6,False,83933556320,0
+528,125,8084,36.0,9.0,,125,7,İngilizce,4,0,4,8084,Tuğba Betül,IŞIK,tuğba betül.ışık37@gmail.com,5509175988,2001-06-08,6,False,83933556320,0
+529,31,8817,27.0,59.0,,31,17,Türk Dili,4,0,4,8817,Oğuzcan,KUTKAN,oğuzcan.kutkan84@gmail.com,5412823564,1995-02-27,9,True,84757232234,0
+530,83,8817,74.0,31.0,,83,17,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8817,Oğuzcan,KUTKAN,oğuzcan.kutkan84@gmail.com,5412823564,1995-02-27,9,True,84757232234,0
+531,135,8817,6.0,86.0,,135,17,İngilizce,4,0,4,8817,Oğuzcan,KUTKAN,oğuzcan.kutkan84@gmail.com,5412823564,1995-02-27,9,True,84757232234,0
+532,34,7258,48.0,25.0,,34,20,Türk Dili,4,0,4,7258,Gülistan,TAŞ,gülistan.taş53@gmail.com,5458639713,1987-05-26,34,False,40498476447,0
+533,86,7258,41.0,22.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7258,Gülistan,TAŞ,gülistan.taş53@gmail.com,5458639713,1987-05-26,34,False,40498476447,0
+534,138,7258,79.0,5.0,,138,20,İngilizce,4,0,4,7258,Gülistan,TAŞ,gülistan.taş53@gmail.com,5458639713,1987-05-26,34,False,40498476447,0
+535,24,7141,50.0,40.0,,24,10,Türk Dili,4,0,4,7141,Kübra,DEMİR,kübra.demir95@gmail.com,5527163695,1982-08-26,34,False,89730405985,0
+536,76,7141,64.0,76.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7141,Kübra,DEMİR,kübra.demir95@gmail.com,5527163695,1982-08-26,34,False,89730405985,0
+537,128,7141,28.0,84.0,,128,10,İngilizce,4,0,4,7141,Kübra,DEMİR,kübra.demir95@gmail.com,5527163695,1982-08-26,34,False,89730405985,0
+538,24,7205,75.0,42.0,,24,10,Türk Dili,4,0,4,7205,Semiha,ALTINKAYNAK SATILMIŞ,semiha.altınkaynak satılmış 49@gmail.com,5364280113,1987-10-27,25,False,56040263207,0
+539,76,7205,57.0,28.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7205,Semiha,ALTINKAYNAK SATILMIŞ,semiha.altınkaynak satılmış 49@gmail.com,5364280113,1987-10-27,25,False,56040263207,0
+540,128,7205,63.0,55.0,,128,10,İngilizce,4,0,4,7205,Semiha,ALTINKAYNAK SATILMIŞ,semiha.altınkaynak satılmış 49@gmail.com,5364280113,1987-10-27,25,False,56040263207,0
+541,58,2286,41.0,79.0,,58,184,Türk Dili,4,0,4,2286,Hamıt Haluk,ŞENAT,hamıt haluk.şenat45@gmail.com,5328115549,1990-01-10,52,True,82821696876,5
+542,110,2286,13.0,69.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2286,Hamıt Haluk,ŞENAT,hamıt haluk.şenat45@gmail.com,5328115549,1990-01-10,52,True,82821696876,5
+543,162,2286,88.0,63.0,,162,184,İngilizce,4,0,4,2286,Hamıt Haluk,ŞENAT,hamıt haluk.şenat45@gmail.com,5328115549,1990-01-10,52,True,82821696876,5
+544,20,4742,20.0,20.0,,20,6,Türk Dili,4,0,4,4742,FERDA,DEDEOĞLU,ferda.dedeoğlu68@gmail.com,5315481621,1994-11-14,34,False,23981216105,3
+545,72,4742,8.0,68.0,,72,6,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4742,FERDA,DEDEOĞLU,ferda.dedeoğlu68@gmail.com,5315481621,1994-11-14,34,False,23981216105,3
+546,124,4742,72.0,77.0,,124,6,İngilizce,4,0,4,4742,FERDA,DEDEOĞLU,ferda.dedeoğlu68@gmail.com,5315481621,1994-11-14,34,False,23981216105,3
+547,26,8401,10.0,39.0,,26,12,Türk Dili,4,0,4,8401,Abdulkadir,KUTLUAY,abdulkadir.kutluay44@gmail.com,5547157995,1987-03-27,38,True,32914055598,0
+548,78,8401,5.0,84.0,,78,12,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8401,Abdulkadir,KUTLUAY,abdulkadir.kutluay44@gmail.com,5547157995,1987-03-27,38,True,32914055598,0
+549,130,8401,77.0,36.0,,130,12,İngilizce,4,0,4,8401,Abdulkadir,KUTLUAY,abdulkadir.kutluay44@gmail.com,5547157995,1987-03-27,38,True,32914055598,0
+550,54,6282,26.0,20.0,,54,180,Türk Dili,4,0,4,6282,Namig,ÇEBİ,namig.çebi72@gmail.com,5383247863,1995-01-14,34,True,10969797362,0
+551,106,6282,21.0,78.0,,106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6282,Namig,ÇEBİ,namig.çebi72@gmail.com,5383247863,1995-01-14,34,True,10969797362,0
+552,158,6282,43.0,51.0,,158,180,İngilizce,4,0,4,6282,Namig,ÇEBİ,namig.çebi72@gmail.com,5383247863,1995-01-14,34,True,10969797362,0
+553,52,7873,65.0,99.0,,52,178,Türk Dili,4,0,4,7873,Merve,ÖZ,merve.öz54@gmail.com,5363234272,1999-08-12,37,False,22347169100,0
+554,104,7873,44.0,31.0,,104,178,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7873,Merve,ÖZ,merve.öz54@gmail.com,5363234272,1999-08-12,37,False,22347169100,0
+555,156,7873,82.0,100.0,,156,178,İngilizce,4,0,4,7873,Merve,ÖZ,merve.öz54@gmail.com,5363234272,1999-08-12,37,False,22347169100,0
+556,54,8135,2.0,68.0,,54,180,Türk Dili,4,0,4,8135,Hakan,APAYDIN,hakan.apaydın15@gmail.com,5594135472,1996-02-09,34,True,26018947108,0
+557,106,8135,28.0,86.0,,106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8135,Hakan,APAYDIN,hakan.apaydın15@gmail.com,5594135472,1996-02-09,34,True,26018947108,0
+558,158,8135,4.0,9.0,,158,180,İngilizce,4,0,4,8135,Hakan,APAYDIN,hakan.apaydın15@gmail.com,5594135472,1996-02-09,34,True,26018947108,0
+559,31,5074,46.0,99.0,,31,17,Türk Dili,4,0,4,5074,Seda,KAHİE,seda.kahie57@gmail.com,5579083120,1998-05-27,7,False,74645968533,0
+560,83,5074,69.0,78.0,,83,17,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5074,Seda,KAHİE,seda.kahie57@gmail.com,5579083120,1998-05-27,7,False,74645968533,0
+561,135,5074,90.0,59.0,,135,17,İngilizce,4,0,4,5074,Seda,KAHİE,seda.kahie57@gmail.com,5579083120,1998-05-27,7,False,74645968533,0
+562,25,5663,17.0,100.0,,25,11,Türk Dili,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+563,77,5663,82.0,84.0,,77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+564,129,5663,83.0,62.0,,129,11,İngilizce,4,0,4,5663,Gulfer,YARKIN,gulfer.yarkın29@gmail.com,5494509329,1999-07-02,34,False,17819871909,0
+565,55,2207,25.0,69.0,,55,181,Türk Dili,4,0,4,2207,Esat Timuçin,YAZAR,esat timuçin.yazar65@gmail.com,5537930791,1985-10-27,40,True,63643479220,3
+566,107,2207,88.0,46.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2207,Esat Timuçin,YAZAR,esat timuçin.yazar65@gmail.com,5537930791,1985-10-27,40,True,63643479220,3
+567,159,2207,42.0,86.0,,159,181,İngilizce,4,0,4,2207,Esat Timuçin,YAZAR,esat timuçin.yazar65@gmail.com,5537930791,1985-10-27,40,True,63643479220,3
+568,50,8443,75.0,31.0,,50,107,Türk Dili,4,0,4,8443,Eda,BALCI,eda.balcı60@gmail.com,5561125646,1989-10-07,34,False,29558314574,0
+569,102,8443,88.0,94.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8443,Eda,BALCI,eda.balcı60@gmail.com,5561125646,1989-10-07,34,False,29558314574,0
+570,154,8443,94.0,62.0,,154,107,İngilizce,4,0,4,8443,Eda,BALCI,eda.balcı60@gmail.com,5561125646,1989-10-07,34,False,29558314574,0
+571,58,7882,99.0,81.0,,58,184,Türk Dili,4,0,4,7882,Esra,ORHAN,esra.orhan65@gmail.com,5572405828,1983-01-17,34,False,16446293037,0
+572,110,7882,59.0,8.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7882,Esra,ORHAN,esra.orhan65@gmail.com,5572405828,1983-01-17,34,False,16446293037,0
+573,162,7882,76.0,51.0,,162,184,İngilizce,4,0,4,7882,Esra,ORHAN,esra.orhan65@gmail.com,5572405828,1983-01-17,34,False,16446293037,0
+574,63,6710,55.0,9.0,,63,289,Türk Dili,4,0,4,6710,MUSTAFA ERCAN,CANOĞLU,mustafa ercan.canoğlu92@gmail.com,5321454566,2003-06-25,34,True,78306824705,7
+575,115,6710,40.0,91.0,,115,289,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6710,MUSTAFA ERCAN,CANOĞLU,mustafa ercan.canoğlu92@gmail.com,5321454566,2003-06-25,34,True,78306824705,7
+576,167,6710,48.0,93.0,,167,289,İngilizce,4,0,4,6710,MUSTAFA ERCAN,CANOĞLU,mustafa ercan.canoğlu92@gmail.com,5321454566,2003-06-25,34,True,78306824705,7
+577,49,7803,97.0,5.0,,49,103,Türk Dili,4,0,4,7803,Mehmet Kürşad,AKTAŞ,mehmet kürşad.aktaş67@gmail.com,5597733471,1991-07-14,6,True,50221841739,0
+578,101,7803,7.0,28.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7803,Mehmet Kürşad,AKTAŞ,mehmet kürşad.aktaş67@gmail.com,5597733471,1991-07-14,6,True,50221841739,0
+579,153,7803,96.0,51.0,,153,103,İngilizce,4,0,4,7803,Mehmet Kürşad,AKTAŞ,mehmet kürşad.aktaş67@gmail.com,5597733471,1991-07-14,6,True,50221841739,0
+580,49,5233,8.0,90.0,,49,103,Türk Dili,4,0,4,5233,Yasin Emin,IYOUN SOUD,yasin emin.ıyoun soud76@gmail.com,5394443630,1995-07-14,16,True,50805395946,3
+581,101,5233,32.0,70.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5233,Yasin Emin,IYOUN SOUD,yasin emin.ıyoun soud76@gmail.com,5394443630,1995-07-14,16,True,50805395946,3
+582,153,5233,15.0,86.0,,153,103,İngilizce,4,0,4,5233,Yasin Emin,IYOUN SOUD,yasin emin.ıyoun soud76@gmail.com,5394443630,1995-07-14,16,True,50805395946,3
+583,18,9057,42.0,97.0,,18,4,Türk Dili,4,0,4,9057,Mustafa,KARATAŞ,mustafa.karataş 18@gmail.com,5325239175,1990-07-11,41,True,73455224855,0
+584,70,9057,78.0,50.0,,70,4,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9057,Mustafa,KARATAŞ,mustafa.karataş 18@gmail.com,5325239175,1990-07-11,41,True,73455224855,0
+585,122,9057,40.0,71.0,,122,4,İngilizce,4,0,4,9057,Mustafa,KARATAŞ,mustafa.karataş 18@gmail.com,5325239175,1990-07-11,41,True,73455224855,0
+586,41,6486,20.0,90.0,,41,35,Türk Dili,4,0,4,6486,Elif,DAUT,elif.daut52@gmail.com,5381440411,1991-05-26,34,False,50595365044,0
+587,93,6486,75.0,65.0,,93,35,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6486,Elif,DAUT,elif.daut52@gmail.com,5381440411,1991-05-26,34,False,50595365044,0
+588,145,6486,10.0,34.0,,145,35,İngilizce,4,0,4,6486,Elif,DAUT,elif.daut52@gmail.com,5381440411,1991-05-26,34,False,50595365044,0
+589,15,7797,15.0,68.0,,15,1,Türk Dili,4,0,4,7797,Armağan,GÜVERCİN,armağan.güvercin18@gmail.com,5441310654,1999-12-20,34,True,36371615921,0
+590,67,7797,40.0,34.0,,67,1,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7797,Armağan,GÜVERCİN,armağan.güvercin18@gmail.com,5441310654,1999-12-20,34,True,36371615921,0
+591,119,7797,69.0,35.0,,119,1,İngilizce,4,0,4,7797,Armağan,GÜVERCİN,armağan.güvercin18@gmail.com,5441310654,1999-12-20,34,True,36371615921,0
+592,49,2298,68.0,70.0,,49,103,Türk Dili,4,0,4,2298,Bülent,YAZICI KESKİN,bülent.yazıcı keskin84@gmail.com,5495969517,1999-10-05,1,True,24203500295,1
+593,101,2298,11.0,96.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2298,Bülent,YAZICI KESKİN,bülent.yazıcı keskin84@gmail.com,5495969517,1999-10-05,1,True,24203500295,1
+594,153,2298,33.0,57.0,,153,103,İngilizce,4,0,4,2298,Bülent,YAZICI KESKİN,bülent.yazıcı keskin84@gmail.com,5495969517,1999-10-05,1,True,24203500295,1
+595,34,4945,18.0,57.0,,34,20,Türk Dili,4,0,4,4945,Bekir,KURUCA,bekir.kuruca72@gmail.com,5346385273,1997-03-27,44,True,85594958218,7
+596,86,4945,10.0,24.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4945,Bekir,KURUCA,bekir.kuruca72@gmail.com,5346385273,1997-03-27,44,True,85594958218,7
+597,138,4945,34.0,37.0,,138,20,İngilizce,4,0,4,4945,Bekir,KURUCA,bekir.kuruca72@gmail.com,5346385273,1997-03-27,44,True,85594958218,7
+598,47,4840,99.0,36.0,,47,78,Türk Dili,4,0,4,4840,HANDAN ASUDE,KARABULUT,handan asude.karabulut38@gmail.com,5584329979,1991-12-09,54,False,67896115699,0
+599,99,4840,88.0,14.0,,99,78,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4840,HANDAN ASUDE,KARABULUT,handan asude.karabulut38@gmail.com,5584329979,1991-12-09,54,False,67896115699,0
+600,151,4840,50.0,50.0,,151,78,İngilizce,4,0,4,4840,HANDAN ASUDE,KARABULUT,handan asude.karabulut38@gmail.com,5584329979,1991-12-09,54,False,67896115699,0
+601,50,4774,65.0,35.0,,50,107,Türk Dili,4,0,4,4774,Bülent Ümit,PAÇACI,bülent ümit.paçacı59@gmail.com,5582987110,1996-04-06,34,True,50985716250,0
+602,102,4774,70.0,71.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4774,Bülent Ümit,PAÇACI,bülent ümit.paçacı59@gmail.com,5582987110,1996-04-06,34,True,50985716250,0
+603,154,4774,10.0,91.0,,154,107,İngilizce,4,0,4,4774,Bülent Ümit,PAÇACI,bülent ümit.paçacı59@gmail.com,5582987110,1996-04-06,34,True,50985716250,0
+604,56,8605,25.0,68.0,,56,182,Türk Dili,4,0,4,8605,Suat,SELÇUK,suat.selçuk29@gmail.com,5512306752,1984-11-28,34,True,53314851016,0
+605,108,8605,71.0,41.0,,108,182,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8605,Suat,SELÇUK,suat.selçuk29@gmail.com,5512306752,1984-11-28,34,True,53314851016,0
+606,160,8605,81.0,62.0,,160,182,İngilizce,4,0,4,8605,Suat,SELÇUK,suat.selçuk29@gmail.com,5512306752,1984-11-28,34,True,53314851016,0
+607,61,2583,77.0,100.0,,61,187,Türk Dili,4,0,4,2583,Kemalettin,ÖZDEMİRKAN,kemalettin.özdemirkan34@gmail.com,5503031943,1989-11-01,16,True,52601810704,0
+608,113,2583,5.0,71.0,,113,187,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2583,Kemalettin,ÖZDEMİRKAN,kemalettin.özdemirkan34@gmail.com,5503031943,1989-11-01,16,True,52601810704,0
+609,165,2583,97.0,21.0,,165,187,İngilizce,4,0,4,2583,Kemalettin,ÖZDEMİRKAN,kemalettin.özdemirkan34@gmail.com,5503031943,1989-11-01,16,True,52601810704,0
+610,41,2618,24.0,14.0,,41,35,Türk Dili,4,0,4,2618,Hatice Duygu,ŞENTÜRK,hatice duygu.şentürk41@gmail.com,5567974182,1985-07-21,43,False,75787123028,7
+611,93,2618,15.0,99.0,,93,35,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2618,Hatice Duygu,ŞENTÜRK,hatice duygu.şentürk41@gmail.com,5567974182,1985-07-21,43,False,75787123028,7
+612,145,2618,13.0,3.0,,145,35,İngilizce,4,0,4,2618,Hatice Duygu,ŞENTÜRK,hatice duygu.şentürk41@gmail.com,5567974182,1985-07-21,43,False,75787123028,7
+613,43,7215,33.0,11.0,,43,63,Türk Dili,4,0,4,7215,Barış,DEMİR,barış.demir55@gmail.com,5519169311,1989-01-01,34,True,21858019897,0
+614,95,7215,88.0,91.0,,95,63,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7215,Barış,DEMİR,barış.demir55@gmail.com,5519169311,1989-01-01,34,True,21858019897,0
+615,147,7215,3.0,3.0,,147,63,İngilizce,4,0,4,7215,Barış,DEMİR,barış.demir55@gmail.com,5519169311,1989-01-01,34,True,21858019897,0
+616,18,5582,46.0,24.0,,18,4,Türk Dili,4,0,4,5582,Tuğba,KAŞMER,tuğba.kaşmer11@gmail.com,5487541281,1998-07-28,22,False,66620100253,0
+617,70,5582,20.0,61.0,,70,4,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5582,Tuğba,KAŞMER,tuğba.kaşmer11@gmail.com,5487541281,1998-07-28,22,False,66620100253,0
+618,122,5582,57.0,48.0,,122,4,İngilizce,4,0,4,5582,Tuğba,KAŞMER,tuğba.kaşmer11@gmail.com,5487541281,1998-07-28,22,False,66620100253,0
+619,30,6488,22.0,1.0,,30,16,Türk Dili,4,0,4,6488,Murat,YALÇIN,murat.yalçın58@gmail.com,5553583573,1999-02-25,34,True,51016862259,0
+620,82,6488,74.0,97.0,,82,16,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6488,Murat,YALÇIN,murat.yalçın58@gmail.com,5553583573,1999-02-25,34,True,51016862259,0
+621,134,6488,6.0,60.0,,134,16,İngilizce,4,0,4,6488,Murat,YALÇIN,murat.yalçın58@gmail.com,5553583573,1999-02-25,34,True,51016862259,0
+622,55,6280,60.0,9.0,,55,181,Türk Dili,4,0,4,6280,Mutlu,TANRIVERDİ,mutlu.tanrıverdi78@gmail.com,5542509865,1992-05-27,6,True,33951349130,0
+623,107,6280,37.0,69.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6280,Mutlu,TANRIVERDİ,mutlu.tanrıverdi78@gmail.com,5542509865,1992-05-27,6,True,33951349130,0
+624,159,6280,84.0,12.0,,159,181,İngilizce,4,0,4,6280,Mutlu,TANRIVERDİ,mutlu.tanrıverdi78@gmail.com,5542509865,1992-05-27,6,True,33951349130,0
+625,64,2576,11.0,66.0,,64,290,Türk Dili,4,0,4,2576,Sefa,ÖZ,sefa.öz17@gmail.com,5444700216,1984-07-16,28,True,19972238434,7
+626,116,2576,41.0,39.0,,116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2576,Sefa,ÖZ,sefa.öz17@gmail.com,5444700216,1984-07-16,28,True,19972238434,7
+627,168,2576,46.0,47.0,,168,290,İngilizce,4,0,4,2576,Sefa,ÖZ,sefa.öz17@gmail.com,5444700216,1984-07-16,28,True,19972238434,7
+628,28,2371,44.0,58.0,,28,14,Türk Dili,4,0,4,2371,Şahin,ÖZTÜRK,şahin.öztürk39@gmail.com,5586965440,2000-02-24,48,True,62830381865,1
+629,80,2371,91.0,90.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2371,Şahin,ÖZTÜRK,şahin.öztürk39@gmail.com,5586965440,2000-02-24,48,True,62830381865,1
+630,132,2371,88.0,34.0,,132,14,İngilizce,4,0,4,2371,Şahin,ÖZTÜRK,şahin.öztürk39@gmail.com,5586965440,2000-02-24,48,True,62830381865,1
+631,40,8862,84.0,88.0,,40,30,Türk Dili,4,0,4,8862,Saadettin,PENÇE,saadettin.pençe62@gmail.com,5316335593,1993-03-13,51,True,95279174187,0
+632,92,8862,59.0,61.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8862,Saadettin,PENÇE,saadettin.pençe62@gmail.com,5316335593,1993-03-13,51,True,95279174187,0
+633,144,8862,95.0,69.0,,144,30,İngilizce,4,0,4,8862,Saadettin,PENÇE,saadettin.pençe62@gmail.com,5316335593,1993-03-13,51,True,95279174187,0
+634,63,8338,97.0,33.0,,63,289,Türk Dili,4,0,4,8338,Merve,KOCA,merve.koca82@gmail.com,5526694318,1991-06-18,34,False,76630486983,0
+635,115,8338,21.0,5.0,,115,289,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8338,Merve,KOCA,merve.koca82@gmail.com,5526694318,1991-06-18,34,False,76630486983,0
+636,167,8338,34.0,84.0,,167,289,İngilizce,4,0,4,8338,Merve,KOCA,merve.koca82@gmail.com,5526694318,1991-06-18,34,False,76630486983,0
+637,65,6138,82.0,59.0,,65,291,Türk Dili,4,0,4,6138,Resul,TAŞKIN,resul.taşkın92@gmail.com,5524898537,1982-04-28,18,True,60107553795,0
+638,117,6138,54.0,31.0,,117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6138,Resul,TAŞKIN,resul.taşkın92@gmail.com,5524898537,1982-04-28,18,True,60107553795,0
+639,169,6138,42.0,2.0,,169,291,İngilizce,4,0,4,6138,Resul,TAŞKIN,resul.taşkın92@gmail.com,5524898537,1982-04-28,18,True,60107553795,0
+640,47,4761,6.0,17.0,,47,78,Türk Dili,4,0,4,4761,AHMET,KILIÇ,ahmet.kılıç61@gmail.com,5363997876,1989-12-02,28,True,66180235753,0
+641,99,4761,89.0,65.0,,99,78,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4761,AHMET,KILIÇ,ahmet.kılıç61@gmail.com,5363997876,1989-12-02,28,True,66180235753,0
+642,151,4761,96.0,88.0,,151,78,İngilizce,4,0,4,4761,AHMET,KILIÇ,ahmet.kılıç61@gmail.com,5363997876,1989-12-02,28,True,66180235753,0
+643,30,5763,27.0,95.0,,30,16,Türk Dili,4,0,4,5763,Fatih,BAŞAR,fatih.başar23@gmail.com,5593182388,1985-08-12,34,False,15422595894,0
+644,82,5763,85.0,67.0,,82,16,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5763,Fatih,BAŞAR,fatih.başar23@gmail.com,5593182388,1985-08-12,34,False,15422595894,0
+645,134,5763,66.0,19.0,,134,16,İngilizce,4,0,4,5763,Fatih,BAŞAR,fatih.başar23@gmail.com,5593182388,1985-08-12,34,False,15422595894,0
+646,50,6901,46.0,51.0,,50,107,Türk Dili,4,0,4,6901,MEHMET İZZET,ÖZTİMUR,mehmet izzet.öztimur24@gmail.com,5303930612,1988-01-01,6,True,84800776375,5
+647,102,6901,41.0,80.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6901,MEHMET İZZET,ÖZTİMUR,mehmet izzet.öztimur24@gmail.com,5303930612,1988-01-01,6,True,84800776375,5
+648,154,6901,50.0,32.0,,154,107,İngilizce,4,0,4,6901,MEHMET İZZET,ÖZTİMUR,mehmet izzet.öztimur24@gmail.com,5303930612,1988-01-01,6,True,84800776375,5
+649,24,6034,98.0,73.0,,24,10,Türk Dili,4,0,4,6034,Cengiz,TURAN,cengiz.turan53@gmail.com,5493209204,1997-03-04,34,True,83377930574,0
+650,76,6034,26.0,5.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6034,Cengiz,TURAN,cengiz.turan53@gmail.com,5493209204,1997-03-04,34,True,83377930574,0
+651,128,6034,38.0,55.0,,128,10,İngilizce,4,0,4,6034,Cengiz,TURAN,cengiz.turan53@gmail.com,5493209204,1997-03-04,34,True,83377930574,0
+652,53,7565,20.0,53.0,,53,179,Türk Dili,4,0,4,7565,Çağrı Kaan,ÇETİN,çağrı kaan.çetin42@gmail.com,5536398582,2002-05-23,7,True,96346552444,0
+653,105,7565,41.0,98.0,,105,179,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7565,Çağrı Kaan,ÇETİN,çağrı kaan.çetin42@gmail.com,5536398582,2002-05-23,7,True,96346552444,0
+654,157,7565,17.0,68.0,,157,179,İngilizce,4,0,4,7565,Çağrı Kaan,ÇETİN,çağrı kaan.çetin42@gmail.com,5536398582,2002-05-23,7,True,96346552444,0
+655,33,5806,76.0,45.0,,33,19,Türk Dili,4,0,4,5806,Pelin,ERGİNSOY,pelin.erginsoy61@gmail.com,5342129781,1987-10-15,34,False,42091156243,0
+656,85,5806,61.0,71.0,,85,19,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5806,Pelin,ERGİNSOY,pelin.erginsoy61@gmail.com,5342129781,1987-10-15,34,False,42091156243,0
+657,137,5806,56.0,19.0,,137,19,İngilizce,4,0,4,5806,Pelin,ERGİNSOY,pelin.erginsoy61@gmail.com,5342129781,1987-10-15,34,False,42091156243,0
+658,34,6914,14.0,40.0,,34,20,Türk Dili,4,0,4,6914,ÜMİT,KISKAÇ,ümit.kıskaç13@gmail.com,5422723218,2002-03-01,10,False,97373072921,0
+659,86,6914,65.0,16.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6914,ÜMİT,KISKAÇ,ümit.kıskaç13@gmail.com,5422723218,2002-03-01,10,False,97373072921,0
+660,138,6914,68.0,84.0,,138,20,İngilizce,4,0,4,6914,ÜMİT,KISKAÇ,ümit.kıskaç13@gmail.com,5422723218,2002-03-01,10,False,97373072921,0
+661,50,4992,85.0,76.0,,50,107,Türk Dili,4,0,4,4992,Mehmet,YAZICIOĞLU,mehmet.yazıcıoğlu86@gmail.com,5318639929,1994-07-01,44,True,86947792022,0
+662,102,4992,2.0,36.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4992,Mehmet,YAZICIOĞLU,mehmet.yazıcıoğlu86@gmail.com,5318639929,1994-07-01,44,True,86947792022,0
+663,154,4992,61.0,87.0,,154,107,İngilizce,4,0,4,4992,Mehmet,YAZICIOĞLU,mehmet.yazıcıoğlu86@gmail.com,5318639929,1994-07-01,44,True,86947792022,0
+664,55,6558,89.0,63.0,,55,181,Türk Dili,4,0,4,6558,Yurdagül,Y,yurdagül.y16@gmail.com,5347752623,1995-11-14,34,False,21103150679,0
+665,107,6558,24.0,84.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6558,Yurdagül,Y,yurdagül.y16@gmail.com,5347752623,1995-11-14,34,False,21103150679,0
+666,159,6558,29.0,73.0,,159,181,İngilizce,4,0,4,6558,Yurdagül,Y,yurdagül.y16@gmail.com,5347752623,1995-11-14,34,False,21103150679,0
+667,44,7500,56.0,35.0,,44,75,Türk Dili,4,0,4,7500,İlhan,ARSLAN,ilhan.arslan48@gmail.com,5532903987,1993-08-08,34,True,22378162405,3
+668,96,7500,7.0,21.0,,96,75,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7500,İlhan,ARSLAN,ilhan.arslan48@gmail.com,5532903987,1993-08-08,34,True,22378162405,3
+669,148,7500,6.0,42.0,,148,75,İngilizce,4,0,4,7500,İlhan,ARSLAN,ilhan.arslan48@gmail.com,5532903987,1993-08-08,34,True,22378162405,3
+670,38,4418,27.0,86.0,,38,28,Türk Dili,4,0,4,4418,Şaziye Eda,ÖZBÜTÜN,şaziye eda.özbütün90@gmail.com,5581972825,1982-05-24,58,False,49985316503,0
+671,90,4418,66.0,18.0,,90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4418,Şaziye Eda,ÖZBÜTÜN,şaziye eda.özbütün90@gmail.com,5581972825,1982-05-24,58,False,49985316503,0
+672,142,4418,17.0,63.0,,142,28,İngilizce,4,0,4,4418,Şaziye Eda,ÖZBÜTÜN,şaziye eda.özbütün90@gmail.com,5581972825,1982-05-24,58,False,49985316503,0
+673,26,8619,55.0,93.0,,26,12,Türk Dili,4,0,4,8619,Hamit,İLME,hamit.ilme65@gmail.com,5485322100,1988-03-15,34,True,88887070060,0
+674,78,8619,70.0,41.0,,78,12,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8619,Hamit,İLME,hamit.ilme65@gmail.com,5485322100,1988-03-15,34,True,88887070060,0
+675,130,8619,82.0,74.0,,130,12,İngilizce,4,0,4,8619,Hamit,İLME,hamit.ilme65@gmail.com,5485322100,1988-03-15,34,True,88887070060,0
+676,55,6968,3.0,3.0,,55,181,Türk Dili,4,0,4,6968,MURAT,IŞIKLAR,murat.ışıklar82@gmail.com,5452037318,1993-08-21,10,True,58234561908,7
+677,107,6968,44.0,2.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6968,MURAT,IŞIKLAR,murat.ışıklar82@gmail.com,5452037318,1993-08-21,10,True,58234561908,7
+678,159,6968,25.0,83.0,,159,181,İngilizce,4,0,4,6968,MURAT,IŞIKLAR,murat.ışıklar82@gmail.com,5452037318,1993-08-21,10,True,58234561908,7
+679,2,6886,52.0,21.0,,2,8,Hukuka Giriş,3,0,5,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+680,4,6886,10.0,38.0,,4,8,Genel Matematik,3,0,5,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+681,6,6886,72.0,5.0,,6,8,Bilişim Sistemlerine Giriş,3,0,5,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+682,7,6886,11.0,43.0,,7,8,Alritma ve Programlamaya Giriş,3,1,5,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+683,8,6886,97.0,41.0,,8,8,Veri Yapıları,2,1,5,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+684,9,6886,24.0,99.0,,9,8,Nesneye Dayalı Modelleme ve Programlama,3,0,6,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+685,74,6886,40.0,8.0,,74,8,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+686,126,6886,14.0,49.0,,126,8,İngilizce,4,0,4,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+687,10,6886,55.0,70.0,,10,8,Python,1,1,5,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+688,11,6886,94.0,46.0,,11,8,Veri Tabanı ve Veri Tabanı Yönetim Sistemleri,4,0,7,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+689,12,6886,4.0,24.0,,12,8,Veri Madenciliği ve İş Zekası,2,0,5,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+690,13,6886,18.0,9.0,,13,8,Sistem Analizi ve Tasarımı,4,0,7,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+691,14,6886,91.0,29.0,,14,8,Mobil Programlama,1,1,5,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+692,22,6886,51.0,24.0,,22,8,Türk Dili,4,0,4,6886,YASEMİN,PARILTI,yasemin.parıltı36@gmail.com,5446610428,2003-02-26,81,False,72825480291,1
+693,36,8319,42.0,48.0,,36,22,Türk Dili,4,0,4,8319,İbrahim,KARADENİZ,ibrahim.karadeniz12@gmail.com,5418709891,1998-10-20,47,True,37328651571,0
+694,88,8319,77.0,45.0,,88,22,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8319,İbrahim,KARADENİZ,ibrahim.karadeniz12@gmail.com,5418709891,1998-10-20,47,True,37328651571,0
+695,140,8319,34.0,96.0,,140,22,İngilizce,4,0,4,8319,İbrahim,KARADENİZ,ibrahim.karadeniz12@gmail.com,5418709891,1998-10-20,47,True,37328651571,0
+696,17,5832,12.0,98.0,,17,3,Türk Dili,4,0,4,5832,Seray,ŞAHİN,seray.şahin73@gmail.com,5496072561,1987-09-03,22,False,81411768676,0
+697,69,5832,47.0,24.0,,69,3,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5832,Seray,ŞAHİN,seray.şahin73@gmail.com,5496072561,1987-09-03,22,False,81411768676,0
+698,121,5832,18.0,79.0,,121,3,İngilizce,4,0,4,5832,Seray,ŞAHİN,seray.şahin73@gmail.com,5496072561,1987-09-03,22,False,81411768676,0
+699,60,7112,5.0,59.0,,60,186,Türk Dili,4,0,4,7112,Kadir,CENGİZ,kadir.cengiz16@gmail.com,5512000962,1997-11-15,34,True,70673273981,0
+700,112,7112,60.0,11.0,,112,186,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7112,Kadir,CENGİZ,kadir.cengiz16@gmail.com,5512000962,1997-11-15,34,True,70673273981,0
+701,164,7112,53.0,54.0,,164,186,İngilizce,4,0,4,7112,Kadir,CENGİZ,kadir.cengiz16@gmail.com,5512000962,1997-11-15,34,True,70673273981,0
+702,23,6905,46.0,25.0,,23,9,Türk Dili,4,0,4,6905,SERKAN,SOY,serkan.soy21@gmail.com,5436725615,1981-06-19,20,True,49677165329,1
+703,75,6905,46.0,21.0,,75,9,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6905,SERKAN,SOY,serkan.soy21@gmail.com,5436725615,1981-06-19,20,True,49677165329,1
+704,127,6905,55.0,7.0,,127,9,İngilizce,4,0,4,6905,SERKAN,SOY,serkan.soy21@gmail.com,5436725615,1981-06-19,20,True,49677165329,1
+705,61,8684,2.0,45.0,,61,187,Türk Dili,4,0,4,8684,Fuat,ONBAŞILI,fuat.onbaşılı27@gmail.com,5343272516,2000-12-15,38,True,91502618766,0
+706,113,8684,93.0,46.0,,113,187,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8684,Fuat,ONBAŞILI,fuat.onbaşılı27@gmail.com,5343272516,2000-12-15,38,True,91502618766,0
+707,165,8684,36.0,40.0,,165,187,İngilizce,4,0,4,8684,Fuat,ONBAŞILI,fuat.onbaşılı27@gmail.com,5343272516,2000-12-15,38,True,91502618766,0
+708,23,8689,37.0,24.0,,23,9,Türk Dili,4,0,4,8689,Buse,KUĞUOĞLU,buse.kuğuoğlu78@gmail.com,5477913479,1987-02-10,34,False,33318435500,0
+709,75,8689,41.0,33.0,,75,9,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8689,Buse,KUĞUOĞLU,buse.kuğuoğlu78@gmail.com,5477913479,1987-02-10,34,False,33318435500,0
+710,127,8689,9.0,23.0,,127,9,İngilizce,4,0,4,8689,Buse,KUĞUOĞLU,buse.kuğuoğlu78@gmail.com,5477913479,1987-02-10,34,False,33318435500,0
+711,24,7738,92.0,43.0,,24,10,Türk Dili,4,0,4,7738,Mert,OSKAN,mert.oskan42@gmail.com,5377698117,1997-08-18,16,True,82480957528,1
+712,76,7738,14.0,68.0,,76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7738,Mert,OSKAN,mert.oskan42@gmail.com,5377698117,1997-08-18,16,True,82480957528,1
+713,128,7738,52.0,4.0,,128,10,İngilizce,4,0,4,7738,Mert,OSKAN,mert.oskan42@gmail.com,5377698117,1997-08-18,16,True,82480957528,1
+714,60,8683,49.0,47.0,,60,186,Türk Dili,4,0,4,8683,Ensar,TOPCU,ensar.topcu65@gmail.com,5584947824,1991-05-22,25,True,57824899937,0
+715,112,8683,42.0,16.0,,112,186,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8683,Ensar,TOPCU,ensar.topcu65@gmail.com,5584947824,1991-05-22,25,True,57824899937,0
+716,164,8683,88.0,96.0,,164,186,İngilizce,4,0,4,8683,Ensar,TOPCU,ensar.topcu65@gmail.com,5584947824,1991-05-22,25,True,57824899937,0
+717,26,6294,64.0,20.0,,26,12,Türk Dili,4,0,4,6294,Kıymet,GENÇ,kıymet.genç99@gmail.com,5571316729,1989-09-21,45,False,93430299711,0
+718,78,6294,99.0,39.0,,78,12,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6294,Kıymet,GENÇ,kıymet.genç99@gmail.com,5571316729,1989-09-21,45,False,93430299711,0
+719,130,6294,25.0,40.0,,130,12,İngilizce,4,0,4,6294,Kıymet,GENÇ,kıymet.genç99@gmail.com,5571316729,1989-09-21,45,False,93430299711,0
+720,35,8045,62.0,93.0,,35,21,Türk Dili,4,0,4,8045,Nevzat,YUŞAN,nevzat.yuşan16@gmail.com,5468200163,1992-12-16,27,True,99659572168,0
+721,87,8045,99.0,16.0,,87,21,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8045,Nevzat,YUŞAN,nevzat.yuşan16@gmail.com,5468200163,1992-12-16,27,True,99659572168,0
+722,139,8045,12.0,75.0,,139,21,İngilizce,4,0,4,8045,Nevzat,YUŞAN,nevzat.yuşan16@gmail.com,5468200163,1992-12-16,27,True,99659572168,0
+723,17,6454,5.0,8.0,,17,3,Türk Dili,4,0,4,6454,Burak,KARAYEL,burak.karayel54@gmail.com,5371456513,2002-01-03,34,True,34586630649,0
+724,69,6454,43.0,2.0,,69,3,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6454,Burak,KARAYEL,burak.karayel54@gmail.com,5371456513,2002-01-03,34,True,34586630649,0
+725,121,6454,74.0,62.0,,121,3,İngilizce,4,0,4,6454,Burak,KARAYEL,burak.karayel54@gmail.com,5371456513,2002-01-03,34,True,34586630649,0
+726,52,2439,10.0,13.0,,52,178,Türk Dili,4,0,4,2439,Duygu,ÖZEL,duygu.özel38@gmail.com,5538314646,1994-06-11,34,False,94139200504,2
+727,104,2439,12.0,45.0,,104,178,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2439,Duygu,ÖZEL,duygu.özel38@gmail.com,5538314646,1994-06-11,34,False,94139200504,2
+728,156,2439,8.0,23.0,,156,178,İngilizce,4,0,4,2439,Duygu,ÖZEL,duygu.özel38@gmail.com,5538314646,1994-06-11,34,False,94139200504,2
+729,43,6590,90.0,37.0,,43,63,Türk Dili,4,0,4,6590,Ezgi,ABUDUREXITI,ezgi.abudurexıtı91@gmail.com,5581012528,1981-05-03,34,False,79205093278,0
+730,95,6590,15.0,29.0,,95,63,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6590,Ezgi,ABUDUREXITI,ezgi.abudurexıtı91@gmail.com,5581012528,1981-05-03,34,False,79205093278,0
+731,147,6590,39.0,34.0,,147,63,İngilizce,4,0,4,6590,Ezgi,ABUDUREXITI,ezgi.abudurexıtı91@gmail.com,5581012528,1981-05-03,34,False,79205093278,0
+732,2,6475,27.0,21.0,,2,8,Hukuka Giriş,3,0,5,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+733,4,6475,32.0,86.0,,4,8,Genel Matematik,3,0,5,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+734,6,6475,48.0,78.0,,6,8,Bilişim Sistemlerine Giriş,3,0,5,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+735,7,6475,30.0,22.0,,7,8,Alritma ve Programlamaya Giriş,3,1,5,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+736,8,6475,27.0,16.0,,8,8,Veri Yapıları,2,1,5,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+737,9,6475,14.0,59.0,,9,8,Nesneye Dayalı Modelleme ve Programlama,3,0,6,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+738,74,6475,64.0,68.0,,74,8,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+739,126,6475,71.0,92.0,,126,8,İngilizce,4,0,4,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+740,10,6475,99.0,85.0,,10,8,Python,1,1,5,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+741,11,6475,2.0,23.0,,11,8,Veri Tabanı ve Veri Tabanı Yönetim Sistemleri,4,0,7,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+742,12,6475,49.0,35.0,,12,8,Veri Madenciliği ve İş Zekası,2,0,5,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+743,13,6475,45.0,68.0,,13,8,Sistem Analizi ve Tasarımı,4,0,7,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+744,14,6475,46.0,35.0,,14,8,Mobil Programlama,1,1,5,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+745,22,6475,76.0,100.0,,22,8,Türk Dili,4,0,4,6475,Fatma,ARICAN,fatma.arıcan23@gmail.com,5571586351,1989-08-15,35,False,24674851319,0
+746,33,2539,52.0,98.0,,33,19,Türk Dili,4,0,4,2539,İsmail,HUSEYNOV,ismail.huseynov11@gmail.com,5463396852,2001-02-14,9,True,85867220901,0
+747,85,2539,2.0,3.0,,85,19,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2539,İsmail,HUSEYNOV,ismail.huseynov11@gmail.com,5463396852,2001-02-14,9,True,85867220901,0
+748,137,2539,22.0,40.0,,137,19,İngilizce,4,0,4,2539,İsmail,HUSEYNOV,ismail.huseynov11@gmail.com,5463396852,2001-02-14,9,True,85867220901,0
+749,17,4815,31.0,55.0,,17,3,Türk Dili,4,0,4,4815,UĞUR,XIAOHELAITI,uğur.xıaohelaıtı45@gmail.com,5551868499,1991-04-02,80,True,86928001279,0
+750,69,4815,22.0,80.0,,69,3,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4815,UĞUR,XIAOHELAITI,uğur.xıaohelaıtı45@gmail.com,5551868499,1991-04-02,80,True,86928001279,0
+751,121,4815,15.0,58.0,,121,3,İngilizce,4,0,4,4815,UĞUR,XIAOHELAITI,uğur.xıaohelaıtı45@gmail.com,5551868499,1991-04-02,80,True,86928001279,0
+752,23,2378,80.0,23.0,,23,9,Türk Dili,4,0,4,2378,Engin,Bilir,engin.bilir11@gmail.com,5423430175,1996-03-15,34,True,88632164333,0
+753,75,2378,95.0,51.0,,75,9,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2378,Engin,Bilir,engin.bilir11@gmail.com,5423430175,1996-03-15,34,True,88632164333,0
+754,127,2378,50.0,4.0,,127,9,İngilizce,4,0,4,2378,Engin,Bilir,engin.bilir11@gmail.com,5423430175,1996-03-15,34,True,88632164333,0
+755,15,6328,44.0,3.0,,15,1,Türk Dili,4,0,4,6328,Sema,YENEN,sema.yenen42@gmail.com,5407227935,1983-11-19,34,False,48823457140,0
+756,67,6328,56.0,100.0,,67,1,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6328,Sema,YENEN,sema.yenen42@gmail.com,5407227935,1983-11-19,34,False,48823457140,0
+757,119,6328,27.0,22.0,,119,1,İngilizce,4,0,4,6328,Sema,YENEN,sema.yenen42@gmail.com,5407227935,1983-11-19,34,False,48823457140,0
+758,33,8497,2.0,4.0,,33,19,Türk Dili,4,0,4,8497,Melek,KURSUN,melek.kursun68@gmail.com,5606260559,1996-12-26,53,False,90088809213,0
+759,85,8497,59.0,22.0,,85,19,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8497,Melek,KURSUN,melek.kursun68@gmail.com,5606260559,1996-12-26,53,False,90088809213,0
+760,137,8497,9.0,22.0,,137,19,İngilizce,4,0,4,8497,Melek,KURSUN,melek.kursun68@gmail.com,5606260559,1996-12-26,53,False,90088809213,0
+761,47,5221,17.0,19.0,,47,78,Türk Dili,4,0,4,5221,Feyza,MIZRAK,feyza.mızrak70@gmail.com,5595366150,1986-02-26,34,False,72492374129,0
+762,99,5221,42.0,73.0,,99,78,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5221,Feyza,MIZRAK,feyza.mızrak70@gmail.com,5595366150,1986-02-26,34,False,72492374129,0
+763,151,5221,58.0,73.0,,151,78,İngilizce,4,0,4,5221,Feyza,MIZRAK,feyza.mızrak70@gmail.com,5595366150,1986-02-26,34,False,72492374129,0
+764,55,7615,1.0,51.0,,55,181,Türk Dili,4,0,4,7615,Abdulvehhab,AĞIN,abdulvehhab.ağın93@gmail.com,5597884111,1986-01-17,16,True,40697735593,0
+765,107,7615,67.0,99.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7615,Abdulvehhab,AĞIN,abdulvehhab.ağın93@gmail.com,5597884111,1986-01-17,16,True,40697735593,0
+766,159,7615,64.0,47.0,,159,181,İngilizce,4,0,4,7615,Abdulvehhab,AĞIN,abdulvehhab.ağın93@gmail.com,5597884111,1986-01-17,16,True,40697735593,0
+767,17,7262,19.0,15.0,,17,3,Türk Dili,4,0,4,7262,Baran,ÖRS,baran.örs33@gmail.com,5573623180,1996-12-10,4,True,36957491749,0
+768,69,7262,44.0,22.0,,69,3,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7262,Baran,ÖRS,baran.örs33@gmail.com,5573623180,1996-12-10,4,True,36957491749,0
+769,121,7262,67.0,12.0,,121,3,İngilizce,4,0,4,7262,Baran,ÖRS,baran.örs33@gmail.com,5573623180,1996-12-10,4,True,36957491749,0
+770,28,7115,71.0,50.0,,28,14,Türk Dili,4,0,4,7115,Eyup,TEKECE,eyup.tekece68@gmail.com,5498815207,1998-04-15,34,True,17998656071,0
+771,80,7115,4.0,68.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7115,Eyup,TEKECE,eyup.tekece68@gmail.com,5498815207,1998-04-15,34,True,17998656071,0
+772,132,7115,39.0,8.0,,132,14,İngilizce,4,0,4,7115,Eyup,TEKECE,eyup.tekece68@gmail.com,5498815207,1998-04-15,34,True,17998656071,0
+773,38,6314,88.0,33.0,,38,28,Türk Dili,4,0,4,6314,Sezen,OĞUZ,sezen.oğuz83@gmail.com,5567519863,2002-03-20,29,False,38697401965,0
+774,90,6314,14.0,74.0,,90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6314,Sezen,OĞUZ,sezen.oğuz83@gmail.com,5567519863,2002-03-20,29,False,38697401965,0
+775,142,6314,46.0,96.0,,142,28,İngilizce,4,0,4,6314,Sezen,OĞUZ,sezen.oğuz83@gmail.com,5567519863,2002-03-20,29,False,38697401965,0
+776,16,5160,85.0,41.0,,16,2,Türk Dili,4,0,4,5160,Seda,ALASTTAL,seda.alasttal30@gmail.com,5372126962,2003-04-23,10,False,44438489619,0
+777,68,5160,40.0,79.0,,68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5160,Seda,ALASTTAL,seda.alasttal30@gmail.com,5372126962,2003-04-23,10,False,44438489619,0
+778,120,5160,42.0,97.0,,120,2,İngilizce,4,0,4,5160,Seda,ALASTTAL,seda.alasttal30@gmail.com,5372126962,2003-04-23,10,False,44438489619,0
+779,35,8169,6.0,57.0,,35,21,Türk Dili,4,0,4,8169,Hacı Mehmet,BOYRAZ,hacı mehmet.boyraz63@gmail.com,5341225433,1995-11-21,35,True,68119452220,7
+780,87,8169,61.0,2.0,,87,21,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8169,Hacı Mehmet,BOYRAZ,hacı mehmet.boyraz63@gmail.com,5341225433,1995-11-21,35,True,68119452220,7
+781,139,8169,29.0,4.0,,139,21,İngilizce,4,0,4,8169,Hacı Mehmet,BOYRAZ,hacı mehmet.boyraz63@gmail.com,5341225433,1995-11-21,35,True,68119452220,7
+782,50,5256,87.0,91.0,,50,107,Türk Dili,4,0,4,5256,Mertkan,ERGÜN,mertkan.ergün11@gmail.com,5498430399,1989-05-18,34,True,48879543597,5
+783,102,5256,39.0,4.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5256,Mertkan,ERGÜN,mertkan.ergün11@gmail.com,5498430399,1989-05-18,34,True,48879543597,5
+784,154,5256,52.0,15.0,,154,107,İngilizce,4,0,4,5256,Mertkan,ERGÜN,mertkan.ergün11@gmail.com,5498430399,1989-05-18,34,True,48879543597,5
+785,57,2355,68.0,74.0,,57,183,Türk Dili,4,0,4,2355,Ali Osman,SÜMER,ali osman.sümer90@gmail.com,5341073227,1981-07-03,43,True,72162618748,0
+786,109,2355,89.0,63.0,,109,183,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2355,Ali Osman,SÜMER,ali osman.sümer90@gmail.com,5341073227,1981-07-03,43,True,72162618748,0
+787,161,2355,27.0,44.0,,161,183,İngilizce,4,0,4,2355,Ali Osman,SÜMER,ali osman.sümer90@gmail.com,5341073227,1981-07-03,43,True,72162618748,0
+788,51,6937,20.0,85.0,,51,108,Türk Dili,4,0,4,6937,ÖMER FARUK,MIHCI AYDIN,ömer faruk.mıhcı aydın10@gmail.com,5383679516,1998-03-24,61,True,58790972998,0
+789,103,6937,59.0,91.0,,103,108,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6937,ÖMER FARUK,MIHCI AYDIN,ömer faruk.mıhcı aydın10@gmail.com,5383679516,1998-03-24,61,True,58790972998,0
+790,155,6937,39.0,17.0,,155,108,İngilizce,4,0,4,6937,ÖMER FARUK,MIHCI AYDIN,ömer faruk.mıhcı aydın10@gmail.com,5383679516,1998-03-24,61,True,58790972998,0
+791,25,5607,39.0,80.0,,25,11,Türk Dili,4,0,4,5607,Vahdet Hüseyin,BOZKIR,vahdet hüseyin.bozkır57@gmail.com,5313682966,1985-05-14,34,True,34442887569,0
+792,77,5607,31.0,41.0,,77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5607,Vahdet Hüseyin,BOZKIR,vahdet hüseyin.bozkır57@gmail.com,5313682966,1985-05-14,34,True,34442887569,0
+793,129,5607,21.0,2.0,,129,11,İngilizce,4,0,4,5607,Vahdet Hüseyin,BOZKIR,vahdet hüseyin.bozkır57@gmail.com,5313682966,1985-05-14,34,True,34442887569,0
+794,39,5916,43.0,40.0,,39,29,Türk Dili,4,0,4,5916,Yunus,YILDIRIM,yunus.yıldırım36@gmail.com,5534323775,1989-04-19,7,True,56972171234,0
+795,91,5916,75.0,28.0,,91,29,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5916,Yunus,YILDIRIM,yunus.yıldırım36@gmail.com,5534323775,1989-04-19,7,True,56972171234,0
+796,143,5916,45.0,83.0,,143,29,İngilizce,4,0,4,5916,Yunus,YILDIRIM,yunus.yıldırım36@gmail.com,5534323775,1989-04-19,7,True,56972171234,0
+797,21,6188,62.0,22.0,,21,7,Türk Dili,4,0,4,6188,Cemalettin,KILINÇ,cemalettin.kılınç62@gmail.com,5552840759,1996-01-19,72,True,93006500504,0
+798,73,6188,78.0,91.0,,73,7,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6188,Cemalettin,KILINÇ,cemalettin.kılınç62@gmail.com,5552840759,1996-01-19,72,True,93006500504,0
+799,125,6188,65.0,77.0,,125,7,İngilizce,4,0,4,6188,Cemalettin,KILINÇ,cemalettin.kılınç62@gmail.com,5552840759,1996-01-19,72,True,93006500504,0
+800,41,4761,18.0,41.0,,41,35,Türk Dili,4,0,4,4761,AHMET,KILIÇ,ahmet.kılıç61@gmail.com,5363997876,1989-12-02,28,True,66180235753,0
+801,93,4761,10.0,20.0,,93,35,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4761,AHMET,KILIÇ,ahmet.kılıç61@gmail.com,5363997876,1989-12-02,28,True,66180235753,0
+802,145,4761,13.0,9.0,,145,35,İngilizce,4,0,4,4761,AHMET,KILIÇ,ahmet.kılıç61@gmail.com,5363997876,1989-12-02,28,True,66180235753,0
+803,36,8664,51.0,75.0,,36,22,Türk Dili,4,0,4,8664,Fatih,BÜTÜNER,fatih.bütüner54@gmail.com,5562164367,1987-07-21,34,True,38451722769,0
+804,88,8664,91.0,61.0,,88,22,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8664,Fatih,BÜTÜNER,fatih.bütüner54@gmail.com,5562164367,1987-07-21,34,True,38451722769,0
+805,140,8664,27.0,53.0,,140,22,İngilizce,4,0,4,8664,Fatih,BÜTÜNER,fatih.bütüner54@gmail.com,5562164367,1987-07-21,34,True,38451722769,0
+806,37,6107,46.0,66.0,,37,27,Türk Dili,4,0,4,6107,Özge Büşra,BOZKIR,özge büşra.bozkır40@gmail.com,5511013455,1984-03-11,34,False,72518701554,0
+807,89,6107,16.0,88.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6107,Özge Büşra,BOZKIR,özge büşra.bozkır40@gmail.com,5511013455,1984-03-11,34,False,72518701554,0
+808,141,6107,85.0,74.0,,141,27,İngilizce,4,0,4,6107,Özge Büşra,BOZKIR,özge büşra.bozkır40@gmail.com,5511013455,1984-03-11,34,False,72518701554,0
+809,19,5642,18.0,63.0,,19,5,Türk Dili,4,0,4,5642,Abdullah,KARAKURT,abdullah.karakurt67@gmail.com,5456315827,2001-05-27,74,True,41664482982,0
+810,71,5642,29.0,58.0,,71,5,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5642,Abdullah,KARAKURT,abdullah.karakurt67@gmail.com,5456315827,2001-05-27,74,True,41664482982,0
+811,123,5642,6.0,92.0,,123,5,İngilizce,4,0,4,5642,Abdullah,KARAKURT,abdullah.karakurt67@gmail.com,5456315827,2001-05-27,74,True,41664482982,0
+812,16,8680,36.0,91.0,,16,2,Türk Dili,4,0,4,8680,İrem,BACAKSIZ,irem.bacaksız90@gmail.com,5332427415,1984-01-06,41,False,41353690583,0
+813,68,8680,63.0,67.0,,68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8680,İrem,BACAKSIZ,irem.bacaksız90@gmail.com,5332427415,1984-01-06,41,False,41353690583,0
+814,120,8680,94.0,97.0,,120,2,İngilizce,4,0,4,8680,İrem,BACAKSIZ,irem.bacaksız90@gmail.com,5332427415,1984-01-06,41,False,41353690583,0
+815,45,8709,18.0,70.0,,45,76,Türk Dili,4,0,4,8709,Ülkün,EKEN,ülkün.eken89@gmail.com,5587107375,1994-12-10,16,False,24717108827,0
+816,97,8709,77.0,51.0,,97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8709,Ülkün,EKEN,ülkün.eken89@gmail.com,5587107375,1994-12-10,16,False,24717108827,0
+817,149,8709,32.0,28.0,,149,76,İngilizce,4,0,4,8709,Ülkün,EKEN,ülkün.eken89@gmail.com,5587107375,1994-12-10,16,False,24717108827,0
+818,55,7792,45.0,46.0,,55,181,Türk Dili,4,0,4,7792,Ayşegül,ATAK,ayşegül.atak47@gmail.com,5358596937,1994-04-12,27,False,59931007080,1
+819,107,7792,57.0,53.0,,107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7792,Ayşegül,ATAK,ayşegül.atak47@gmail.com,5358596937,1994-04-12,27,False,59931007080,1
+820,159,7792,77.0,77.0,,159,181,İngilizce,4,0,4,7792,Ayşegül,ATAK,ayşegül.atak47@gmail.com,5358596937,1994-04-12,27,False,59931007080,1
+821,39,4725,45.0,36.0,,39,29,Türk Dili,4,0,4,4725,JALE,OĞAN,jale.oğan22@gmail.com,5474271203,1987-07-06,46,False,14573944812,0
+822,91,4725,28.0,35.0,,91,29,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4725,JALE,OĞAN,jale.oğan22@gmail.com,5474271203,1987-07-06,46,False,14573944812,0
+823,143,4725,75.0,61.0,,143,29,İngilizce,4,0,4,4725,JALE,OĞAN,jale.oğan22@gmail.com,5474271203,1987-07-06,46,False,14573944812,0
+824,54,8731,78.0,2.0,,54,180,Türk Dili,4,0,4,8731,Ahmet Sami,KURİŞ,ahmet sami.kuriş14@gmail.com,5304569872,2003-03-09,54,True,73991619677,0
+825,106,8731,27.0,21.0,,106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8731,Ahmet Sami,KURİŞ,ahmet sami.kuriş14@gmail.com,5304569872,2003-03-09,54,True,73991619677,0
+826,158,8731,11.0,91.0,,158,180,İngilizce,4,0,4,8731,Ahmet Sami,KURİŞ,ahmet sami.kuriş14@gmail.com,5304569872,2003-03-09,54,True,73991619677,0
+827,64,7086,82.0,71.0,,64,290,Türk Dili,4,0,4,7086,Ne Muhammet,KILIÇ,ne muhammet.kılıç71@gmail.com,5476609427,1994-04-09,34,True,89231555180,0
+828,116,7086,5.0,61.0,,116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7086,Ne Muhammet,KILIÇ,ne muhammet.kılıç71@gmail.com,5476609427,1994-04-09,34,True,89231555180,0
+829,168,7086,23.0,11.0,,168,290,İngilizce,4,0,4,7086,Ne Muhammet,KILIÇ,ne muhammet.kılıç71@gmail.com,5476609427,1994-04-09,34,True,89231555180,0
+830,66,2239,15.0,98.0,,66,302,Türk Dili,4,0,4,2239,Hanifi,SHARİF,hanifi.sharif91@gmail.com,5454385836,1981-08-16,46,True,78235644186,7
+831,118,2239,77.0,27.0,,118,302,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2239,Hanifi,SHARİF,hanifi.sharif91@gmail.com,5454385836,1981-08-16,46,True,78235644186,7
+832,170,2239,72.0,46.0,,170,302,İngilizce,4,0,4,2239,Hanifi,SHARİF,hanifi.sharif91@gmail.com,5454385836,1981-08-16,46,True,78235644186,7
+833,15,8471,52.0,81.0,,15,1,Türk Dili,4,0,4,8471,Güngör,BAŞDİNÇ,güngör.başdinç20@gmail.com,5488961783,1982-07-26,65,True,21979779975,0
+834,67,8471,69.0,52.0,,67,1,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8471,Güngör,BAŞDİNÇ,güngör.başdinç20@gmail.com,5488961783,1982-07-26,65,True,21979779975,0
+835,119,8471,36.0,89.0,,119,1,İngilizce,4,0,4,8471,Güngör,BAŞDİNÇ,güngör.başdinç20@gmail.com,5488961783,1982-07-26,65,True,21979779975,0
+836,64,9068,70.0,82.0,,64,290,Türk Dili,4,0,4,9068,Eray,EFE,eray.efe57@gmail.com,5485882426,2003-06-10,42,True,93909289430,0
+837,116,9068,87.0,35.0,,116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9068,Eray,EFE,eray.efe57@gmail.com,5485882426,2003-06-10,42,True,93909289430,0
+838,168,9068,97.0,17.0,,168,290,İngilizce,4,0,4,9068,Eray,EFE,eray.efe57@gmail.com,5485882426,2003-06-10,42,True,93909289430,0
+839,26,9129,81.0,17.0,,26,12,Türk Dili,4,0,4,9129,Özlem,TAŞ,özlem.taş71@gmail.com,5463067180,1999-11-28,34,False,94101601852,0
+840,78,9129,41.0,61.0,,78,12,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9129,Özlem,TAŞ,özlem.taş71@gmail.com,5463067180,1999-11-28,34,False,94101601852,0
+841,130,9129,21.0,99.0,,130,12,İngilizce,4,0,4,9129,Özlem,TAŞ,özlem.taş71@gmail.com,5463067180,1999-11-28,34,False,94101601852,0
+842,23,7735,10.0,10.0,,23,9,Türk Dili,4,0,4,7735,Nedret,APAYDIN,nedret.apaydın42@gmail.com,5348693390,1989-09-03,34,True,71702541314,1
+843,75,7735,22.0,3.0,,75,9,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7735,Nedret,APAYDIN,nedret.apaydın42@gmail.com,5348693390,1989-09-03,34,True,71702541314,1
+844,127,7735,42.0,38.0,,127,9,İngilizce,4,0,4,7735,Nedret,APAYDIN,nedret.apaydın42@gmail.com,5348693390,1989-09-03,34,True,71702541314,1
+845,42,8372,92.0,95.0,,42,55,Türk Dili,4,0,4,8372,Onur Erkan,YILDIZ,onur erkan.yıldız74@gmail.com,5335196816,1984-09-24,23,True,68545757011,0
+846,94,8372,74.0,51.0,,94,55,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8372,Onur Erkan,YILDIZ,onur erkan.yıldız74@gmail.com,5335196816,1984-09-24,23,True,68545757011,0
+847,146,8372,37.0,71.0,,146,55,İngilizce,4,0,4,8372,Onur Erkan,YILDIZ,onur erkan.yıldız74@gmail.com,5335196816,1984-09-24,23,True,68545757011,0
+848,61,8580,2.0,75.0,,61,187,Türk Dili,4,0,4,8580,Ayşe Ayça,OSMANBAŞ,ayşe ayça.osmanbaş35@gmail.com,5354050551,2002-06-20,34,False,64340919700,0
+849,113,8580,49.0,17.0,,113,187,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8580,Ayşe Ayça,OSMANBAŞ,ayşe ayça.osmanbaş35@gmail.com,5354050551,2002-06-20,34,False,64340919700,0
+850,165,8580,2.0,78.0,,165,187,İngilizce,4,0,4,8580,Ayşe Ayça,OSMANBAŞ,ayşe ayça.osmanbaş35@gmail.com,5354050551,2002-06-20,34,False,64340919700,0
+851,65,7658,23.0,60.0,,65,291,Türk Dili,4,0,4,7658,Bülent,GÜNCELER,bülent.günceler69@gmail.com,5564170684,2002-05-09,1,True,68010570000,1
+852,117,7658,21.0,48.0,,117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7658,Bülent,GÜNCELER,bülent.günceler69@gmail.com,5564170684,2002-05-09,1,True,68010570000,1
+853,169,7658,28.0,75.0,,169,291,İngilizce,4,0,4,7658,Bülent,GÜNCELER,bülent.günceler69@gmail.com,5564170684,2002-05-09,1,True,68010570000,1
+854,34,6247,44.0,24.0,,34,20,Türk Dili,4,0,4,6247,Mehmet Ali,PEÇE,mehmet ali.peçe52@gmail.com,5525527964,1998-07-18,12,True,50068942145,0
+855,86,6247,39.0,84.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6247,Mehmet Ali,PEÇE,mehmet ali.peçe52@gmail.com,5525527964,1998-07-18,12,True,50068942145,0
+856,138,6247,75.0,23.0,,138,20,İngilizce,4,0,4,6247,Mehmet Ali,PEÇE,mehmet ali.peçe52@gmail.com,5525527964,1998-07-18,12,True,50068942145,0
+857,63,5344,96.0,31.0,,63,289,Türk Dili,4,0,4,5344,Derya,DİAGNE,derya.diagne97@gmail.com,5516350958,1993-11-09,78,False,19166479868,0
+858,115,5344,18.0,35.0,,115,289,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5344,Derya,DİAGNE,derya.diagne97@gmail.com,5516350958,1993-11-09,78,False,19166479868,0
+859,167,5344,15.0,64.0,,167,289,İngilizce,4,0,4,5344,Derya,DİAGNE,derya.diagne97@gmail.com,5516350958,1993-11-09,78,False,19166479868,0
+860,34,8874,70.0,9.0,,34,20,Türk Dili,4,0,4,8874,Öznur,SUBAŞI KARAYİĞİT,öznur.subaşı karayiğit17@gmail.com,5525779102,1991-09-19,6,False,15428321763,0
+861,86,8874,77.0,65.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8874,Öznur,SUBAŞI KARAYİĞİT,öznur.subaşı karayiğit17@gmail.com,5525779102,1991-09-19,6,False,15428321763,0
+862,138,8874,64.0,78.0,,138,20,İngilizce,4,0,4,8874,Öznur,SUBAŞI KARAYİĞİT,öznur.subaşı karayiğit17@gmail.com,5525779102,1991-09-19,6,False,15428321763,0
+863,31,7437,78.0,70.0,,31,17,Türk Dili,4,0,4,7437,Tuğba,KOPUZ,tuğba.kopuz84@gmail.com,5423712881,1989-10-23,34,False,22386064689,0
+864,83,7437,90.0,58.0,,83,17,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7437,Tuğba,KOPUZ,tuğba.kopuz84@gmail.com,5423712881,1989-10-23,34,False,22386064689,0
+865,135,7437,31.0,72.0,,135,17,İngilizce,4,0,4,7437,Tuğba,KOPUZ,tuğba.kopuz84@gmail.com,5423712881,1989-10-23,34,False,22386064689,0
+866,21,7003,80.0,55.0,,21,7,Türk Dili,4,0,4,7003,MEHMET ALİ,YILMAZ,mehmet ali.yılmaz18@gmail.com,5356994181,1986-03-10,7,True,77126422958,0
+867,73,7003,32.0,63.0,,73,7,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7003,MEHMET ALİ,YILMAZ,mehmet ali.yılmaz18@gmail.com,5356994181,1986-03-10,7,True,77126422958,0
+868,125,7003,64.0,88.0,,125,7,İngilizce,4,0,4,7003,MEHMET ALİ,YILMAZ,mehmet ali.yılmaz18@gmail.com,5356994181,1986-03-10,7,True,77126422958,0
+869,66,7537,98.0,32.0,,66,302,Türk Dili,4,0,4,7537,Ebru,İSKENDER,ebru.iskender88@gmail.com,5365034206,1995-07-23,34,False,49329669647,0
+870,118,7537,72.0,18.0,,118,302,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7537,Ebru,İSKENDER,ebru.iskender88@gmail.com,5365034206,1995-07-23,34,False,49329669647,0
+871,170,7537,42.0,81.0,,170,302,İngilizce,4,0,4,7537,Ebru,İSKENDER,ebru.iskender88@gmail.com,5365034206,1995-07-23,34,False,49329669647,0
+872,49,7444,28.0,98.0,,49,103,Türk Dili,4,0,4,7444,Adem,MANİŞ,adem.maniş21@gmail.com,5327206221,2001-05-24,34,True,66601968211,0
+873,101,7444,71.0,23.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7444,Adem,MANİŞ,adem.maniş21@gmail.com,5327206221,2001-05-24,34,True,66601968211,0
+874,153,7444,29.0,67.0,,153,103,İngilizce,4,0,4,7444,Adem,MANİŞ,adem.maniş21@gmail.com,5327206221,2001-05-24,34,True,66601968211,0
+875,23,2973,22.0,94.0,,23,9,Türk Dili,4,0,4,2973,Osman Can,ALTINER,osman can.altıner91@gmail.com,5602837934,1981-10-16,44,True,99270876432,1
+876,75,2973,92.0,67.0,,75,9,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2973,Osman Can,ALTINER,osman can.altıner91@gmail.com,5602837934,1981-10-16,44,True,99270876432,1
+877,127,2973,35.0,66.0,,127,9,İngilizce,4,0,4,2973,Osman Can,ALTINER,osman can.altıner91@gmail.com,5602837934,1981-10-16,44,True,99270876432,1
+878,34,6906,64.0,67.0,,34,20,Türk Dili,4,0,4,6906,İSMAİL,YILDIRIM KAYA,ismail.yıldırım kaya40@gmail.com,5545828198,1984-10-14,1,True,52040928988,0
+879,86,6906,17.0,19.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6906,İSMAİL,YILDIRIM KAYA,ismail.yıldırım kaya40@gmail.com,5545828198,1984-10-14,1,True,52040928988,0
+880,138,6906,79.0,40.0,,138,20,İngilizce,4,0,4,6906,İSMAİL,YILDIRIM KAYA,ismail.yıldırım kaya40@gmail.com,5545828198,1984-10-14,1,True,52040928988,0
+881,45,9091,80.0,5.0,,45,76,Türk Dili,4,0,4,9091,Hakan,KANIK,hakan.kanık82@gmail.com,5538774371,1982-01-16,73,True,98154174364,0
+882,97,9091,68.0,79.0,,97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9091,Hakan,KANIK,hakan.kanık82@gmail.com,5538774371,1982-01-16,73,True,98154174364,0
+883,149,9091,6.0,10.0,,149,76,İngilizce,4,0,4,9091,Hakan,KANIK,hakan.kanık82@gmail.com,5538774371,1982-01-16,73,True,98154174364,0
+884,45,8137,3.0,22.0,,45,76,Türk Dili,4,0,4,8137,Rukiye Büşra,BAŞYİĞİT,rukiye büşra.başyiğit83@gmail.com,5593951530,1985-03-22,34,False,95185717151,7
+885,97,8137,6.0,47.0,,97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8137,Rukiye Büşra,BAŞYİĞİT,rukiye büşra.başyiğit83@gmail.com,5593951530,1985-03-22,34,False,95185717151,7
+886,149,8137,62.0,92.0,,149,76,İngilizce,4,0,4,8137,Rukiye Büşra,BAŞYİĞİT,rukiye büşra.başyiğit83@gmail.com,5593951530,1985-03-22,34,False,95185717151,7
+887,20,2320,1.0,76.0,,20,6,Türk Dili,4,0,4,2320,Kemal,ŞAHİN,kemal.şahin13@gmail.com,5394796575,1993-06-28,76,True,55689804766,1
+888,72,2320,94.0,53.0,,72,6,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2320,Kemal,ŞAHİN,kemal.şahin13@gmail.com,5394796575,1993-06-28,76,True,55689804766,1
+889,124,2320,11.0,88.0,,124,6,İngilizce,4,0,4,2320,Kemal,ŞAHİN,kemal.şahin13@gmail.com,5394796575,1993-06-28,76,True,55689804766,1
+890,27,5927,24.0,10.0,,27,13,Türk Dili,4,0,4,5927,Fehim,LAFCI,fehim.lafcı66@gmail.com,5378419302,1994-12-11,24,True,96102246243,0
+891,79,5927,73.0,61.0,,79,13,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5927,Fehim,LAFCI,fehim.lafcı66@gmail.com,5378419302,1994-12-11,24,True,96102246243,0
+892,131,5927,46.0,59.0,,131,13,İngilizce,4,0,4,5927,Fehim,LAFCI,fehim.lafcı66@gmail.com,5378419302,1994-12-11,24,True,96102246243,0
+893,44,5856,8.0,2.0,,44,75,Türk Dili,4,0,4,5856,Mustafa,BOZ,mustafa.boz35@gmail.com,5554811452,1996-08-08,2,True,30821359642,0
+894,96,5856,42.0,53.0,,96,75,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5856,Mustafa,BOZ,mustafa.boz35@gmail.com,5554811452,1996-08-08,2,True,30821359642,0
+895,148,5856,94.0,93.0,,148,75,İngilizce,4,0,4,5856,Mustafa,BOZ,mustafa.boz35@gmail.com,5554811452,1996-08-08,2,True,30821359642,0
+896,31,6487,97.0,29.0,,31,17,Türk Dili,4,0,4,6487,Anıl,AYIMUGULI,anıl.ayımugulı66@gmail.com,5596984762,1987-02-09,34,False,87026883093,0
+897,83,6487,65.0,52.0,,83,17,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6487,Anıl,AYIMUGULI,anıl.ayımugulı66@gmail.com,5596984762,1987-02-09,34,False,87026883093,0
+898,135,6487,20.0,41.0,,135,17,İngilizce,4,0,4,6487,Anıl,AYIMUGULI,anıl.ayımugulı66@gmail.com,5596984762,1987-02-09,34,False,87026883093,0
+899,58,7195,83.0,20.0,,58,184,Türk Dili,4,0,4,7195,Hüseyin,ÜÇTEPE,hüseyin.üçtepe64@gmail.com,5347958316,1991-07-10,60,True,68697667101,0
+900,110,7195,95.0,44.0,,110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7195,Hüseyin,ÜÇTEPE,hüseyin.üçtepe64@gmail.com,5347958316,1991-07-10,60,True,68697667101,0
+901,162,7195,41.0,41.0,,162,184,İngilizce,4,0,4,7195,Hüseyin,ÜÇTEPE,hüseyin.üçtepe64@gmail.com,5347958316,1991-07-10,60,True,68697667101,0
+902,49,8170,61.0,82.0,,49,103,Türk Dili,4,0,4,8170,Berat Can,SADIKOĞLU,berat can.sadıkoğlu36@gmail.com,5577953938,1998-02-08,34,True,27346046883,0
+903,101,8170,11.0,34.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8170,Berat Can,SADIKOĞLU,berat can.sadıkoğlu36@gmail.com,5577953938,1998-02-08,34,True,27346046883,0
+904,153,8170,68.0,45.0,,153,103,İngilizce,4,0,4,8170,Berat Can,SADIKOĞLU,berat can.sadıkoğlu36@gmail.com,5577953938,1998-02-08,34,True,27346046883,0
+905,37,5612,28.0,16.0,,37,27,Türk Dili,4,0,4,5612,İlknur,GÜR,ilknur.gür62@gmail.com,5442547612,1991-09-10,17,False,11286056591,0
+906,89,5612,65.0,74.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5612,İlknur,GÜR,ilknur.gür62@gmail.com,5442547612,1991-09-10,17,False,11286056591,0
+907,141,5612,75.0,50.0,,141,27,İngilizce,4,0,4,5612,İlknur,GÜR,ilknur.gür62@gmail.com,5442547612,1991-09-10,17,False,11286056591,0
+908,50,6465,28.0,39.0,,50,107,Türk Dili,4,0,4,6465,Dilek,KARATİMUR ÇUTSAY,dilek.karatimur çutsay34@gmail.com,5334947223,1997-03-27,58,False,25725072886,0
+909,102,6465,25.0,10.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6465,Dilek,KARATİMUR ÇUTSAY,dilek.karatimur çutsay34@gmail.com,5334947223,1997-03-27,58,False,25725072886,0
+910,154,6465,96.0,58.0,,154,107,İngilizce,4,0,4,6465,Dilek,KARATİMUR ÇUTSAY,dilek.karatimur çutsay34@gmail.com,5334947223,1997-03-27,58,False,25725072886,0
+911,2,4691,35.0,21.0,,2,8,Hukuka Giriş,3,0,5,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+912,4,4691,72.0,5.0,,4,8,Genel Matematik,3,0,5,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+913,6,4691,5.0,41.0,,6,8,Bilişim Sistemlerine Giriş,3,0,5,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+914,7,4691,8.0,26.0,,7,8,Alritma ve Programlamaya Giriş,3,1,5,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+915,8,4691,76.0,68.0,,8,8,Veri Yapıları,2,1,5,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+916,9,4691,63.0,27.0,,9,8,Nesneye Dayalı Modelleme ve Programlama,3,0,6,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+917,74,4691,29.0,10.0,,74,8,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+918,126,4691,59.0,31.0,,126,8,İngilizce,4,0,4,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+919,10,4691,39.0,70.0,,10,8,Python,1,1,5,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+920,11,4691,20.0,31.0,,11,8,Veri Tabanı ve Veri Tabanı Yönetim Sistemleri,4,0,7,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+921,12,4691,34.0,78.0,,12,8,Veri Madenciliği ve İş Zekası,2,0,5,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+922,13,4691,97.0,79.0,,13,8,Sistem Analizi ve Tasarımı,4,0,7,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+923,14,4691,93.0,40.0,,14,8,Mobil Programlama,1,1,5,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+924,22,4691,80.0,42.0,,22,8,Türk Dili,4,0,4,4691,Handan,BATUR,handan.batur21@gmail.com,5544296457,2003-05-15,61,False,39114236361,2
+925,38,6966,66.0,19.0,,38,28,Türk Dili,4,0,4,6966,Sibel,GÜVENDİK ALI,sibel.güvendik alı73@gmail.com,5412940682,1996-02-04,34,False,59743889178,0
+926,90,6966,84.0,8.0,,90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6966,Sibel,GÜVENDİK ALI,sibel.güvendik alı73@gmail.com,5412940682,1996-02-04,34,False,59743889178,0
+927,142,6966,86.0,47.0,,142,28,İngilizce,4,0,4,6966,Sibel,GÜVENDİK ALI,sibel.güvendik alı73@gmail.com,5412940682,1996-02-04,34,False,59743889178,0
+928,40,5504,20.0,44.0,,40,30,Türk Dili,4,0,4,5504,Türküler,BALCI,türküler.balcı89@gmail.com,5502872274,1990-09-08,34,False,88493409340,0
+929,92,5504,1.0,5.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5504,Türküler,BALCI,türküler.balcı89@gmail.com,5502872274,1990-09-08,34,False,88493409340,0
+930,144,5504,62.0,75.0,,144,30,İngilizce,4,0,4,5504,Türküler,BALCI,türküler.balcı89@gmail.com,5502872274,1990-09-08,34,False,88493409340,0
+931,54,8310,18.0,37.0,,54,180,Türk Dili,4,0,4,8310,Hüseyin,AKSU,hüseyin.aksu90@gmail.com,5535422134,1998-07-05,34,True,84714078924,0
+932,106,8310,26.0,32.0,,106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8310,Hüseyin,AKSU,hüseyin.aksu90@gmail.com,5535422134,1998-07-05,34,True,84714078924,0
+933,158,8310,53.0,91.0,,158,180,İngilizce,4,0,4,8310,Hüseyin,AKSU,hüseyin.aksu90@gmail.com,5535422134,1998-07-05,34,True,84714078924,0
+934,62,5835,82.0,79.0,,62,188,Türk Dili,4,0,4,5835,Raşit,ÖZTÜRK,raşit.öztürk79@gmail.com,5315952402,1999-09-05,34,True,56419001588,0
+935,114,5835,44.0,75.0,,114,188,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5835,Raşit,ÖZTÜRK,raşit.öztürk79@gmail.com,5315952402,1999-09-05,34,True,56419001588,0
+936,166,5835,93.0,2.0,,166,188,İngilizce,4,0,4,5835,Raşit,ÖZTÜRK,raşit.öztürk79@gmail.com,5315952402,1999-09-05,34,True,56419001588,0
+937,49,5038,11.0,36.0,,49,103,Türk Dili,4,0,4,5038,Rabia,BAĞCI,rabia.bağcı87@gmail.com,5377902580,1983-04-19,34,False,61671840778,0
+938,101,5038,10.0,69.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5038,Rabia,BAĞCI,rabia.bağcı87@gmail.com,5377902580,1983-04-19,34,False,61671840778,0
+939,153,5038,30.0,96.0,,153,103,İngilizce,4,0,4,5038,Rabia,BAĞCI,rabia.bağcı87@gmail.com,5377902580,1983-04-19,34,False,61671840778,0
+940,59,7207,34.0,31.0,,59,185,Türk Dili,4,0,4,7207,Şengül,AYYILDIZ,şengül.ayyıldız33@gmail.com,5446874432,1982-01-13,34,False,42529153587,0
+941,111,7207,68.0,69.0,,111,185,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7207,Şengül,AYYILDIZ,şengül.ayyıldız33@gmail.com,5446874432,1982-01-13,34,False,42529153587,0
+942,163,7207,24.0,22.0,,163,185,İngilizce,4,0,4,7207,Şengül,AYYILDIZ,şengül.ayyıldız33@gmail.com,5446874432,1982-01-13,34,False,42529153587,0
+943,37,2410,49.0,92.0,,37,27,Türk Dili,4,0,4,2410,Zeynep,ÖZBİLEN,zeynep.özbilen87@gmail.com,5319098891,2001-05-22,34,False,84902704186,0
+944,89,2410,28.0,17.0,,89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2410,Zeynep,ÖZBİLEN,zeynep.özbilen87@gmail.com,5319098891,2001-05-22,34,False,84902704186,0
+945,141,2410,26.0,62.0,,141,27,İngilizce,4,0,4,2410,Zeynep,ÖZBİLEN,zeynep.özbilen87@gmail.com,5319098891,2001-05-22,34,False,84902704186,0
+946,40,2523,100.0,56.0,,40,30,Türk Dili,4,0,4,2523,Sedat,ÖZÇELİK,sedat.özçelik16@gmail.com,5502388490,1998-06-13,2,True,85933194138,7
+947,92,2523,14.0,64.0,,92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2523,Sedat,ÖZÇELİK,sedat.özçelik16@gmail.com,5502388490,1998-06-13,2,True,85933194138,7
+948,144,2523,81.0,43.0,,144,30,İngilizce,4,0,4,2523,Sedat,ÖZÇELİK,sedat.özçelik16@gmail.com,5502388490,1998-06-13,2,True,85933194138,7
+949,57,6321,53.0,76.0,,57,183,Türk Dili,4,0,4,6321,Tevfik,UĞUZLUOĞLU,tevfik.uğuzluoğlu88@gmail.com,5415539326,1980-09-03,7,True,70447437350,0
+950,109,6321,74.0,57.0,,109,183,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6321,Tevfik,UĞUZLUOĞLU,tevfik.uğuzluoğlu88@gmail.com,5415539326,1980-09-03,7,True,70447437350,0
+951,161,6321,88.0,50.0,,161,183,İngilizce,4,0,4,6321,Tevfik,UĞUZLUOĞLU,tevfik.uğuzluoğlu88@gmail.com,5415539326,1980-09-03,7,True,70447437350,0
+952,66,6222,51.0,33.0,,66,302,Türk Dili,4,0,4,6222,Gizem,SABUN,gizem.sabun94@gmail.com,5381522900,2000-12-03,35,False,79023577739,0
+953,118,6222,44.0,11.0,,118,302,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6222,Gizem,SABUN,gizem.sabun94@gmail.com,5381522900,2000-12-03,35,False,79023577739,0
+954,170,6222,27.0,14.0,,170,302,İngilizce,4,0,4,6222,Gizem,SABUN,gizem.sabun94@gmail.com,5381522900,2000-12-03,35,False,79023577739,0
+955,25,8722,40.0,51.0,,25,11,Türk Dili,4,0,4,8722,Ayşe Beyza,CEYLAN,ayşe beyza.ceylan81@gmail.com,5591874229,1986-10-16,68,False,23188821868,0
+956,77,8722,24.0,82.0,,77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8722,Ayşe Beyza,CEYLAN,ayşe beyza.ceylan81@gmail.com,5591874229,1986-10-16,68,False,23188821868,0
+957,129,8722,28.0,30.0,,129,11,İngilizce,4,0,4,8722,Ayşe Beyza,CEYLAN,ayşe beyza.ceylan81@gmail.com,5591874229,1986-10-16,68,False,23188821868,0
+958,28,8955,49.0,46.0,,28,14,Türk Dili,4,0,4,8955,Barış Ozan,AYDEMİR,barış ozan.aydemir45@gmail.com,5527892372,1980-11-13,34,True,43622629741,0
+959,80,8955,49.0,26.0,,80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8955,Barış Ozan,AYDEMİR,barış ozan.aydemir45@gmail.com,5527892372,1980-11-13,34,True,43622629741,0
+960,132,8955,54.0,71.0,,132,14,İngilizce,4,0,4,8955,Barış Ozan,AYDEMİR,barış ozan.aydemir45@gmail.com,5527892372,1980-11-13,34,True,43622629741,0
+961,65,5007,30.0,86.0,,65,291,Türk Dili,4,0,4,5007,Burak,SAYLAR,burak.saylar93@gmail.com,5589116882,1984-09-20,34,True,56955326864,0
+962,117,5007,2.0,60.0,,117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5007,Burak,SAYLAR,burak.saylar93@gmail.com,5589116882,1984-09-20,34,True,56955326864,0
+963,169,5007,75.0,75.0,,169,291,İngilizce,4,0,4,5007,Burak,SAYLAR,burak.saylar93@gmail.com,5589116882,1984-09-20,34,True,56955326864,0
+964,34,6923,58.0,98.0,,34,20,Türk Dili,4,0,4,6923,MURAT,KOLAY,murat.kolay55@gmail.com,5371373544,2002-04-22,65,True,21915588122,2
+965,86,6923,24.0,84.0,,86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6923,MURAT,KOLAY,murat.kolay55@gmail.com,5371373544,2002-04-22,65,True,21915588122,2
+966,138,6923,87.0,25.0,,138,20,İngilizce,4,0,4,6923,MURAT,KOLAY,murat.kolay55@gmail.com,5371373544,2002-04-22,65,True,21915588122,2
+967,25,6495,49.0,30.0,,25,11,Türk Dili,4,0,4,6495,Aydan,ÇAKARLI,aydan.çakarlı99@gmail.com,5372576117,1992-06-04,67,False,12149340361,0
+968,77,6495,60.0,32.0,,77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,6495,Aydan,ÇAKARLI,aydan.çakarlı99@gmail.com,5372576117,1992-06-04,67,False,12149340361,0
+969,129,6495,43.0,100.0,,129,11,İngilizce,4,0,4,6495,Aydan,ÇAKARLI,aydan.çakarlı99@gmail.com,5372576117,1992-06-04,67,False,12149340361,0
+970,38,2531,89.0,30.0,,38,28,Türk Dili,4,0,4,2531,Bahadır,ERDOĞDU,bahadır.erdoğdu46@gmail.com,5374689863,1986-03-23,34,True,55144826215,0
+971,90,2531,26.0,87.0,,90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2531,Bahadır,ERDOĞDU,bahadır.erdoğdu46@gmail.com,5374689863,1986-03-23,34,True,55144826215,0
+972,142,2531,93.0,96.0,,142,28,İngilizce,4,0,4,2531,Bahadır,ERDOĞDU,bahadır.erdoğdu46@gmail.com,5374689863,1986-03-23,34,True,55144826215,0
+973,41,7709,97.0,75.0,,41,35,Türk Dili,4,0,4,7709,Yusuf,Ermez,yusuf.ermez54@gmail.com,5581904258,1986-04-10,16,True,80918476533,0
+974,93,7709,38.0,82.0,,93,35,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7709,Yusuf,Ermez,yusuf.ermez54@gmail.com,5581904258,1986-04-10,16,True,80918476533,0
+975,145,7709,31.0,74.0,,145,35,İngilizce,4,0,4,7709,Yusuf,Ermez,yusuf.ermez54@gmail.com,5581904258,1986-04-10,16,True,80918476533,0
+976,61,8715,4.0,25.0,,61,187,Türk Dili,4,0,4,8715,Berk,ÖZCAN,berk.özcan24@gmail.com,5448365926,1988-07-10,6,True,15012434411,0
+977,113,8715,35.0,4.0,,113,187,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8715,Berk,ÖZCAN,berk.özcan24@gmail.com,5448365926,1988-07-10,6,True,15012434411,0
+978,165,8715,2.0,34.0,,165,187,İngilizce,4,0,4,8715,Berk,ÖZCAN,berk.özcan24@gmail.com,5448365926,1988-07-10,6,True,15012434411,0
+979,56,4892,86.0,88.0,,56,182,Türk Dili,4,0,4,4892,Meral,ÖZMEN,meral.özmen33@gmail.com,5324776917,1993-07-05,34,False,90522828399,0
+980,108,4892,60.0,41.0,,108,182,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4892,Meral,ÖZMEN,meral.özmen33@gmail.com,5324776917,1993-07-05,34,False,90522828399,0
+981,160,4892,11.0,86.0,,160,182,İngilizce,4,0,4,4892,Meral,ÖZMEN,meral.özmen33@gmail.com,5324776917,1993-07-05,34,False,90522828399,0
+982,32,9133,95.0,81.0,,32,18,Türk Dili,4,0,4,9133,Engin,TAN,engin.tan86@gmail.com,5367583862,2003-09-18,4,True,97036591195,0
+983,84,9133,81.0,26.0,,84,18,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,9133,Engin,TAN,engin.tan86@gmail.com,5367583862,2003-09-18,4,True,97036591195,0
+984,136,9133,14.0,93.0,,136,18,İngilizce,4,0,4,9133,Engin,TAN,engin.tan86@gmail.com,5367583862,2003-09-18,4,True,97036591195,0
+985,62,7321,76.0,18.0,,62,188,Türk Dili,4,0,4,7321,Enes,ARAN,enes.aran43@gmail.com,5342193442,1981-01-15,34,True,23040198706,0
+986,114,7321,82.0,2.0,,114,188,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,7321,Enes,ARAN,enes.aran43@gmail.com,5342193442,1981-01-15,34,True,23040198706,0
+987,166,7321,28.0,95.0,,166,188,İngilizce,4,0,4,7321,Enes,ARAN,enes.aran43@gmail.com,5342193442,1981-01-15,34,True,23040198706,0
+988,49,4970,47.0,39.0,,49,103,Türk Dili,4,0,4,4970,HAKAN,DILINA,hakan.dılına84@gmail.com,5518040607,1980-04-01,58,True,59614951089,3
+989,101,4970,70.0,76.0,,101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,4970,HAKAN,DILINA,hakan.dılına84@gmail.com,5518040607,1980-04-01,58,True,59614951089,3
+990,153,4970,57.0,59.0,,153,103,İngilizce,4,0,4,4970,HAKAN,DILINA,hakan.dılına84@gmail.com,5518040607,1980-04-01,58,True,59614951089,3
+991,31,8270,25.0,26.0,,31,17,Türk Dili,4,0,4,8270,Yasemin,GÜLER,yasemin.güler25@gmail.com,5463788160,2001-03-18,34,False,53933065537,0
+992,83,8270,7.0,62.0,,83,17,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,8270,Yasemin,GÜLER,yasemin.güler25@gmail.com,5463788160,2001-03-18,34,False,53933065537,0
+993,135,8270,34.0,29.0,,135,17,İngilizce,4,0,4,8270,Yasemin,GÜLER,yasemin.güler25@gmail.com,5463788160,2001-03-18,34,False,53933065537,0
+994,56,5130,37.0,95.0,,56,182,Türk Dili,4,0,4,5130,Mehmet Mert,ÇAKIR,mehmet mert.çakır80@gmail.com,5436209570,1996-08-24,34,True,95722986498,0
+995,108,5130,27.0,61.0,,108,182,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,5130,Mehmet Mert,ÇAKIR,mehmet mert.çakır80@gmail.com,5436209570,1996-08-24,34,True,95722986498,0
+996,160,5130,11.0,7.0,,160,182,İngilizce,4,0,4,5130,Mehmet Mert,ÇAKIR,mehmet mert.çakır80@gmail.com,5436209570,1996-08-24,34,True,95722986498,0
+997,50,2627,97.0,23.0,,50,107,Türk Dili,4,0,4,2627,Yüksel,YEREBASMAZ,yüksel.yerebasmaz62@gmail.com,5456696285,1993-02-10,34,True,36731745253,0
+998,102,2627,3.0,2.0,,102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4,2627,Yüksel,YEREBASMAZ,yüksel.yerebasmaz62@gmail.com,5456696285,1993-02-10,34,True,36731745253,0
+999,154,2627,69.0,46.0,,154,107,İngilizce,4,0,4,2627,Yüksel,YEREBASMAZ,yüksel.yerebasmaz62@gmail.com,5456696285,1993-02-10,34,True,36731745253,0
+1000,47,6100,35.0,76.0,,47,78,Türk Dili,4,0,4,6100,Tarkan,KAYA,tarkan.kaya78@gmail.com,5386941421,1986-02-19,61,True,78453591904,0
