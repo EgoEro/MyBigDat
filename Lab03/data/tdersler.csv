@@ -1,0 +1,168 @@
+id,bolum_tbolumlerid,adi,teori,uygulama,akts
+2,8,Hukuka Giriş,3,0,5
+4,8,Genel Matematik,3,0,5
+6,8,Bilişim Sistemlerine Giriş,3,0,5
+7,8,Alritma ve Programlamaya Giriş,3,1,5
+8,8,Veri Yapıları,2,1,5
+9,8,Nesneye Dayalı Modelleme ve Programlama,3,0,6
+10,8,Python,1,1,5
+11,8,Veri Tabanı ve Veri Tabanı Yönetim Sistemleri,4,0,7
+12,8,Veri Madenciliği ve İş Zekası,2,0,5
+13,8,Sistem Analizi ve Tasarımı,4,0,7
+14,8,Mobil Programlama,1,1,5
+15,1,Türk Dili,4,0,4
+16,2,Türk Dili,4,0,4
+17,3,Türk Dili,4,0,4
+18,4,Türk Dili,4,0,4
+19,5,Türk Dili,4,0,4
+20,6,Türk Dili,4,0,4
+21,7,Türk Dili,4,0,4
+22,8,Türk Dili,4,0,4
+23,9,Türk Dili,4,0,4
+24,10,Türk Dili,4,0,4
+25,11,Türk Dili,4,0,4
+26,12,Türk Dili,4,0,4
+27,13,Türk Dili,4,0,4
+28,14,Türk Dili,4,0,4
+29,15,Türk Dili,4,0,4
+30,16,Türk Dili,4,0,4
+31,17,Türk Dili,4,0,4
+32,18,Türk Dili,4,0,4
+33,19,Türk Dili,4,0,4
+34,20,Türk Dili,4,0,4
+35,21,Türk Dili,4,0,4
+36,22,Türk Dili,4,0,4
+37,27,Türk Dili,4,0,4
+38,28,Türk Dili,4,0,4
+39,29,Türk Dili,4,0,4
+40,30,Türk Dili,4,0,4
+41,35,Türk Dili,4,0,4
+42,55,Türk Dili,4,0,4
+43,63,Türk Dili,4,0,4
+44,75,Türk Dili,4,0,4
+45,76,Türk Dili,4,0,4
+46,77,Türk Dili,4,0,4
+47,78,Türk Dili,4,0,4
+48,80,Türk Dili,4,0,4
+49,103,Türk Dili,4,0,4
+50,107,Türk Dili,4,0,4
+51,108,Türk Dili,4,0,4
+52,178,Türk Dili,4,0,4
+53,179,Türk Dili,4,0,4
+54,180,Türk Dili,4,0,4
+55,181,Türk Dili,4,0,4
+56,182,Türk Dili,4,0,4
+57,183,Türk Dili,4,0,4
+58,184,Türk Dili,4,0,4
+59,185,Türk Dili,4,0,4
+60,186,Türk Dili,4,0,4
+61,187,Türk Dili,4,0,4
+62,188,Türk Dili,4,0,4
+63,289,Türk Dili,4,0,4
+64,290,Türk Dili,4,0,4
+65,291,Türk Dili,4,0,4
+66,302,Türk Dili,4,0,4
+67,1,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+68,2,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+69,3,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+70,4,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+71,5,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+72,6,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+73,7,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+74,8,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+75,9,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+76,10,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+77,11,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+78,12,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+79,13,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+80,14,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+81,15,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+82,16,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+83,17,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+84,18,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+85,19,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+86,20,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+87,21,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+88,22,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+89,27,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+90,28,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+91,29,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+92,30,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+93,35,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+94,55,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+95,63,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+96,75,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+97,76,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+98,77,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+99,78,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+100,80,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+101,103,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+102,107,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+103,108,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+104,178,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+105,179,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+106,180,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+107,181,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+108,182,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+109,183,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+110,184,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+111,185,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+112,186,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+113,187,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+114,188,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+115,289,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+116,290,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+117,291,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+118,302,Atatürk İlkeleri ve İnkılâp Tarihi,4,0,4
+119,1,İngilizce,4,0,4
+120,2,İngilizce,4,0,4
+121,3,İngilizce,4,0,4
+122,4,İngilizce,4,0,4
+123,5,İngilizce,4,0,4
+124,6,İngilizce,4,0,4
+125,7,İngilizce,4,0,4
+126,8,İngilizce,4,0,4
+127,9,İngilizce,4,0,4
+128,10,İngilizce,4,0,4
+129,11,İngilizce,4,0,4
+130,12,İngilizce,4,0,4
+131,13,İngilizce,4,0,4
+132,14,İngilizce,4,0,4
+133,15,İngilizce,4,0,4
+134,16,İngilizce,4,0,4
+135,17,İngilizce,4,0,4
+136,18,İngilizce,4,0,4
+137,19,İngilizce,4,0,4
+138,20,İngilizce,4,0,4
+139,21,İngilizce,4,0,4
+140,22,İngilizce,4,0,4
+141,27,İngilizce,4,0,4
+142,28,İngilizce,4,0,4
+143,29,İngilizce,4,0,4
+144,30,İngilizce,4,0,4
+145,35,İngilizce,4,0,4
+146,55,İngilizce,4,0,4
+147,63,İngilizce,4,0,4
+148,75,İngilizce,4,0,4
+149,76,İngilizce,4,0,4
+150,77,İngilizce,4,0,4
+151,78,İngilizce,4,0,4
+152,80,İngilizce,4,0,4
+153,103,İngilizce,4,0,4
+154,107,İngilizce,4,0,4
+155,108,İngilizce,4,0,4
+156,178,İngilizce,4,0,4
+157,179,İngilizce,4,0,4
+158,180,İngilizce,4,0,4
+159,181,İngilizce,4,0,4
+160,182,İngilizce,4,0,4
+161,183,İngilizce,4,0,4
+162,184,İngilizce,4,0,4
+163,185,İngilizce,4,0,4
+164,186,İngilizce,4,0,4
+165,187,İngilizce,4,0,4
+166,188,İngilizce,4,0,4
+167,289,İngilizce,4,0,4
+168,290,İngilizce,4,0,4
+169,291,İngilizce,4,0,4
+170,302,İngilizce,4,0,4

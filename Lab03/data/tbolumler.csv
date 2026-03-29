@@ -1,0 +1,288 @@
+id,fakulte_tfakultelerid,kisaltma,adi
+1,4,İst_L,İstatistik Lisans Programı
+2,4,Mat_L,Matematik Lisans Programı
+3,4,Psi_L,Psikoloji Lisans Programı
+4,5,Huk_L,Hukuk Lisans Programı
+5,2,Görİlt_L,Görsel İletişim Tasarımı Lisans Programı
+6,2,Halkİlş_L,Halkla İlişkiler Lisans Programı
+7,2,Medİlt_L,Medya ve İletişim Sistemleri Lisans Programı
+8,3,BilgMüh_L,Bilgisayar Mühendisliği Lisans Programı
+9,3,ElekMüh_L(İng),Elektrik-Elektronik Mühendisliği İngilizce Lisans Programı
+10,3,EndMüh_L,Endüstri Mühendisliği Lisans Programı
+11,15,İçm_L,İç Mimarlık ve Çevre Tasarımı Lisans Programı
+12,3,MekMüh_L_İng,Mekatronik Mühendisliği İngilizce Lisans Programı
+13,15,MTeksT_L,Moda ve Tekstil Tasarımı Lisans Programı
+14,3,MücMüh_L_İng,Mücevherat Mühendisliği İngilizce Lisans Programı
+15,1,Ban_L,Bankacılık ve Finans Lisans Programı
+16,1,İkt_L(İng),İktisat İngilizce Lisans Programı
+17,1,İşl_L_İng,İşletme İngilizce Lisans Programı
+18,1,İşl_L,İşletme Lisans Programı
+19,1,Turİşl_L(TBF),Turizm İşletmeciliği (TBF) Lisans Programı
+20,1,Uli_L,Uluslararası İlişkiler Lisans Programı
+21,1,UlTic_L,Uluslararası Ticaret Lisans Programı
+22,6,BilgPro_ÖL,Bilgisayar Programcılığı Önlisans Programı
+27,6,DışTic_ÖL,Dış Ticaret Önlisans Programı
+28,6,HavLoj_ÖL(İng),Hava Lojistiği İngilizce Önlisans Programı
+29,6,HavYHizm_ÖL(İng),Havacılıkta Yer Hizmetleri Yönetimi İngilizce Önlisans Programı
+30,6,Loj_ÖL,Lojistik Önlisans Programı
+35,6,PerSatMağY_ÖL,Perakende Satış ve Mağaza Yönetimi Önlisans Programı
+38,8,Mat_YL(Tli),Matematik Tezli Yüksek Lisans Programı
+39,8,Mat_DR,Matematik Doktora Programı
+40,8,EndFiz_YL(Tsiz),Endüstriyel Fizik Tezsiz Yüksek Lisans Programı
+41,8,İst_YL(Tli),İstatistik Tezli Yüksek Lisans Programı
+42,8,BilgMüh_YL(Tli),Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı
+43,8,EndMüh_YL(Tli),Endüstri Mühendisliği Tezli Yüksek Lisans Programı
+44,7,İşl_YL(Tli),İşletme Tezli Yüksek Lisans Programı
+45,7,İşl_DR,İşletme Doktora Programı
+46,7,Ban_YL(Tsiz),Bankacılık ve Finans Tezsiz Yüksek Lisans Programı
+47,7,MuhDen_YL(Tli),Muhasebe ve Denetim Tezli Yüksek Lisans Programı
+48,7,UygPsi_YL(Tsiz),Uygulamalı Psikoloji Tezsiz Yüksek Lisans Programı
+49,7,Halkİlş_YL(Tli),Halkla İlişkiler Tezli Yüksek Lisans Programı
+50,7,Medİlt_YL(Tli),Medya ve İletişim Sistemleri Tezli Yüksek Lisans Programı
+51,7,Uli_YL(Tli),Uluslararası İlişkiler Tezli Yüksek Lisans Programı
+52,7,ÖzHuk_YL(Tli),Özel Hukuk Tezli Yüksek Lisans Programı
+53,9,UlTicHukAB_YL(Tli),Uluslararası Ticaret Hukuku ve Avrupa Birliği Tezli Yüksek Lisans Programı
+54,9,UlTicABHuk_DR,Uluslararası Ticaret ve Avrupa Birliği Hukuku Doktora Programı
+55,1,MuhDen_L,Muhasebe ve Denetim Lisans Programı
+56,7,KamHuk_YL(Tli),Kamu Hukuku Tezli Yüksek Lisans Programı
+57,7,UlTic_YL(Tli),Uluslararası Ticaret (SBE) Tezli Yüksek Lisans Programı
+61,7,İşl_YL_İng(Tli),İşletme İngilizce Tezli Yüksek Lisans Programı
+63,1,Eko_L,Ekonomi Lisans Programı
+64,14,FinEko_DR,Finansal Ekonomi Doktora Programı
+65,8,EndMüh_DR,Endüstri Mühendisliği Doktora Programı
+66,8,MekMüh_Yl(Tli),Mekatronik Mühendisliği Tezli Yüksek Lisans Programı
+67,8,MücMüh_YL(Tli),Mücevherat Mühendisliği Tezli Yüksek Lisans Programı
+68,8,BilgMüh_D,Bilgisayar Mühendisliği Doktora Programı
+69,8,MekMüh_DR,Mekatronik Mühendisliği Doktora Programı
+70,8,MücMüh_DR,Mücevherat Mühendisliği Doktora Programı
+72,14,UlFin_YL_İng(Tli),Uluslararası Finans İngilizce Tezli Yüksek Lisans Programı
+73,9,UlTic_YL(Tli),Uluslararası Ticaret Tezli Yüksek Lisans Programı
+75,4,Sos_L,Sosyoloji Lisans Programı
+76,10,UlLoj_L,Uluslararası Lojistik Lisans Programı
+77,10,SivHavUlşİ_L,Sivil Hava Ulaştırma İşletmeciliği Lisans Programı
+78,10,BasYayÜ_L,Basım Yayın Üretim Teknolojileri Lisans Programı
+79,14,Ban_DR,Bankacılık Doktora Programı
+80,3,TeksMüh_L,Tekstil Mühendisliği Lisans Programı
+81,9,TicDip_YL(Tli),Ticari Diplomasi Tezli Yüksek Lisans Programı
+82,9,TicDip_YL(Tsiz),Ticari Diplomasi Tezsiz Yüksek Lisans Programı
+83,9,TicDip_YL_İng(Tli),Ticari Diplomasi İngilizce Tezli Yüksek Lisans Programı
+84,9,TicDip_YL_İng(Tsiz),Ticari Diplomasi İngilizce Tezsiz Yüksek Lisans Programı
+85,7,MuhDen_DR,Muhasebe ve Denetim Doktora Programı
+86,7,İky_YL(Tli),İnsan Kaynakları Yöneticiliği Tezli Yüksek Lisans Programı
+87,7,İkt_YL(Tli),İktisat Tezli Yüksek Lisans Programı
+88,14,SigRiskY_Y,Sirta ve Risk Yönetimi Tezli Yüksek Lisans Programı
+89,14,Sig_YL(Tsi,Sirtacılık Tezsiz Yüksek Lisans Programı
+90,7,ADanE_YL(Tli),Aile Danışmanlığı ve Eğitimi Tezli Yüksek Lisans Programı
+93,4,EğtmB,Eğitim Bilimleri Bölümü
+103,6,MuhVergUyg_ÖL,Muhasebe ve Vergi Uygulamaları Önlisans Programı
+107,15,EndTas_L,Endüstriyel Tasarım Lisans Programı
+108,15,Mim_L,Mimarlık Lisans Programı
+109,13,Pre/AP,Pre/AP
+110,13,L1,Level 1
+111,13,L2,Level 2
+112,13,L3,Level 3
+113,13,L4,Level 4
+115,13,TOEFL,TOEFL Sınav Merkezi
+116,9,KürPazMY_YL(Tli),Küresel Pazarlama ve Marka Yönetimi Tezli Yüksek Lisans Programı
+117,9,UlTic_DR,Uluslararası Ticaret Doktora Programı
+118,9,UlTic_YL_İng(Tli),Uluslararası Ticaret İngilizce Tezli Yüksek Lisans Programı
+119,9,KürPazMY_YL(Tsiz),Küresel Pazarlama ve Marka Yönetimi Tezsiz Yüksek Lisans Programı
+120,9,UlTic_YL(Tsiz),Uluslararası Ticaret Tezsiz Yüksek Lisans Programı
+121,9,UlTic_YL_İng(Tsiz),Uluslararası Ticaret İngilizce Tezsiz Yüksek Lisans Programı
+122,9,KürPazMY_YL_BH(Tli),Küresel Pazarlama ve Marka Yönetimi Tezli Bilimsel Hazırlık Programı
+123,9,KürPazMY_YL_BH(Tsiz),Küresel Pazarlama ve Marka Yönetimi Tezsiz Bilimsel Hazırlık Programı
+124,9,TicDip_BH_İng(Tli),Ticari Diplomasi İngilizce Tezli Bilimsel Hazırlık Programı
+125,9,TicDip_BH_İng(Tsiz),Ticari Diplomasi İngilizce Tezsiz Bilimsel Hazırlık Programı
+126,9,TicDip_BH(Tli),Ticari Diplomasi Tezli Bilimsel Hazırlık Programı
+127,9,TicDip_BH(Tsiz),Ticari Diplomasi Tezsiz Bilimsel Hazırlık Programı
+128,14,UlFin_BH_İng(Tli),Uluslararası Finans İngilizce Tezli Bilimsel Hazırlık Programı
+129,14,UlFin_BH_İng(Tsiz),Uluslararası Finans İngilizce Tezsiz Bilimsel Hazırlık Programı
+130,14,UlFin_YL_İng(Tsiz),Uluslararası Finans İngilizce Tezsiz Yüksek Lisans Programı
+131,9,UlTic_BH_İng(Tli),Uluslararası Ticaret İngilizce Tezli Bilimsel Hazırlık Programı
+132,9,UlTic_BH_İng(Tsiz),Uluslararası Ticaret İngilizce Tezsiz Bilimsel Hazırlık Programı
+133,9,UlTic_Bh(Tli),Uluslararası Ticaret Tezli Bilimsel Hazırlık Programı
+134,9,UlTic_BH(Tsiz),Uluslararası Ticaret Tezsiz Bilimsel Hazırlık Programı
+135,8,BilgMüh_DR_BH,Bilgisayar Mühendisliği Doktora Bilimsel Hazırlık Programı
+136,8,BilgMüh_YL_BH(Tli),Bilgisayar Mühendisliği Tezli Bilimsel Hazırlık Programı
+137,8,BilgMüh_YL_BH(Tsiz),Bilgisayar Mühendisliği Tezsiz Bilimsel Hazırlık Programı
+138,8,BilgMüh_YL(Tsiz),Bilgisayar Mühendisliği Tezsiz Yüksek Lisans Programı
+139,8,EndMüh_DR_BH,Endüstri Mühendisliği Doktora Bilimsel Hazırlık Programı
+140,8,EndMüh_YL_BH(Tli),Endüstri Mühendisliği Tezli Bilimsel Hazırlık Programı
+141,8,EndMüh_YL_BH(Tsiz),Endüstri Mühendisliği Tezsiz Bilimsel Hazırlık Programı
+142,8,EndMüh_YL(Tsiz),Endüstri Mühendisliği Tezsiz Yüksek Lisans Programı
+143,8,EndFiz_YL_BH(Tsiz),Endüstriyel Fizik Tezsiz Bilimsel Hazırlık Programı
+144,8,GayGelKentDönP_YL(Tli),Gayrimenkul Geliştirme Kentsel Dönüşüm ve Planlama Tezli Yüksek Lisans Programı
+145,8,GayGelKentDönP_YL(Tsiz),Gayrimenkul Geliştirme Kentsel Dönüşüm ve Planlama Tezsiz Yüksek Lisans Programı
+146,8,İçm_YL(Tli),İç Mimarlık Tezli Yüksek Lisans Programı
+147,8,İçm_YL(Tsiz),İç Mimarlık Tezsiz Yüksek Lisans Programı
+148,8,İst_YL_BH(Tli),İstatistik Tezli Bilimsel Hazırlık Programı
+149,8,İst_YL_BH(Tsiz),İstatistik Tezsiz Bilimsel Hazırlık Programı
+150,8,İst_YL(Tsiz),İstatistik Tezsiz Yüksek Lisans Programı
+151,8,İşSağG_DR,İş Sağlığı ve Güvenliği Doktora Programı
+152,8,İşSağG_YL(Tli),İş Sağlığı ve Güvenliği Tezli Yüksek Lisans Programı
+153,8,İşSağG_YL(Tsiz),İş Sağlığı ve Güvenliği Tezsiz Yüksek Lisans Programı
+154,8,Mat_DR_BH,Matematik Doktora Bilimsel Hazırlık Programı
+155,8,Mat_YL_BH(Tli),Matematik Tezli Bilimsel Hazırlık Programı
+156,8,Mat_YL_BH(Tsiz),Matematik Tezsiz Bilimsel Hazırlık Programı
+157,8,Mat_YL(Tsiz),Matematik Tezsiz Yüksek Lisans Programı
+158,8,MekMüh_DR_BH,Mekatronik Mühendisliği Doktora Bilimsel Hazırlık Programı
+159,8,MekMüh_DR_BH_İng,Mekatronik Mühendisliği İngilizce Doktora Bilimsel Hazırlık Programı
+160,8,MekMüh_DR_İng,Mekatronik Mühendisliği İngilizce Doktora Programı
+161,8,MekMüh_BH_İng(Tli),Mekatronik Mühendisliği İngilizce Tezli Bilimsel Hazırlık Programı
+162,8,MekMüh_YL_İng(Tli),Mekatronik Mühendisliği İngilizce Tezli Yüksek Lisans Programı
+163,8,MekMüh_BH_İng(Tsiz),Mekatronik Mühendisliği İngilizce Tezsiz Bilimsel Hazırlık Programı
+164,8,MekMüh_YL_İng(Tsiz),Mekatronik Mühendisliği İngilizce Tezsiz Yüksek Lisans Programı
+165,8,MekMüh_BH(Tli),Mekatronik Mühendisliği Tezli Bilimsel Hazırlık Programı
+166,8,MekMüh_BH(Tsiz),Mekatronik Mühendisliği Tezsiz Bilimsel Hazırlık Programı
+167,8,MekMüh_YL(Tsiz),Mekatronik Mühendisliği Tezsiz Yüksek Lisans Programı
+168,8,MücMüh_DR_BH,Mücevherat Mühendisliği Doktora Bilimsel Hazırlık Programı
+169,8,MücMüh_BH(Tli),Mücevherat Mühendisliği Tezli Bilimsel Hazırlık Programı
+170,8,MücMüh_BH(Tsiz),Mücevherat Mühendisliği Tezsiz Bilimsel Hazırlık Programı
+171,8,MücMüh_YL(Tsiz),Mücevherat Mühendisliği Tezsiz Yüksek Lisans Programı
+172,8,ÖzlÖğrFBE_BH,Özel Öğrenci (FBE) Doktora Bilimsel Hazırlık Programı
+173,8,ÖzlÖğrFBE_DR,Özel Öğrenci (FBE) Doktora Programı
+174,8,ÖzlÖğrFBE_BH(Tsiz),Özel Öğrenci (FBE) Tezsiz Bilimsel Hazırlık Programı
+175,8,ÖzlÖğrFBE_YL(Tsiz),Özel Öğrenci (FBE) Tezsiz Yüksek Lisans Programı
+176,8,SibGüv_YL(Tli),Siber Güvenlik Tezli Yüksek Lisans Programı
+177,8,SibGüv_YL(Tsiz),Siber Güvenlik Tezsiz Yüksek Lisans Programı
+178,6,BilgDestYay_ÖL,Bilgisayar Destekli Yayıncılık Önlisans Programı
+179,6,BilgTek_ÖL_İng,Bilgisayar Teknolojisi (UOÖLP-Hackney Community College İngiltere) İngilizce Önlisans Programı
+180,6,BilgTek_ÖL(İÖ),Bilgisayar Teknolojisi ve Programlama (İ.Ö.) Önlisans Programı
+181,6,BilgTek_ÖL,Bilgisayar Teknolojisi ve Programlama Önlisans Programı
+182,6,DışTic_ÖL(İÖ),Dış Ticaret (İ.Ö.) Önlisans Programı
+183,6,METEB_ÖL_İÖ,METEB (İ.Ö.) Önlisans Programı
+184,6,Muh_ÖL_İÖ,Muhasebe (İ.Ö.) Önlisans Programı
+185,6,Muh_ÖL,Muhasebe Önlisans Programı
+186,6,MuhVergUyg_ÖL_İÖ,Muhasebe ve Vergi Uygulamaları (İ.Ö.) Önlisans Programı
+187,6,Paz_ÖL,Pazarlama Önlisans Programı
+188,6,UlLoj_ÖL,Uluslararası Lojistik Önlisans Programı
+189,7,AFÇUİ_YL_BH_İng(Tli),Afrika Çalışmaları ve Uluslararası İlişkiler İngilizce Tezli Bilimsel Hazırlık Programı
+190,7,AFÇUİ_YL_İng(Tli),Afrika Çalışmaları ve Uluslararası İlişkiler İngilizce Tezli Yüksek Lisans Programı
+191,7,AFÇUİ_BH_İng(Tsiz),Afrika Çalışmaları ve Uluslararası İlişkiler İngilizce Tezsiz Bilimsel Hazırlık Programı
+192,7,AFÇUİ_YL_İng(Tsiz),Afrika Çalışmaları ve Uluslararası İlişkiler İngilizce Tezsiz Yüksek Lisans Programı
+193,7,ADanE_YL_BH(Tli),Aile Danışmanlığı ve Eğitimi Tezli Bilimsel Hazırlık Programı
+194,7,ADanE_YL_BH(Tsiz),Aile Danışmanlığı ve Eğitimi Tezsiz Bilimsel Hazırlık Programı
+195,7,ADanE_YL(Tsiz),Aile Danışmanlığı ve Eğitimi Tezsiz Yüksek Lisans Programı
+196,14,Ban_DR_BH,Bankacılık Doktora Bilimsel Hazırlık Programı
+197,7,Ban_YL_BH(Tsiz),Bankacılık ve Finans Tezsiz Bilimsel Hazırlık Programı
+198,14,FinEko_DR_,Finansal Ekonomi Doktora Bilimsel Hazırlık Programı
+199,7,GayGelKentDönP_YL_BH(Tli),Gayrimenkul Yönetimi Tezli Bilimsel Hazırlık Programı
+200,7,GayGelKentDönP_YL(Tli),Gayrimenkul Yönetimi Tezli Yüksek Lisans Programı
+201,7,GayGelKentDönP_YL_BH(Tsiz),Gayrimenkul Yönetimi Tezsiz Bilimsel Hazırlık Programı
+202,7,GayGelKentDönP_YL(Tsiz),Gayrimenkul Yönetimi Tezsiz Yüksek Lisans Programı
+203,7,Halkİlş_YL_BH(Tli),Halkla İlişkiler Tezli Bilimsel Hazırlık Programı
+204,7,Halkİlş_YL_BH(Tsiz),Halkla İlişkiler Tezsiz Bilimsel Hazırlık Programı
+205,7,Halkİlş_YL(Tsiz),Halkla İlişkiler Tezsiz Yüksek Lisans Programı
+206,7,Halkİlş_DR_BH,Halkla İlişkiler ve Reklamcılık Doktora Bilimsel Hazırlık Programı
+207,7,Halkİlş_DR,Halkla İlişkiler ve Reklamcılık Doktora Programı
+208,7,İkt_YL_BH_İng(Tli),İktisat İngilizce Tezli Bilimsel Hazırlık Programı
+209,7,İkt_YL_İng(Tli),İktisat İngilizce Tezli Yüksek Lisans Programı
+210,7,İkt_YL_BH_İng(Tsiz),İktisat İngilizce Tezsiz Bilimsel Hazırlık Programı
+211,7,İkt_YL_İng(Tsiz),İktisat İngilizce Tezsiz Yüksek Lisans Programı
+212,7,İkt_YL_BH(Tli),İktisat Tezli Bilimsel Hazırlık Programı
+213,7,İkt_YL_BH(Tsiz),İktisat Tezsiz Bilimsel Hazırlık Programı
+214,7,İkt_YL(Tsiz),İktisat Tezsiz Yüksek Lisans Programı
+215,7,İky_YL(Tsiz)_Brs,İnsan Kaynakları Yöneticiliği (Bursa) Tezsiz Yüksek Lisans Programı
+216,7,İky_YL_BH(Tli),İnsan Kaynakları Yöneticiliği Tezli Bilimsel Hazırlık Programı
+217,7,İky_YL_BH(Tsiz),İnsan Kaynakları Yöneticiliği Tezsiz Bilimsel Hazırlık Programı
+218,7,İky_YL(Tsiz),İnsan Kaynakları Yöneticiliği Tezsiz Yüksek Lisans Programı
+219,7,İşl_YL(Tsiz)_Brs,İşletme (Bursa) Tezsiz Yüksek Lisans Programı
+220,7,İşl_DR_BH,İşletme Doktora Bilimsel Hazırlık Programı
+221,7,İşl_YL_BH_İng(Tli),İşletme İngilizce Tezli Bilimsel Hazırlık Programı
+222,7,İşl_YL_BH_İng(Tsiz),İşletme İngilizce Tezsiz Bilimsel Hazırlık Programı
+223,7,İşl_YL_İng(Tsiz),İşletme İngilizce Tezsiz Yüksek Lisans Programı
+224,7,İşl_YL_BH(Tli),İşletme Tezli Bilimsel Hazırlık Programı
+225,7,İşl_YL_BH(Tsiz),İşletme Tezsiz Bilimsel Hazırlık Programı
+226,7,İşl_YL(Tsiz),İşletme Tezsiz Yüksek Lisans Programı
+227,7,İşlYön_YL(Tli),İşletme Yönetimi Tezli Yüksek Lisans Programı
+228,7,KamHuk_YL_BH(Tli),Kamu Hukuku Tezli Bilimsel Hazırlık Programı
+229,7,KamHuk_YL_BH(Tsiz),Kamu Hukuku Tezsiz Bilimsel Hazırlık Programı
+230,7,KamHuk_YL(Tsiz),Kamu Hukuku Tezsiz Yüksek Lisans Programı
+231,7,Loj_YL_BH(Tli),Lojistik Yönetimi Tezli Bilimsel Hazırlık Programı
+232,7,Loj_YL(Tli),Lojistik Yönetimi Tezli Yüksek Lisans Programı
+233,7,Loj_YL_BH(Tsiz),Lojistik Yönetimi Tezsiz Bilimsel Hazırlık Programı
+234,7,Loj_YL(Tsiz),Lojistik Yönetimi Tezsiz Yüksek Lisans Programı
+235,7,Medİlt_DR_BH,Medya ve İletişim Çalışmaları Doktora Bilimsel Hazırlık Programı
+236,7,Medİlt_DR,Medya ve İletişim Çalışmaları Doktora Programı
+237,7,Medİlt_BH(Tli),Medya ve İletişim Sistemleri Tezli Bilimsel Hazırlık Programı
+238,7,Medİlt_BH(Tsiz),Medya ve İletişim Sistemleri Tezsiz Bilimsel Hazırlık Programı
+239,7,Medİlt_YL(Tsiz),Medya ve İletişim Sistemleri Tezsiz Yüksek Lisans Programı
+240,7,MuhDen_YL(Tsiz)_Brs,Muhasebe ve Denetim (Bursa) Tezsiz Yüksek Lisans Programı
+241,7,MuhDen_DR_BH,Muhasebe ve Denetim Doktora Bilimsel Hazırlık Programı
+242,7,MuhDen_BH(Tli),Muhasebe ve Denetim Tezli Bilimsel Hazırlık Programı
+243,7,MuhDen_BH(Tsiz),Muhasebe ve Denetim Tezsiz Bilimsel Hazırlık Programı
+244,7,MuhDen_YL(Tsiz),Muhasebe ve Denetim Tezsiz Yüksek Lisans Programı
+245,7,ÖzHuk_DR_BH,Özel Hukuk Doktora Bilimsel Hazırlık Programı
+246,7,ÖzHuk_DR,Özel Hukuk Doktora Programı
+247,7,ÖzHuk_BH(Tsiz),Özel Hukuk Tezsiz Bilimsel Hazırlık Programı
+248,7,ÖzHuk_YL(Tsiz),Özel Hukuk Tezsiz Yüksek Lisans Programı
+249,7,ÖzlÖğrSBE_BH,Özel Öğrenci (SBE) Doktora Bilimsel Hazırlık Programı
+250,7,ÖzlÖğrSBE_DR,Özel Öğrenci (SBE) Doktora Programı
+251,7,ÖzlÖğrSBE_BH(Tsiz),Özel Öğrenci (SBE) Tezsiz Bilimsel Hazırlık Programı
+252,7,ÖzlÖğrSBE_YL(Tsiz),Özel Öğrenci (SBE) Tezsiz Yüksek Lisans Programı
+253,7,RehPsiDan_YL(Tsiz)_Brs,Rehberlik ve Psikolojik Danışmanlık (Bursa) Tezsiz Yüksek Lisans Programı
+254,7,RehPsiDan_BH(Tsiz),Rehberlik ve Psikolojik Danışmanlık Tezsiz Bilimsel Hazırlık Programı
+255,7,RehPsiDan_YL(Tsiz),Rehberlik ve Psikolojik Danışmanlık Tezsiz Yüksek Lisans Programı
+256,14,SigRiskY_B,Sirta ve Risk Yönetimi Tezli Bilimsel Hazırlık Programı
+257,14,SigRiskY_B,Sirta ve Risk Yönetimi Tezsiz Bilimsel Hazırlık Programı
+258,14,SigRiskY_Y,Sirta ve Risk Yönetimi Tezsiz Yüksek Lisans Programı
+259,14,Sig_BH(Tsi,Sirtacılık Tezsiz Bilimsel Hazırlık Programı
+260,7,Turİşl_BH(Tli),Turizm İşletmeciliği Tezli Bilimsel Hazırlık Programı
+261,7,Turİşl_YL(Tli),Turizm İşletmeciliği Tezli Yüksek Lisans Programı
+262,7,Turİşl_BH(Tsiz),Turizm İşletmeciliği Tezsiz Bilimsel Hazırlık Programı
+263,7,Turİşl_YL(Tsiz),Turizm İşletmeciliği Tezsiz Yüksek Lisans Programı
+264,14,UlBanF_BH(Tli),Uluslararası Bankacılık ve Finans Tezli Bilimsel Hazırlık Programı
+265,14,UlBanF_YL(Tli),Uluslararası Bankacılık ve Finans Tezli Yüksek Lisans Programı
+266,14,UlBanF_BH(Tsiz),Uluslararası Bankacılık ve Finans Tezsiz Bilimsel Hazırlık Programı
+267,14,UlBanF_YL(Tsiz),Uluslararası Bankacılık ve Finans Tezsiz Yüksek Lisans Programı
+268,7,Uli_BH(Tli),Uluslararası İlişkiler Tezli Bilimsel Hazırlık Programı
+269,7,Uli_BH(Tsiz),Uluslararası İlişkiler Tezsiz Bilimsel Hazırlık Programı
+270,7,Uli_YL(Tsiz),Uluslararası İlişkiler Tezsiz Yüksek Lisans Programı
+271,7,Ulİşl_BH(Tli),Uluslararası İşletme Tezli Bilimsel Hazırlık Programı
+272,7,Ulİşl_Yl(Tli),Uluslararası İşletme Tezli Yüksek Lisans Programı
+273,7,Ulİşl_BH(Tsiz),Uluslararası İşletme Tezsiz Bilimsel Hazırlık Programı
+274,7,Ulİşl_YL(Tsiz),Uluslararası İşletme Tezsiz Yüksek Lisans Programı
+275,7,UlTic_DR_BH,Uluslararası Ticaret (SBE) Doktora Bilimsel Hazırlık Programı
+276,7,UlTic_BH(Tli),Uluslararası Ticaret (SBE) Tezli Bilimsel Hazırlık Programı
+277,7,UlTic_BH(Tsiz),Uluslararası Ticaret (SBE) Tezsiz Bilimsel Hazırlık Programı
+278,7,UlTic_YL(Tsiz),Uluslararası Ticaret (SBE) Tezsiz Yüksek Lisans Programı
+279,9,UlTicHukAB_BH(Tli),Uluslararası Ticaret Hukuku ve Avrupa Birliği Tezli Bilimsel Hazırlık Programı
+280,9,UlTicHukAB_BH(Tsiz),Uluslararası Ticaret Hukuku ve Avrupa Birliği Tezsiz Bilimsel Hazırlık Programı
+281,9,UlTicHukAB_YL(Tsiz),Uluslararası Ticaret Hukuku ve Avrupa Birliği Tezsiz Yüksek Lisans Programı
+282,9,UlTicABHuk_DR_BH,Uluslararası Ticaret ve Avrupa Birliği Hukuku Doktora Bilimsel Hazırlık Programı
+283,7,UygPsi_YL(Tsiz)_Brs,Uygulamalı Psikoloji (Bursa) Tezsiz Yüksek Lisans Programı
+284,7,UygPsi_BH(Tsiz),Uygulamalı Psikoloji Tezsiz Bilimsel Hazırlık Programı
+285,7,UygSos_BH(Tli),Uygulamalı Sosyoloji Tezli Bilimsel Hazırlık Programı
+286,7,UygSos_YL(Tli),Uygulamalı Sosyoloji Tezli Yüksek Lisans Programı
+287,7,UygSos_BH(Tsiz),Uygulamalı Sosyoloji Tezsiz Bilimsel Hazırlık Programı
+288,7,UygSos_YL(Tsiz),Uygulamalı Sosyoloji Tezsiz Yüksek Lisans Programı
+289,1,İkt_L,İktisat Lisans Programı
+290,4,SiyBUlİ_L,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı
+291,10,Turİşl_L(UBF),Turizm İşletmeciliği (UBF) Lisans Programı
+292,4,PedFor_Y,Pedajik Formasyon Yaz Programı
+293,7,İşl_YL_BH(Tsiz)_Brs,İşletme (Bursa) Tezsiz Bilimsel Hazırlık Programı
+294,7,RehPsiDan_BH(Tsiz)_Brs,Rehberlik ve Psikolojik Danışmanlık (Bursa) Tezsiz Bilimsel Hazırlık Programı
+295,4,PedFor_G,Pedajik Formasyon Güz Programı
+296,4,PedFor_B,Pedajik Formasyon Bahar Programı
+297,13,EkYbnDil,Ek Yabancı Diller
+298,13,L5,Level 5
+299,14,SRYD,Sirta ve Risk Yönetimi Doktora Programı
+300,7,RSMİT_YL(Tli),Reklam ve Stratejik Marka İletişimi Tezli Yüksek Lisans Programı
+301,7,RSMİY_YL(Tsiz),Reklam ve Stratejik Marka İletişimi Tezsiz Yüksek Lisans Programı
+302,2,REK_L,Reklamcılık Lisans Programı
+303,14,Bank_YL(Tsiz),Bankacılık Tezsiz Yüksek Lisans Programı
+304,14,SermPiys_YL(Tsiz),Sermaye Piyasası Tezsiz Yüksek Lisans Programı
+305,8,İst_DR,İstatistik Doktora Programı
+306,7,"SanPolTekYön_YL(Tli),",Sanayi Politikaları ve Teknoloji Yönetimi Tezli Yüksek Lisans Programı
+307,7,SanPolTekYön_YL(Tsiz),Sanayi Politikaları ve Teknoloji Yönetimi Tezsiz Yüksek Lisans Programı
+308,7,"SanPolTekYön_BH(Tli),",Sanayi Politikaları ve Teknoloji Yönetimi Tezli Bilimesl Hazırlık Yüksek Lisans Programı
+309,7,"SanPolTekYön_BH(Tsiz),",Sanayi Politikaları ve Teknoloji Yönetimi Tezsiz Bilimsel Hazırlık Yüksek Lisans Programı
+310,7,"",Sinema Tezli Yüksek Lisans Programı
+311,7,"",Sinema Tezsiz Yüksek Lisans Programı
+313,1,TUR-OTE-YÖN_İŞL,Turizm ve Otel Yöneticiliği Bölümü
+314,1,HVC_İŞL,Havacılık Yönetimi Bölümü
+315,1,ULS-LOJ_İŞL,Uluslararası Lojistik Bölümü
+316,2,H-İ-R_İLET,Halkla İlişkiler ve Reklamcılık Bölümü
+318,3,İNŞA_MÜH,İnşaat Mühendisliği Bölümü
+319,8,Ken.Sis.Ulş.Yön.Tli.YL,Kentsel Sistemler ve Ulaştırma Yönetimi Tezli Yüksek Lisans Programı
+320,8,Ken.Sis.Ulş.Yön.Tsiz.YL,Kentsel Sistemler ve Ulaştırma Yönetimi Tezsiz Yüksek Lisans Programı
